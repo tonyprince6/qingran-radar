@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import Sidebar from './components/Sidebar'
 import TrendChart from './components/TrendChart'
 import AnalysisPanel from './components/AnalysisPanel'
@@ -19,6 +19,8 @@ const PAGE_META = {
   ideas: ['选题库', '管理待拍、已拍和待发布的减脂选题'],
   tasks: ['采集任务', '查看自动采集配置、运行状态与历史记录'],
 }
+
+const AUTO_REFRESH_MS = 60_000
 
 function topicFromVideo(video, index = 0) {
   return {
@@ -88,40 +90,70 @@ export default function App() {
   const [selectedVideo, setSelectedVideo] = useState(null)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [toast, setToast] = useState('')
+  const lastCapturedAtRef = useRef('')
   const activeTopic = useMemo(() => topics.find(topic => topic.id === topicId) ?? topics[0], [topicId, topics])
   const videos = data?.videos ?? []
   const keywords = data?.keywords ?? ['减脂', '减肥', '体重管理']
   const [pageTitle, pageDescription] = PAGE_META[activeNav]
 
-  const showToast = message => {
+  const showToast = useCallback(message => {
     setToast(message)
     window.setTimeout(() => setToast(''), 2400)
-  }
+  }, [])
 
-  const applyData = result => {
+  const applyData = useCallback(result => {
+    lastCapturedAtRef.current = result.data.source.capturedAt
     setData(result.data)
     setTopics(result.topics)
     setTopicId(current => result.topics.some(topic => topic.id === current) ? current : result.topics[0].id)
     const captured = new Date(result.data.source.capturedAt)
     setUpdated(`抖音数据 · ${captured.toLocaleString('zh-CN', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}`)
     setSourceSummary(`${result.data.source.name} · ${result.data.keywords.length} 个关键词 · ${result.data.videos.length} 条关联视频`)
-  }
+  }, [])
 
   useEffect(() => {
     let active = true
-    loadDouyinData().then(result => {
-      if (active) applyData(result)
-    }).catch(() => {
-      if (active) setUpdated('抖音数据读取失败 · 已显示演示数据')
-    })
-    return () => { active = false }
-  }, [])
+    let refreshing = false
+    const refresh = async () => {
+      if (refreshing) return
+      refreshing = true
+      try {
+        const result = await loadDouyinData({ cacheBust: true })
+        if (!active) return
+        const previousCapturedAt = lastCapturedAtRef.current
+        if (result.data.source.capturedAt !== previousCapturedAt) {
+          applyData(result)
+          if (previousCapturedAt) showToast(`已自动同步：${result.data.videos.length} 条抖音关联视频`)
+        }
+      } catch {
+        if (active && !lastCapturedAtRef.current) setUpdated('抖音数据读取失败 · 已显示演示数据')
+      } finally {
+        refreshing = false
+      }
+    }
+
+    refresh()
+    const intervalId = window.setInterval(refresh, AUTO_REFRESH_MS)
+    const refreshOnFocus = () => refresh()
+    const refreshOnVisible = () => {
+      if (!document.hidden) refresh()
+    }
+    window.addEventListener('focus', refreshOnFocus)
+    document.addEventListener('visibilitychange', refreshOnVisible)
+
+    return () => {
+      active = false
+      window.clearInterval(intervalId)
+      window.removeEventListener('focus', refreshOnFocus)
+      document.removeEventListener('visibilitychange', refreshOnVisible)
+    }
+  }, [applyData, showToast])
 
   const collect = async () => {
     if (collecting) return
     setCollecting(true)
     try {
-      const result = await loadDouyinData()
+      const result = await loadDouyinData({ cacheBust: true })
       applyData(result)
       showToast(`同步完成：${result.data.videos.length} 条抖音关联视频`)
     } catch {
@@ -156,7 +188,7 @@ export default function App() {
     <main>
       <header className="topbar">
         <div><h1>{pageTitle}</h1><p>{pageDescription}</p><span className="source-summary">{sourceSummary}</span></div>
-        <div className="top-actions"><span className="updated"><Icon name="clock" size={18}/>{updated}</span><button className="collect-button" onClick={collect} disabled={collecting}><Icon name="refresh" size={18}/>{collecting ? '正在采集…' : '立即采集'}</button></div>
+        <div className="top-actions"><span className="updated"><Icon name="clock" size={18}/>{updated}<small>每分钟自动刷新</small></span><button className="collect-button" onClick={collect} disabled={collecting}><Icon name="refresh" size={18}/>{collecting ? '正在采集…' : '立即采集'}</button></div>
       </header>
       {pageContent}
     </main>

@@ -36,6 +36,7 @@ main { min-width: 0; padding: 0 28px 26px; }
 .source-summary { display: block; margin-top: 7px; color: #208963; font-size: 11px; font-weight: 650; }
 .top-actions { display: flex; align-items: center; gap: 28px; }
 .updated { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; white-space: nowrap; }
+.updated small { padding-left: 8px; border-left: 1px solid #dce2e9; color: #26906b; font-size: 9px; font-weight: 700; }
 .collect-button { display: flex; align-items: center; gap: 8px; height: 45px; padding: 0 20px; border: 0; border-radius: 8px; background: var(--accent); color: #fff; font-weight: 700; box-shadow: 0 9px 20px rgba(255,70,80,.2); cursor: pointer; }
 .collect-button:hover { background: #ed3742; transform: translateY(-1px); }
 .workspace { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(385px, 1fr); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }

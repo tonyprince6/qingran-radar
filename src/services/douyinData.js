@@ -51,8 +51,9 @@ export function buildTopics(data) {
   })
 }
 
-export async function loadDouyinData() {
-  const response = await fetch('./data/douyin.json', { cache: 'no-store' })
+export async function loadDouyinData({ cacheBust = false } = {}) {
+  const suffix = cacheBust ? `?refresh=${Date.now()}` : ''
+  const response = await fetch(`./data/douyin.json${suffix}`, { cache: 'no-store' })
   if (!response.ok) throw new Error('抖音数据快照读取失败')
   const data = await response.json()
   return { data, topics: buildTopics(data) }
