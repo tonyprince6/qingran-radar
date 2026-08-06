@@ -7,6 +7,7 @@ trap 'rm -rf "$publish_dir"' EXIT
 
 pnpm --dir "$project_dir" run build
 cp -R "$project_dir/dist/." "$publish_dir/"
+touch "$publish_dir/.nojekyll"
 
 remote_url="$(git -C "$project_dir" remote get-url origin)"
 author_name="$(git -C "$project_dir" config user.name)"
