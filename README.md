@@ -17,4 +17,10 @@ pnpm build
 
 数据快照位于 `public/data/douyin.json`。数据来源为抖音创作者中心，采集需要有效登录状态，并遵守平台访问限制；程序不会绕过验证码或风控。
 
-推送到 `main` 后，GitHub Actions 会自动构建并发布到 GitHub Pages。
+发布到 GitHub Pages：
+
+```bash
+./scripts/publish-pages.sh
+```
+
+脚本会生成生产包并更新专用的 `gh-pages` 分支。定时采集任务在数据快照更新后调用这个脚本，让公网网站同步刷新。
