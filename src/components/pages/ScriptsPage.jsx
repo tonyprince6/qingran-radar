@@ -49,7 +49,7 @@ export default function ScriptsPage({ videos, initialVideo, onNotify }) {
       </button>)}
     </aside>
     <section className="page-panel script-editor">
-      <div className="editor-heading"><div><span>{selected?.hookType ?? '等待数据'}</span><h2>{selected?.title.replace(/\s#.+$/, '') ?? '暂无可拆解样本'}</h2></div><div><button className="secondary-action" onClick={copy} disabled={!selected}><Icon name="copy" size={17}/>复制</button><button className="primary-action" onClick={save} disabled={!selected}><Icon name="check" size={17}/>保存脚本</button></div></div>
+      <div className="editor-heading"><div><span>{selected?.hookType ?? '等待数据'}</span><h2>{selected?.title.replace(/\s#.+$/, '') ?? '暂无可拆解样本'}</h2></div><div>{selected?.videoUrl ? <a className="secondary-action" href={selected.videoUrl} target="_blank" rel="noreferrer"><Icon name="external" size={17}/>原视频</a> : null}<button className="secondary-action" onClick={copy} disabled={!selected}><Icon name="copy" size={17}/>复制</button><button className="primary-action" onClick={save} disabled={!selected}><Icon name="check" size={17}/>保存脚本</button></div></div>
       <div className="editor-sections">
         {[['hook','0–3 秒','爆点开头'],['pain','4–12 秒','痛点放大'],['method','13–28 秒','方法演示'],['close','29–36 秒','结果回收']].map(([field,time,label]) => <label key={field} className="editor-block"><span><b>{time}</b>{label}</span><textarea rows={field === 'hook' ? 2 : 3} value={draft[field]} onChange={event => update(field, event.target.value)}/><small>{draft[field].length} 字</small></label>)}
       </div>
