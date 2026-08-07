@@ -188,7 +188,11 @@ export default function App() {
     <main>
       <header className="topbar">
         <div><h1>{pageTitle}</h1><p>{pageDescription}</p><span className="source-summary">{sourceSummary}</span></div>
-        <div className="top-actions"><span className="updated"><Icon name="clock" size={18}/>{updated}<small>每分钟自动刷新</small></span><button className="collect-button" onClick={collect} disabled={collecting}><Icon name="refresh" size={18}/>{collecting ? '正在采集…' : '立即采集'}</button></div>
+        <div className="top-actions">
+          <span className="updated"><Icon name="clock" size={18}/>{updated}<small>每分钟自动刷新</small></span>
+          <button className="api-config-button" onClick={() => setSettingsOpen(true)}><Icon name="settings" size={17}/>API 配置</button>
+          <button className="collect-button" onClick={collect} disabled={collecting}><Icon name="refresh" size={18}/>{collecting ? '正在采集…' : '立即采集'}</button>
+        </div>
       </header>
       {pageContent}
     </main>
