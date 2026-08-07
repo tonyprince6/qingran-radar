@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T04:17:35+08:00",
-    "engagementCapturedAt": "2026-08-07T23:18:58.924+00:00",
+    "engagementCapturedAt": "2026-08-07T23:37:34.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -76,14 +76,21 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:18:58.924+00:00",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 1,
+      "likeCount": 2,
       "commentCount": 0,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:18:58.924+00:00"
+        "engagementCapturedAt": "2026-08-07T23:37:34.000Z"
       }
     },
     {
