@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T00:17:58+08:00",
-    "engagementCapturedAt": "2026-08-08T01:58:21+08:00",
+    "engagementCapturedAt": "2026-08-08T02:20:40+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,7 +55,19 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 1,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "title": "百日减脂计划 Day1天，天塌了，吃了一顿烤肉胖了3.7斤，第一天也是执行下来了，总体来说还可以，吃的也不错，继续努力#减脂#减肥 #体重管",
@@ -76,7 +88,20 @@
         "主体：展开饮食、习惯或体重管理方法",
         "收束：给出可执行的减脂提醒或行动点"
       ],
-      "rank": 2
+      "rank": 2,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 10,
+      "commentCount": 6,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "title": "#自用好物分享 #咖啡 #减肥 #减脂 #体重管理",
@@ -97,7 +122,19 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 3,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 1
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -160,7 +197,19 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 6,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 4,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "title": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。 #健康减肥 #减脂干货",
@@ -181,7 +230,19 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 7,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 1,
+      "commentCount": 2,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "title": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当你体会到，就再也不想摆烂。 #减肥 #减",
@@ -202,7 +263,19 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 8,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "likeCount": 7,
+      "commentCount": 1,
+      "favoriteCount": 1,
+      "shareCount": 0
     },
     {
       "rank": 9,
@@ -272,13 +345,19 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 0,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "shareCount": 0
     },
     {
       "title": "90斤的人一天都吃什么？ 太辣了！#减肥 #减脂 #vlog美食记 #瘦子饮食习惯 #生活化体重管理",
@@ -633,13 +712,19 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "shareCount": 0
     },
     {
       "rank": 27,
@@ -751,6 +836,13 @@
           "commentCount": 11,
           "favoriteCount": 12,
           "shareCount": 16
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 17,
+          "commentCount": 11,
+          "favoriteCount": 12,
+          "shareCount": 16
         }
       ],
       "likeCount": 17,
@@ -826,6 +918,13 @@
         {
           "capturedAt": "2026-08-08T00:17:31+08:00",
           "likeCount": 20,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 21,
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 4
@@ -907,13 +1006,19 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
       "commentCount": 3,
       "favoriteCount": 0,
-      "shareCount": 0,
-      "lastMetricError": "One or more main video action-area counts were not visible."
+      "shareCount": 0
     },
     {
       "rank": 31,
@@ -997,6 +1102,13 @@
           "commentCount": 1,
           "favoriteCount": 8,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 26,
+          "commentCount": 1,
+          "favoriteCount": 9,
+          "shareCount": 6
         }
       ],
       "likeCount": 26,
@@ -1015,10 +1127,10 @@
       "videoUrl": "https://www.douyin.com/video/7671188113348449125",
       "coverUrl": null,
       "duration": "00:59",
-      "likeCount": 54,
+      "likeCount": 77,
       "commentCount": 2,
-      "favoriteCount": 76,
-      "shareCount": 7,
+      "favoriteCount": 120,
+      "shareCount": 9,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T16:20:00+08:00",
@@ -1110,6 +1222,13 @@
           "commentCount": 2,
           "favoriteCount": 8,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 54,
+          "commentCount": 2,
+          "favoriteCount": 76,
+          "shareCount": 7
         }
       ],
       "hook": "140到120需要多久？",
@@ -1173,8 +1292,8 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 67,
-      "commentCount": 35,
+      "likeCount": 70,
+      "commentCount": 37,
       "favoriteCount": 7,
       "shareCount": 4,
       "engagementHistory": [
@@ -1254,6 +1373,13 @@
           "commentCount": 34,
           "favoriteCount": 7,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 67,
+          "commentCount": 35,
+          "favoriteCount": 7,
+          "shareCount": 4
         }
       ],
       "hook": "减脂成功后还需要控制饮食吗？",
@@ -1298,7 +1424,7 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 121,
+      "likeCount": 122,
       "commentCount": 29,
       "favoriteCount": 15,
       "shareCount": 17,
@@ -1372,6 +1498,13 @@
           "commentCount": 29,
           "favoriteCount": 15,
           "shareCount": 15
+        },
+        {
+          "capturedAt": "2026-08-08T01:58:21+08:00",
+          "likeCount": 121,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 17
         }
       ],
       "hook": "减肥成功的人，十个有九个会变刻薄。",
