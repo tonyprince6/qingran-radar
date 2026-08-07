@@ -6,7 +6,7 @@ export default function AnalysisPanel({ topic, onPreview }) {
   const metricIcons = topic.metricIcons ?? ['heart', 'comment', 'bookmark']
   return (
     <section className="analysis-panel" aria-labelledby="sample-title">
-      <div className="panel-heading"><h2 id="sample-title">关联样本 01</h2><span>{topic.video?.publishedAt?.replace('2026年', '') ?? '时长 36s'}</span></div>
+      <div className="panel-heading"><h2 id="sample-title">实时热门话题圈 01</h2><span>{topic.video?.publishedAt?.replace('2026年', '') ?? '时长 36s'}</span></div>
       <div className="sample-top">
         <div className="video-cover">
           <img src="./assets/healthy-meal.png" alt="鸡胸肉谷物蔬菜减脂餐短视频封面" />
