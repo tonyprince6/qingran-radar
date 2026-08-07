@@ -2,18 +2,38 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-07T04:12:01+08:00",
+    "capturedAt": "2026-08-07T08:14:20+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
-      "period": "2026-07-04 ~ 2026-08-04",
-      "searchAverage": "148.3万",
-      "yearOverYear": "+29.65%",
-      "monthOverMonth": "+18.34%"
+      "period": "2026-07-05 ~ 2026-08-05",
+      "searchAverage": "149.1万",
+      "yearOverYear": "+29.81%",
+      "monthOverMonth": "+19.45%"
     }
   },
   "keywords": ["减脂", "减肥", "体重管理"],
   "videos": [
+    {
+      "title": "减肥别再断主食！很多人一直都做错了 #体重管理 #减脂不要断碳 #好好吃饭减脂 #碳水科普 #女性身材管理",
+      "publishedAt": "2026年8月7日 07:51",
+      "author": "Ashelly|铭菲营养",
+      "videoUrl": null,
+      "hook": "减肥别再断主食，很多人一直都做错了。",
+      "hookType": "反常识纠错",
+      "retention": "常见饮食误区 + 错误指认 + 正确吃碳方案悬念",
+      "scriptSegments": ["开场：否定断主食减肥法", "冲突：指出多数人的减脂误区", "主体：解释体重管理中的碳水安排"]
+    },
+    {
+      "title": "每天进步一点点 减脂",
+      "publishedAt": "2026年8月7日 07:55",
+      "author": "大强",
+      "videoUrl": null,
+      "hook": "每天进步一点点，持续减脂。",
+      "hookType": "日常打卡",
+      "retention": "低门槛目标 + 连续进步承诺 + 打卡陪伴感",
+      "scriptSegments": ["开场：提出每天进步一点点", "主体：围绕减脂的日常执行", "收束：强调持续行动"]
+    },
     {
       "title": "液断真的不适合我，应该不会再这样了，我觉得很不健康，饿的我实在太难受了，而且不噗噗，还是健康吃饭减肥好#小基数减肥 #减脂期饮食记录 #体重",
       "publishedAt": "2026年8月6日 23:51",
