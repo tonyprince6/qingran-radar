@@ -67,7 +67,10 @@
       "likeCount": 0,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "title": "百日减脂计划 Day1天，天塌了，吃了一顿烤肉胖了3.7斤，第一天也是执行下来了，总体来说还可以，吃的也不错，继续努力#减脂#减肥 #体重管",
@@ -101,7 +104,10 @@
       "likeCount": 10,
       "commentCount": 6,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "title": "#自用好物分享 #咖啡 #减肥 #减脂 #体重管理",
@@ -134,7 +140,8 @@
       "likeCount": 0,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 1
+      "shareCount": 1,
+      "lastMetricError": "主视频操作区未渲染，未更新互动值"
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -209,7 +216,10 @@
       "likeCount": 4,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "title": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。 #健康减肥 #减脂干货",
@@ -242,7 +252,10 @@
       "likeCount": 1,
       "commentCount": 2,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "title": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当你体会到，就再也不想摆烂。 #减肥 #减",
@@ -275,7 +288,8 @@
       "likeCount": 7,
       "commentCount": 1,
       "favoriteCount": 1,
-      "shareCount": 0
+      "shareCount": 0,
+      "lastMetricError": "主视频操作区未渲染，未更新互动值"
     },
     {
       "rank": 9,
@@ -357,7 +371,10 @@
       "likeCount": 0,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "title": "90斤的人一天都吃什么？ 太辣了！#减肥 #减脂 #vlog美食记 #瘦子饮食习惯 #生活化体重管理",
@@ -724,7 +741,10 @@
       "likeCount": 2,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "rank": 27,
@@ -850,7 +870,7 @@
       "favoriteCount": 12,
       "shareCount": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:58:21+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
@@ -923,6 +943,13 @@
           "shareCount": 4
         },
         {
+          "capturedAt": "2026-08-08T01:19:05.295+08:00",
+          "likeCount": 21,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 4
+        },
+        {
           "capturedAt": "2026-08-08T01:58:21+08:00",
           "likeCount": 21,
           "commentCount": 1,
@@ -935,7 +962,7 @@
       "favoriteCount": 6,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:19:05.295+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
@@ -1018,7 +1045,10 @@
       "likeCount": 3,
       "commentCount": 3,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+      }
     },
     {
       "rank": 31,
@@ -1104,6 +1134,13 @@
           "shareCount": 4
         },
         {
+          "capturedAt": "2026-08-08T01:19:05.295+08:00",
+          "likeCount": 26,
+          "commentCount": 1,
+          "favoriteCount": 9,
+          "shareCount": 6
+        },
+        {
           "capturedAt": "2026-08-08T01:58:21+08:00",
           "likeCount": 26,
           "commentCount": 1,
@@ -1116,7 +1153,7 @@
       "favoriteCount": 9,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:19:05.295+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
@@ -1129,7 +1166,7 @@
       "duration": "00:59",
       "likeCount": 77,
       "commentCount": 2,
-      "favoriteCount": 120,
+      "favoriteCount": 121,
       "shareCount": 9,
       "engagementHistory": [
         {
@@ -1224,6 +1261,13 @@
           "shareCount": 1
         },
         {
+          "capturedAt": "2026-08-08T01:19:05.295+08:00",
+          "likeCount": 77,
+          "commentCount": 2,
+          "favoriteCount": 120,
+          "shareCount": 9
+        },
+        {
           "capturedAt": "2026-08-08T01:58:21+08:00",
           "likeCount": 54,
           "commentCount": 2,
@@ -1240,7 +1284,7 @@
         "收束：关联体重管理方法"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:19:05.295+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
@@ -1293,7 +1337,7 @@
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
       "likeCount": 70,
-      "commentCount": 37,
+      "commentCount": 38,
       "favoriteCount": 7,
       "shareCount": 4,
       "engagementHistory": [
@@ -1375,6 +1419,13 @@
           "shareCount": 4
         },
         {
+          "capturedAt": "2026-08-08T01:19:05.295+08:00",
+          "likeCount": 70,
+          "commentCount": 37,
+          "favoriteCount": 7,
+          "shareCount": 4
+        },
+        {
           "capturedAt": "2026-08-08T01:58:21+08:00",
           "likeCount": 67,
           "commentCount": 35,
@@ -1391,7 +1442,7 @@
         "收束：提示减肥反弹风险"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:19:05.295+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
@@ -1427,7 +1478,7 @@
       "likeCount": 122,
       "commentCount": 29,
       "favoriteCount": 15,
-      "shareCount": 17,
+      "shareCount": 18,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T19:35:01+08:00",
@@ -1500,6 +1551,13 @@
           "shareCount": 15
         },
         {
+          "capturedAt": "2026-08-08T01:19:05.295+08:00",
+          "likeCount": 122,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 17
+        },
+        {
           "capturedAt": "2026-08-08T01:58:21+08:00",
           "likeCount": 121,
           "commentCount": 29,
@@ -1516,7 +1574,7 @@
         "收束：关联女生减脂经验"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:19:05.295+08:00"
+        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
       }
     },
     {
