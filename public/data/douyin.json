@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-07T20:16:38+08:00",
-    "engagementCapturedAt": "2026-08-07T23:58:16+08:00",
+    "engagementCapturedAt": "2026-08-08T00:17:31+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -83,13 +83,19 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:58:16+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0,
-      "lastMetricError": "主视频操作区未完整呈现，未更新互动值（2026-08-07T23:58:16+08:00）"
+      "shareCount": 0
     },
     {
       "rank": 2,
@@ -180,11 +186,18 @@
           "commentCount": 11,
           "favoriteCount": 10,
           "shareCount": 16
+        },
+        {
+          "capturedAt": "2026-08-07T23:58:16+08:00",
+          "likeCount": 16,
+          "commentCount": 11,
+          "favoriteCount": 10,
+          "shareCount": 16
         }
       ],
       "likeCount": 16,
       "commentCount": 11,
-      "favoriteCount": 10,
+      "favoriteCount": 11,
       "shareCount": 16
     },
     {
@@ -241,11 +254,18 @@
           "commentCount": 1,
           "favoriteCount": 5,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:58:16+08:00",
+          "likeCount": 20,
+          "commentCount": 1,
+          "favoriteCount": 5,
+          "shareCount": 4
         }
       ],
       "likeCount": 20,
       "commentCount": 1,
-      "favoriteCount": 5,
+      "favoriteCount": 6,
       "shareCount": 4
     },
     {
@@ -298,6 +318,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:58:16+08:00",
           "likeCount": 3,
           "commentCount": 3,
           "favoriteCount": 0,
@@ -398,9 +425,16 @@
           "commentCount": 0,
           "favoriteCount": 6,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:58:16+08:00",
+          "likeCount": 23,
+          "commentCount": 1,
+          "favoriteCount": 8,
+          "shareCount": 4
         }
       ],
-      "likeCount": 23,
+      "likeCount": 24,
       "commentCount": 1,
       "favoriteCount": 8,
       "shareCount": 4
