@@ -140,14 +140,21 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:11+08:00",
+          "likeCount": 3,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 2
         }
       ],
-      "likeCount": 3,
+      "likeCount": 4,
       "commentCount": 5,
       "favoriteCount": 4,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:11+08:00"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
       }
     },
     {
@@ -211,15 +218,22 @@
       "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 7,
-      "engagementHistory": [],
-      "likeCount": 7,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T05:17:34+08:00",
+          "likeCount": 7,
+          "commentCount": 1,
+          "favoriteCount": 3,
+          "shareCount": 5
+        }
+      ],
+      "likeCount": 10,
       "commentCount": 1,
-      "favoriteCount": 3,
+      "favoriteCount": 4,
       "shareCount": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:17:34+08:00"
-      },
-      "lastMetricError": "2026-08-08 interaction metrics unavailable: main video action area did not finish loading"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
+      }
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -624,6 +638,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:11+08:00",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
       "likeCount": 8,
@@ -631,7 +652,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:11+08:00"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
       }
     },
     {
@@ -1290,14 +1311,21 @@
           "commentCount": 11,
           "favoriteCount": 13,
           "shareCount": 18
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:11+08:00",
+          "likeCount": 19,
+          "commentCount": 11,
+          "favoriteCount": 13,
+          "shareCount": 18
         }
       ],
       "likeCount": 19,
       "commentCount": 11,
-      "favoriteCount": 13,
-      "shareCount": 18,
+      "favoriteCount": 14,
+      "shareCount": 19,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:11+08:00"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
       }
     },
     {
@@ -1410,14 +1438,21 @@
           "commentCount": 1,
           "favoriteCount": 8,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:11+08:00",
+          "likeCount": 23,
+          "commentCount": 1,
+          "favoriteCount": 8,
+          "shareCount": 4
         }
       ],
       "likeCount": 23,
       "commentCount": 1,
-      "favoriteCount": 8,
+      "favoriteCount": 9,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:11+08:00"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
       }
     },
     {
@@ -1650,14 +1685,21 @@
           "commentCount": 1,
           "favoriteCount": 11,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:11+08:00",
+          "likeCount": 27,
+          "commentCount": 1,
+          "favoriteCount": 11,
+          "shareCount": 7
         }
       ],
-      "likeCount": 27,
-      "commentCount": 1,
-      "favoriteCount": 11,
-      "shareCount": 7,
+      "likeCount": 39,
+      "commentCount": 3,
+      "favoriteCount": 17,
+      "shareCount": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:11+08:00"
+        "engagementCapturedAt": "2026-08-08T06:38:47+08:00"
       }
     },
     {
