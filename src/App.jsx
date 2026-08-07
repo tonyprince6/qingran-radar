@@ -168,6 +168,7 @@ export default function App() {
   const analyzeVideo = video => {
     setSelectedVideo(video)
     setActiveNav('scripts')
+    window.requestAnimationFrame(() => window.scrollTo(0, 0))
   }
 
   const saveSettings = settings => {

@@ -13,14 +13,13 @@ export default function TopicsPage({ videos, keywords, capturedAt, onAnalyze }) 
   const [query, setQuery] = useState('')
   const [keyword, setKeyword] = useState('全部')
   const [sortMode, setSortMode] = useState('growth24h')
-  const [selectedTitle, setSelectedTitle] = useState(videos[0]?.title ?? '')
 
   const filtered = useMemo(() => rankVideos(videos.filter(video => {
     const text = `${video.title} ${video.author}`
     return (keyword === '全部' || text.includes(keyword)) && text.toLowerCase().includes(query.trim().toLowerCase())
   }), sortMode, capturedAt), [videos, keyword, query, sortMode, capturedAt])
 
-  const selected = filtered.find(video => video.title === selectedTitle) ?? filtered[0]
+  const selected = filtered[0]
 
   return <div className="page-grid topics-page">
     <section className="page-panel topic-browser">
@@ -34,9 +33,9 @@ export default function TopicsPage({ videos, keywords, capturedAt, onAnalyze }) 
       <div className="video-table-head"><span>视频文案</span><span>作者</span><span>{sortMode === 'growth24h' ? '24h 速度 / 点赞' : '热度分 / 点赞'}</span><span>发布时间</span><span>来源</span></div>
       <div className="video-list">
         {filtered.map((video, index) => <div className={`video-row ${selected?.title === video.title ? 'selected' : ''}`} key={video.title}>
-          <button className="video-row-main" onClick={() => setSelectedTitle(video.title)}>
+          <button className="video-row-main" aria-label={`拆解视频：${video.title}`} onClick={() => onAnalyze(video)}>
             <span className="video-index">{String(index + 1).padStart(2, '0')}</span>
-            <span className="video-copy"><strong>{video.title}</strong><small>{video.hookType} · {video.retention}</small></span>
+            <span className="video-copy"><strong>{video.title}</strong><small>{video.hookType} · {video.retention} · 点击查看拆解</small></span>
             <span>{video.author}</span><span className="video-engagement">{hasEngagement(video) ? <><strong>{sortMode === 'growth24h' ? `${growth24hScore(video, capturedAt).toFixed(1)}/h` : engagementScore(video)}</strong><small>赞 {formatCount(video.likeCount)}{sortMode === 'growth24h' ? ` · ${growth24hMode(video, capturedAt)}` : ''}</small></> : <small>待采集</small>}</span><time>{video.publishedAt.replace('2026年', '')}</time>
           </button>
           {video.videoUrl ? <a className="video-source-link" href={video.videoUrl} target="_blank" rel="noreferrer" aria-label={`打开${video.author}的抖音原视频`}><Icon name="external" size={15}/>原视频</a> : <span className="video-source-missing">待补</span>}
