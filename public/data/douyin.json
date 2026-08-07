@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-07T20:16:38+08:00",
+    "capturedAt": "2026-08-08T00:17:58+08:00",
     "engagementCapturedAt": "2026-08-08T00:17:31+08:00",
     "window": "最近4小时",
     "index": {
@@ -25,8 +25,8 @@
       },
       "体重管理": {
         "period": "2026-07-05 ~ 2026-08-05",
-        "searchAverage": "9894",
-        "comprehensiveAverage": "1.3万"
+        "searchAverage": null,
+        "comprehensiveAverage": null
       }
     }
   },
@@ -37,7 +37,527 @@
   ],
   "videos": [
     {
-      "rank": 1,
+      "title": "胃口好大概是天生的 #减脂打卡日常 #减肥称体重 #体重管理日常",
+      "publishedAt": "2026年8月7日 21:19",
+      "author": "阿健🤏",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "胃口好大概是天生的",
+      "hookType": "减脂经验",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 1
+    },
+    {
+      "title": "百日减脂计划 Day1天，天塌了，吃了一顿烤肉胖了3.7斤，第一天也是执行下来了，总体来说还可以，吃的也不错，继续努力#减脂#减肥 #体重管",
+      "publishedAt": "2026年8月7日 21:03",
+      "author": "跟着浩减重",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "百日减脂计划 Day1天，天塌了，吃了一顿烤肉胖了3.7斤，第一天也是执行下来了，总体来说还可以，吃",
+      "hookType": "饮食方法",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 2
+    },
+    {
+      "title": "#自用好物分享 #咖啡 #减肥 #减脂 #体重管理",
+      "publishedAt": "2026年8月7日 21:01",
+      "author": "小君在这里（辣妈版）",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "减肥减脂咖啡好物分享",
+      "hookType": "减脂经验",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 3
+    },
+    {
+      "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
+      "publishedAt": "2026年8月7日 20:33",
+      "author": "张雒陪你自律",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "水果避坑，看懂糖分再下嘴",
+      "hookType": "避坑科普",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 4
+    },
+    {
+      "title": "大基数减脂实操方案，新手直接照做#健康减脂 #拒绝极端节食 #体重管理",
+      "publishedAt": "2026年8月7日 20:17",
+      "author": "体重管理鑫鑫",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "大基数减脂实操方案，新手直接照做",
+      "hookType": "减脂经验",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 5
+    },
+    {
+      "title": "亲测亲测！谁懂啊！减脂期吃馒头也能好好掉秤！ #减脂打卡 #体重管理 #减肥打卡记录 #瓶颈期怎么度过",
+      "publishedAt": "2026年8月7日 19:59",
+      "author": "赵小姐",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "亲测亲测！谁懂啊！减脂期吃馒头也能好好掉秤！",
+      "hookType": "饮食方法",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 6
+    },
+    {
+      "title": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。 #健康减肥 #减脂干货",
+      "publishedAt": "2026年8月7日 19:39",
+      "author": "营养师王卓-体重管理",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。",
+      "hookType": "避坑科普",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 7
+    },
+    {
+      "title": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当你体会到，就再也不想摆烂。 #减肥 #减",
+      "publishedAt": "2026年8月7日 19:37",
+      "author": "丹丹在减肥",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当",
+      "hookType": "减脂经验",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 8
+    },
+    {
+      "rank": 9,
+      "title": "维持体重很简单 吃吃减减就是最好的状态，我给你一个小技巧#健康饮食 #女生减脂必看 #养成正确的饮食习惯 #减肥 #身材管理",
+      "publishedAt": "2026年8月7日 18:54",
+      "author": "小王同学呀",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-08T23:40:52+08:00",
+      "lastLinkAttemptAt": "2026-08-07T23:40:52+08:00",
+      "hook": "维持体重很简单，吃吃减减就够了。",
+      "hookType": "维重小技巧",
+      "retention": "降低维重难度并承诺一个小技巧，鼓励用户继续看具体习惯。",
+      "scriptSegments": [
+        "开场：提出维持体重很简单",
+        "主体：解释吃吃减减的状态",
+        "收束：给出健康饮食小技巧"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "不敢相信，你不胖和你好瘦之间竟然差了20斤 #你不胖 #瘦子 #减肥 #生活化减脂 #体重管理",
+      "publishedAt": "2026年8月7日 18:32",
+      "author": "豆豆聊减脂",
+      "videoUrl": "https://www.douyin.com/video/7671235624209560390",
+      "coverUrl": null,
+      "duration": "02:50",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "nextLinkRetryAt": null,
+      "hook": "你不胖和你好瘦之间，竟然差20斤。",
+      "hookType": "认知反差",
+      "retention": "日常评价与20斤差距构成鲜明反差，激发了解生活化减脂方法的兴趣。",
+      "scriptSegments": [
+        "开场：对比你不胖与好瘦的20斤差距",
+        "主体：讨论减肥与生活化减脂",
+        "收束：回到体重管理"
+      ],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-07T22:18:52+08:00",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
+    },
+    {
+      "title": "90斤的人一天都吃什么？ 太辣了！#减肥 #减脂 #vlog美食记 #瘦子饮食习惯 #生活化体重管理",
+      "publishedAt": "2026年8月7日 18:22",
+      "author": "月亮潘潇",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "90斤的人一天都吃什么？ 太辣了！",
+      "hookType": "饮食方法",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 11
+    },
+    {
+      "title": "怎么定适合你身体状态的减肥目标 减肥vs减重vs减脂#减肥#女性减肥#减重 #体重管理#身材管理",
+      "publishedAt": "2026年8月7日 18:19",
+      "author": "内啡钛",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "怎么定适合你身体状态的减肥目标 减肥vs减重vs减脂",
+      "hookType": "减脂经验",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 12
+    },
+    {
+      "title": "减脂期半夜饿了吃啥？你想吃啥？ #减肥大实话 #减肥 #减肥逆袭 #瘦瘦瘦 #体重管理",
+      "publishedAt": "2026年8月7日 18:14",
+      "author": "小霖子要瘦到160",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "减脂期半夜饿了吃啥？你想吃啥？",
+      "hookType": "饮食方法",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 13
+    },
+    {
+      "title": "为什么你减肥还越减越肥？ #减脂干货 #体重管理 #减肥避坑指南 #减脂正确思路 #瘦肚子最快的方法",
+      "publishedAt": "2026年8月7日 18:09",
+      "author": "知止慢养",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "为什么你减肥还越减越肥？",
+      "hookType": "避坑科普",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 14
+    },
+    {
+      "title": "减肥第一步：坚持这五个习惯 #减肥逆袭 #自律 #体重管理 #减脂期",
+      "publishedAt": "2026年8月7日 18:08",
+      "author": "瑞媛讲健康",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "减肥第一步：坚持这五个习惯",
+      "hookType": "打卡进度",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 15
+    },
+    {
+      "title": "减肥控糖十吃十不吃#生活化减脂 #正能量分享 #体重管理 #女性自律",
+      "publishedAt": "2026年8月7日 17:54",
+      "author": "张雒（洛）冠军干货分享",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "减肥控糖十吃十不吃",
+      "hookType": "饮食方法",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 16
+    },
+    {
+      "title": "没有人减淝是天天掉秤的，体重波浪式下降很正常#体重管理#身材管理#减肥#减脂#自律",
+      "publishedAt": "2026年8月7日 17:09",
+      "author": "鸿颜悦己双美（皮肤+身材）",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "没有人减淝是天天掉秤的，体重波浪式下降很正常",
+      "hookType": "成果数据",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 17
+    },
+    {
+      "title": "160➡️120，已瘦40斤，一条视频给你讲清楚降低体脂率的10个方法‼️#减肥#降低体脂率 #健康减脂 #体重管理 #产后减肥",
+      "publishedAt": "2026年8月7日 16:44",
+      "author": "大大咧咧的KK",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "160➡️120，已瘦40斤，一条视频给你讲清楚降低体脂率的10个方法‼️",
+      "hookType": "成果数据",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 18
+    },
+    {
+      "rank": 19,
+      "title": "减肥喝奶茶避坑指南 减脂期喝奶茶别乱点，这些坑一定要避开#减肥喝什么 #奶茶热量 #体重管理 #减脂小知识 #喝奶茶的正确方式",
+      "publishedAt": "2026年8月7日 12:58",
+      "author": "桂师傅-与食物做朋友",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 2,
+      "lastLinkAttemptAt": "2026-08-07T20:39:45+08:00",
+      "hook": "减脂期喝奶茶别乱点。",
+      "hookType": "饮品避坑",
+      "retention": "高频饮品场景加避坑承诺，吸引看正确点单方式。",
+      "scriptSegments": [
+        "开场：提醒减脂期奶茶避坑",
+        "主体：关联奶茶热量",
+        "收束：给出正确喝法"
+      ]
+    },
+    {
+      "title": "三伏天7个简单方法❗️掉秤翻倍❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
+      "publishedAt": "2026年8月7日 12:16",
+      "author": "大琳管理咨询",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "三伏天7个简单方法❗️掉秤翻倍❗️",
+      "hookType": "成果数据",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 20
+    },
+    {
+      "rank": 21,
+      "title": "饮食有序，生活拥有掌控拳#强烈推荐 #生活化减脂 #减脂一日三餐 #减肥饮食技巧 #体重管理",
+      "publishedAt": "2026年8月7日 12:16",
+      "author": "悦乐健康~英子",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-07T19:40:18+08:00",
+      "hook": "饮食有序，生活拥有掌控感。",
+      "hookType": "生活方式主张",
+      "retention": "把饮食秩序连接到生活掌控，形成认同感。",
+      "scriptSegments": [
+        "开场：强调饮食有序",
+        "主体：呈现生活化减脂三餐",
+        "收束：总结体重管理技巧"
+      ]
+    },
+    {
+      "title": "三伏天7个简单方法❗️掉秤翻倍❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
+      "publishedAt": "2026年8月7日 11:50",
+      "author": "大琳子管理咨询",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "三伏天7个简单方法❗️掉秤翻倍❗️",
+      "hookType": "成果数据",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 22
+    },
+    {
+      "title": "#减脂计划与脂肪死磕到底 #减肥",
+      "publishedAt": "2026年8月7日 09:50",
+      "author": "见过花开就好",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "hook": "",
+      "hookType": "打卡进度",
+      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
+      "scriptSegments": [
+        "开场：抛出标题中的减脂问题或结果",
+        "主体：展开饮食、习惯或体重管理方法",
+        "收束：给出可执行的减脂提醒或行动点"
+      ],
+      "rank": 23
+    },
+    {
+      "rank": 24,
+      "title": "蒸土豆从108到103#早餐日常 #体重管理早餐 #宝妈减肥饮食 #自律 #减脂",
+      "publishedAt": "2026年8月7日 09:18",
+      "author": "橘子少女🍊033",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "hook": "蒸土豆，从108到103。",
+      "hookType": "体重数字见证",
+      "retention": "食材和体重变化并列，增强饮食方法好奇。",
+      "scriptSegments": [
+        "开场：展示蒸土豆早餐",
+        "主体：给出108到103的变化",
+        "收束：关联宝妈减肥饮食"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "坚持身材管理，永远不会吃亏#日常分享 #生活化减脂 #减脂一日三餐 #减肥饮食技巧 #体重管理",
+      "publishedAt": "2026年8月7日 08:46",
+      "author": "悦乐健康~英子",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "hook": "坚持身材管理，永远不会吃亏。",
+      "hookType": "价值主张",
+      "retention": "正向结果承诺连接一日三餐与身材管理。",
+      "scriptSegments": [
+        "开场：提出身材管理价值",
+        "主体：分享生活化减脂三餐",
+        "收束：总结饮食技巧"
+      ]
+    },
+    {
+      "rank": 26,
       "title": "【减重40斤！56岁陈松伶花了四年时间做到】谈到减重，陈松伶在访问中提到她曾因虚胖和雌激素失调经历短暂“红利期”，迅速瘦了10公斤，但随后陷",
       "publishedAt": "2026年8月7日 20:04",
       "author": "香港文汇网",
@@ -98,7 +618,7 @@
       "shareCount": 0
     },
     {
-      "rank": 2,
+      "rank": 27,
       "title": "演员的自律～116斤的时候，导演要求一个星期瘦6斤#姜妍 #综艺节目 #姜妍二胖 #综艺名场面 #姜妍厨娘天花板",
       "publishedAt": "2026年8月7日 19:49",
       "author": "姜妍萌厨美食",
@@ -119,7 +639,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 28,
       "title": "9岁小朋友体重管理第19天啦 今天比昨天-0.8，小朋友也很有动力了 坚持调整饮食结构，吃瘦不饿瘦 #儿童如何吃减肥餐 #小学生减肥餐#营",
       "publishedAt": "2026年8月7日 19:14",
       "author": "依依 95年三娃妈妈",
@@ -201,7 +721,7 @@
       "shareCount": 16
     },
     {
-      "rank": 4,
+      "rank": 29,
       "title": "不打针不吃药6个月减了76斤我吃了啥 #真实生活分享计划 #减肥 #减脂餐 #体重管理 #吃瘦不饿瘦",
       "publishedAt": "2026年8月7日 19:05",
       "author": "丹君",
@@ -269,7 +789,7 @@
       "shareCount": 4
     },
     {
-      "rank": 5,
+      "rank": 30,
       "title": "全程只加速，剪掉嚼吧嚼吧的过程，欢迎跟吃～ #减肥 #减肥逆袭 #减肥日常vlog #减脂 #体重管理",
       "publishedAt": "2026年8月7日 19:01",
       "author": "散漫的粥",
@@ -337,7 +857,7 @@
       "shareCount": 0
     },
     {
-      "rank": 6,
+      "rank": 31,
       "title": "减脂期卡平台体重不掉掉维度#减脂期 #卡平台 #平台期 #体重管理 #减肥",
       "publishedAt": "2026年8月7日 18:58",
       "author": "阿热教练（减脂号）",
@@ -358,28 +878,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "维持体重很简单 吃吃减减就是最好的状态，我给你一个小技巧#健康饮食 #女生减脂必看 #养成正确的饮食习惯 #减肥 #身材管理",
-      "publishedAt": "2026年8月7日 18:54",
-      "author": "小王同学呀",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-08T23:40:52+08:00",
-      "lastLinkAttemptAt": "2026-08-07T23:40:52+08:00",
-      "hook": "维持体重很简单，吃吃减减就够了。",
-      "hookType": "维重小技巧",
-      "retention": "降低维重难度并承诺一个小技巧，鼓励用户继续看具体习惯。",
-      "scriptSegments": [
-        "开场：提出维持体重很简单",
-        "主体：解释吃吃减减的状态",
-        "收束：给出健康饮食小技巧"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 32,
       "title": "掏心窝的减肥大实话 #减肥逆袭 #变瘦变美变好看#体重管理 #自律 #减脂小知识",
       "publishedAt": "2026年8月7日 18:51",
       "author": "花花陪你瘦",
@@ -440,54 +939,7 @@
       "shareCount": 4
     },
     {
-      "rank": 9,
-      "title": "不敢相信，你不胖和你好瘦之间竟然差了20斤 #你不胖 #瘦子 #减肥 #生活化减脂 #体重管理",
-      "publishedAt": "2026年8月7日 18:32",
-      "author": "豆豆聊减脂",
-      "videoUrl": "https://www.douyin.com/video/7671235624209560390",
-      "coverUrl": null,
-      "duration": "02:50",
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "hook": "你不胖和你好瘦之间，竟然差20斤。",
-      "hookType": "认知反差",
-      "retention": "日常评价与20斤差距构成鲜明反差，激发了解生活化减脂方法的兴趣。",
-      "scriptSegments": [
-        "开场：对比你不胖与好瘦的20斤差距",
-        "主体：讨论减肥与生活化减脂",
-        "收束：回到体重管理"
-      ],
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-07T22:18:52+08:00",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-07T23:17:29+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:37:06+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 0,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0
-    },
-    {
-      "rank": 1,
+      "rank": 33,
       "title": "140到120需要多久呢？这个视频就告诉你你。#居家减脂日常 #体重管理 #140斤瘦到120斤的方法 #每日减肥训练",
       "publishedAt": "2026年8月7日 15:27",
       "author": "秀秀老师讲运动康复",
@@ -594,7 +1046,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 34,
       "title": "云南减肥人集合，这八种食物一定要少吃甚至不吃 #减肥 #昆明减重代谢手术 #体重管理 #逆袭 #减脂",
       "publishedAt": "2026年8月7日 15:17",
       "author": "减重代谢李晓刚博士",
@@ -613,7 +1065,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 35,
       "title": "坚持每天打卡绝不断更💪 #减脂餐 #减肥打卡日常 #减肥称体重 #体重管理记录 #减脂饮食分享",
       "publishedAt": "2026年8月7日 15:12",
       "author": "@以沫",
@@ -632,7 +1084,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 36,
       "title": "减脂成功后，还需要控制饮食吗？ #健身大白话 #减脂塑形 #体重管理 #减肥反弹 #减脂餐",
       "publishedAt": "2026年8月7日 13:43",
       "author": "陈同学（肌本思维）",
@@ -728,7 +1180,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 37,
       "title": "带娃减肉记：第几天已经记不清啦 小孩子减肉真的自带外挂buff，我属实羡慕哭了😭 跟娃三餐吃的一模一样，人家体重稳步往下掉，我却按几两再动",
       "publishedAt": "2026年8月7日 13:37",
       "author": "迪迪（运动塑形中~已甩38个)",
@@ -747,26 +1199,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "减肥喝奶茶避坑指南 减脂期喝奶茶别乱点，这些坑一定要避开#减肥喝什么 #奶茶热量 #体重管理 #减脂小知识 #喝奶茶的正确方式",
-      "publishedAt": "2026年8月7日 12:58",
-      "author": "桂师傅-与食物做朋友",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 2,
-      "lastLinkAttemptAt": "2026-08-07T20:39:45+08:00",
-      "hook": "减脂期喝奶茶别乱点。",
-      "hookType": "饮品避坑",
-      "retention": "高频饮品场景加避坑承诺，吸引看正确点单方式。",
-      "scriptSegments": [
-        "开场：提醒减脂期奶茶避坑",
-        "主体：关联奶茶热量",
-        "收束：给出正确喝法"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 38,
       "title": "减肥成功的人，10个有9个会变“刻薄”，我刚瘦下来的时候就遇到好多这种人#体重管理 #减脂经验分享 #女生减脂 #逆袭",
       "publishedAt": "2026年8月7日 12:44",
       "author": "大熊🐻（已减80）",
@@ -855,7 +1288,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 39,
       "title": "饿了就吃.... #减脂餐 #体重管理 #减脂日常打卡 #减肥经验分享",
       "publishedAt": "2026年8月7日 12:42",
       "author": "傻虎嗷嗷叫",
@@ -874,26 +1307,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "饮食有序，生活拥有掌控拳#强烈推荐 #生活化减脂 #减脂一日三餐 #减肥饮食技巧 #体重管理",
-      "publishedAt": "2026年8月7日 12:16",
-      "author": "悦乐健康~英子",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-07T19:40:18+08:00",
-      "hook": "饮食有序，生活拥有掌控感。",
-      "hookType": "生活方式主张",
-      "retention": "把饮食秩序连接到生活掌控，形成认同感。",
-      "scriptSegments": [
-        "开场：强调饮食有序",
-        "主体：呈现生活化减脂三餐",
-        "收束：总结体重管理技巧"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 40,
       "title": "#上热门话题榜🔥 #体重管理#减肥 #健康减脂",
       "publishedAt": "2026年8月7日 12:02",
       "author": "贵州龙里红“知书”",
@@ -908,175 +1322,6 @@
       "scriptSegments": [
         "开场：进入体重管理主题",
         "主体：围绕健康减脂展开"
-      ]
-    },
-    {
-      "rank": 11,
-      "title": "因为停止训练体重反弹了60斤 我要上班减脂 100期看看最后我能瘦多少斤！！#真实生活分享计划 #拳击 #减脂 #健身 #上热门",
-      "publishedAt": "2026年8月7日 11:54",
-      "author": "褪色",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "停止训练后反弹60斤，我要上班减脂100期。",
-      "hookType": "反弹挑战",
-      "retention": "60斤反弹数字与百期目标形成长期追更悬念。",
-      "scriptSegments": [
-        "开场：讲停止训练后的反弹",
-        "主体：设定上班减脂100期",
-        "收束：结合拳击和健身训练"
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "#减肥经验分享 #减脂经验分享 #体重管理 #想瘦的看过来 #减脂小技巧",
-      "publishedAt": "2026年8月7日 11:12",
-      "author": "浩哥哥 体重管理工厂",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "想瘦的看过来。",
-      "hookType": "人群召唤",
-      "retention": "直指想瘦人群，以小技巧承诺吸引停留。",
-      "scriptSegments": [
-        "开场：召唤想瘦人群",
-        "主体：分享减脂经验",
-        "收束：给出体重管理技巧"
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "减肥要坚持这3个习惯#好习惯#减肥#减脂#身材管理#体重管理",
-      "publishedAt": "2026年8月7日 10:47",
-      "author": "可可-自律版",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "减肥要坚持这三个习惯。",
-      "hookType": "数字清单",
-      "retention": "明确数量承诺，驱动用户等待三项习惯。",
-      "scriptSegments": [
-        "开场：提出三个习惯",
-        "主体：逐项关联减肥和减脂",
-        "收束：回到身材与体重管理"
-      ]
-    },
-    {
-      "rank": 14,
-      "title": "#爬楼梯减脂 #秋天的第一杯奶茶体#体重管理",
-      "publishedAt": "2026年8月7日 10:21",
-      "author": "兰心向暖.自律版",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "爬楼梯减脂。",
-      "hookType": "运动场景",
-      "retention": "低门槛爬楼运动场景适合跟练与打卡。",
-      "scriptSegments": [
-        "开场：展示爬楼梯减脂",
-        "主体：关联体重管理"
-      ]
-    },
-    {
-      "rank": 15,
-      "title": "蒸土豆从108到103#早餐日常 #体重管理早餐 #宝妈减肥饮食 #自律 #减脂",
-      "publishedAt": "2026年8月7日 09:18",
-      "author": "橘子少女🍊033",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "蒸土豆，从108到103。",
-      "hookType": "体重数字见证",
-      "retention": "食材和体重变化并列，增强饮食方法好奇。",
-      "scriptSegments": [
-        "开场：展示蒸土豆早餐",
-        "主体：给出108到103的变化",
-        "收束：关联宝妈减肥饮食"
-      ]
-    },
-    {
-      "rank": 16,
-      "title": "#健康生活减脂 #减肥打卡记录 #自律健康减脂 #体重管理 #健康减脂 不要焦虑好好善待自己",
-      "publishedAt": "2026年8月7日 09:13",
-      "author": "小静产后逆袭（已减2️⃣0️⃣巾）",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "健康减脂，不要焦虑，好好善待自己。",
-      "hookType": "情绪安抚",
-      "retention": "减脂焦虑共鸣配合自律打卡，带来陪伴感。",
-      "scriptSegments": [
-        "开场：安抚减脂焦虑",
-        "主体：记录健康减脂打卡",
-        "收束：强调自我善待"
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "减脂6个大坑！我都踩过！避雷啊啊啊啊 #女生成长 #女性减肥 #减脂认知误区 #减肥干货经验分享 #体重管理",
-      "publishedAt": "2026年8月7日 08:51",
-      "author": "大长腿Nini",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "减脂六个大坑，我都踩过。",
-      "hookType": "避坑清单",
-      "retention": "六个误区加亲历背书，推动逐项避雷。",
-      "scriptSegments": [
-        "开场：宣布六个减脂大坑",
-        "主体：分享女性减肥误区",
-        "收束：给出体重管理经验"
-      ]
-    },
-    {
-      "rank": 18,
-      "title": "坚持身材管理，永远不会吃亏#日常分享 #生活化减脂 #减脂一日三餐 #减肥饮食技巧 #体重管理",
-      "publishedAt": "2026年8月7日 08:46",
-      "author": "悦乐健康~英子",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "坚持身材管理，永远不会吃亏。",
-      "hookType": "价值主张",
-      "retention": "正向结果承诺连接一日三餐与身材管理。",
-      "scriptSegments": [
-        "开场：提出身材管理价值",
-        "主体：分享生活化减脂三餐",
-        "收束：总结饮食技巧"
-      ]
-    },
-    {
-      "rank": 19,
-      "title": "重新减肥的一天吃喝Vlog,day15#今天称体重 #吃瘦不饿瘦健康饮食 #体重管理 #瘦下来做最美的自己 #减脂打卡",
-      "publishedAt": "2026年8月7日 08:33",
-      "author": "Gwendolyn",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "重新减肥的一天吃喝Vlog，第15天。",
-      "hookType": "Vlog打卡",
-      "retention": "第15天连续记录与吃瘦不饿瘦理念带来追更。",
-      "scriptSegments": [
-        "开场：标明重新减肥第15天",
-        "主体：记录一天吃喝和称重",
-        "收束：强调健康饮食"
-      ]
-    },
-    {
-      "rank": 20,
-      "title": "#我要上热门 @DOU+小助手 💯营营同学 产后初始体重175斤‼️ 第一轮减30斤 🌈减脂第二轮第8月第1天体重145斤 第",
-      "publishedAt": "2026年8月7日 08:19",
-      "author": "营营同学",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "hook": "产后175斤，第一轮减30斤，第二轮从145斤开始。",
-      "hookType": "产后减重进度",
-      "retention": "初始体重、减重成果与第二轮新起点形成连续进展。",
-      "scriptSegments": [
-        "开场：给出产后初始体重",
-        "主体：复盘第一轮减30斤",
-        "收束：开启第二轮减脂记录"
       ]
     }
   ]
