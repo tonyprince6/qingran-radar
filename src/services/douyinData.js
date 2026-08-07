@@ -1,4 +1,5 @@
 import { topics as fallbackTopics } from '../data'
+import { engagementScore, formatCount, hasEngagement, rankByEngagement } from './engagement'
 
 const COLORS = ['#ff4650', '#ff8a2a', '#31bd87']
 function parseHour(value) {
@@ -17,8 +18,9 @@ export function buildTopics(data) {
 
   return data.keywords.map((keyword, index) => {
     const matching = data.videos.filter(video => `${video.title} ${video.author}`.includes(keyword))
-    const lead = matching.find(video => video.videoUrl && video.coverUrl)
-      ?? matching.find(video => video.videoUrl)
+    const ranked = rankByEngagement(matching)
+    const lead = ranked.find(video => video.videoUrl && hasEngagement(video))
+      ?? ranked.find(video => video.videoUrl)
       ?? matching[0]
       ?? data.videos[0]
     const isIndexKeyword = keyword === data.source.index.keyword
@@ -37,9 +39,13 @@ export function buildTopics(data) {
       title: lead.title.replace(/\s#.+$/, ''),
       hook: lead.hook,
       retention: lead.retention,
-      metrics: [`${count}条`, data.source.window, '已同步'],
-      metricLabels: ['关联视频', '采集窗口', '数据状态'],
-      metricIcons: ['script', 'clock', 'check'],
+      metrics: hasEngagement(lead)
+        ? [formatCount(lead.likeCount), formatCount(lead.commentCount), formatCount(lead.favoriteCount)]
+        : ['待采集', '待采集', '待采集'],
+      metricLabels: ['点赞', '评论', '收藏'],
+      metricIcons: ['heart', 'comment', 'bookmark'],
+      popularityScore: engagementScore(lead),
+      rankingBasis: hasEngagement(lead) ? '真实互动排序' : '等待互动数据',
       chart: buildBuckets(data.videos, keyword),
       xLabels: ['20:00', '21:00', '22:00', '23:00'],
       chartLabel: '关联视频新增量',
