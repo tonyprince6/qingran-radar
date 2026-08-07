@@ -87,8 +87,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
+      "linkAttempts": 2,
+      "lastLinkAttemptAt": "2026-08-08T05:48:35+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 2
@@ -108,8 +108,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
+      "linkAttempts": 2,
+      "lastLinkAttemptAt": "2026-08-08T05:48:35+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 3
@@ -165,8 +165,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
+      "linkAttempts": 2,
+      "lastLinkAttemptAt": "2026-08-08T05:48:35+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 5
@@ -186,8 +186,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
+      "linkAttempts": 2,
+      "lastLinkAttemptAt": "2026-08-08T05:48:35+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 6
