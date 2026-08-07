@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-07T20:16:38+08:00",
-    "engagementCapturedAt": "2026-08-07T23:37:06+08:00",
+    "engagementCapturedAt": "2026-08-07T23:58:16+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -88,7 +88,8 @@
       "likeCount": 2,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值（2026-08-07T23:58:16+08:00）"
     },
     {
       "rank": 2,
@@ -172,9 +173,16 @@
           "commentCount": 7,
           "favoriteCount": 9,
           "shareCount": 15
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 15,
+          "commentCount": 11,
+          "favoriteCount": 10,
+          "shareCount": 16
         }
       ],
-      "likeCount": 15,
+      "likeCount": 16,
       "commentCount": 11,
       "favoriteCount": 10,
       "shareCount": 16
@@ -226,9 +234,16 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 19,
+          "commentCount": 1,
+          "favoriteCount": 5,
+          "shareCount": 4
         }
       ],
-      "likeCount": 19,
+      "likeCount": 20,
       "commentCount": 1,
       "favoriteCount": 5,
       "shareCount": 4
@@ -276,6 +291,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
           "likeCount": 3,
           "commentCount": 3,
           "favoriteCount": 0,
@@ -369,11 +391,18 @@
           "commentCount": 0,
           "favoriteCount": 6,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 22,
+          "commentCount": 0,
+          "favoriteCount": 6,
+          "shareCount": 4
         }
       ],
-      "likeCount": 22,
-      "commentCount": 0,
-      "favoriteCount": 6,
+      "likeCount": 23,
+      "commentCount": 1,
+      "favoriteCount": 8,
       "shareCount": 4
     },
     {
@@ -405,6 +434,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -505,6 +541,13 @@
           "commentCount": 2,
           "favoriteCount": 7,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 22,
+          "commentCount": 2,
+          "favoriteCount": 8,
+          "shareCount": 1
         }
       ],
       "hook": "140到120需要多久？",
@@ -566,7 +609,7 @@
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
       "likeCount": 63,
-      "commentCount": 33,
+      "commentCount": 34,
       "favoriteCount": 7,
       "shareCount": 4,
       "engagementHistory": [
@@ -632,6 +675,13 @@
           "commentCount": 27,
           "favoriteCount": 7,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 63,
+          "commentCount": 33,
+          "favoriteCount": 7,
+          "shareCount": 4
         }
       ],
       "hook": "减脂成功后还需要控制饮食吗？",
@@ -692,7 +742,7 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 118,
+      "likeCount": 120,
       "commentCount": 29,
       "favoriteCount": 15,
       "shareCount": 15,
@@ -749,6 +799,13 @@
         {
           "capturedAt": "2026-08-07T23:17:29+08:00",
           "likeCount": 116,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 15
+        },
+        {
+          "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 118,
           "commentCount": 29,
           "favoriteCount": 15,
           "shareCount": 15
