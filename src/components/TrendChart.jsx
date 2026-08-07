@@ -1,5 +1,5 @@
 const WIDTH = 720
-const HEIGHT = 226
+const HEIGHT = 250
 const PAD_X = 38
 const PAD_Y = 18
 
