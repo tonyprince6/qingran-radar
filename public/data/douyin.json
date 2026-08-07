@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-07T16:20:00+08:00",
-    "engagementCapturedAt": "2026-08-07T16:20:00+08:00",
+    "engagementCapturedAt": "2026-08-07T18:36:44+08:00",
     "window": "最近4小时",
     "index": { "keyword": "减脂", "period": "2026-07-05 ~ 2026-08-05", "searchAverage": "149.1万", "yearOverYear": "+29.81%", "monthOverMonth": "+19.45%" },
     "indexes": {
@@ -14,7 +14,7 @@
   },
   "keywords": ["减脂", "减肥", "体重管理"],
   "videos": [
-    { "rank": 1, "title": "140到120需要多久呢？这个视频就告诉你你。#居家减脂日常 #体重管理 #140斤瘦到120斤的方法 #每日减肥训练", "publishedAt": "2026年8月7日 15:27", "author": "秀秀老师讲运动康复", "videoUrl": "https://www.douyin.com/video/7671188113348449125", "coverUrl": null, "duration": "00:59", "likeCount": 5, "commentCount": 1, "favoriteCount": null, "shareCount": null, "hook": "140到120需要多久？", "hookType": "减重目标提问", "retention": "明确体重区间与时间悬念，吸引用户继续看训练方法。", "scriptSegments": ["开场：提出140到120斤需要多久的问题", "主体：说明居家减脂与每日训练", "收束：关联体重管理方法"] },
+    { "rank": 1, "title": "140到120需要多久呢？这个视频就告诉你你。#居家减脂日常 #体重管理 #140斤瘦到120斤的方法 #每日减肥训练", "publishedAt": "2026年8月7日 15:27", "author": "秀秀老师讲运动康复", "videoUrl": "https://www.douyin.com/video/7671188113348449125", "coverUrl": null, "duration": "00:59", "likeCount": 20, "commentCount": 2, "favoriteCount": 7, "shareCount": null, "engagementHistory": [{ "capturedAt": "2026-08-07T16:20:00+08:00", "likeCount": 5, "commentCount": 1, "favoriteCount": null, "shareCount": null }], "hook": "140到120需要多久？", "hookType": "减重目标提问", "retention": "明确体重区间与时间悬念，吸引用户继续看训练方法。", "scriptSegments": ["开场：提出140到120斤需要多久的问题", "主体：说明居家减脂与每日训练", "收束：关联体重管理方法"] },
     { "rank": 2, "title": "云南减肥人集合，这八种食物一定要少吃甚至不吃 #减肥 #昆明减重代谢手术 #体重管理 #逆袭 #减脂", "publishedAt": "2026年8月7日 15:17", "author": "减重代谢李晓刚博士", "videoUrl": null, "coverUrl": null, "duration": null, "hook": "云南减肥人集合，这八种食物要少吃。", "hookType": "饮食避坑清单", "retention": "地域点名加八种食物清单，制造逐项揭晓。", "scriptSegments": ["开场：点名云南减肥人群", "主体：列出应少吃的食物", "收束：回到体重管理"] },
     { "rank": 3, "title": "坚持每天打卡绝不断更💪 #减脂餐 #减肥打卡日常 #减肥称体重 #体重管理记录 #减脂饮食分享", "publishedAt": "2026年8月7日 15:12", "author": "@以沫", "videoUrl": null, "coverUrl": null, "duration": null, "hook": "坚持每天打卡绝不断更。", "hookType": "打卡宣言", "retention": "连续更新承诺带来陪伴感和后续进展期待。", "scriptSegments": ["开场：宣布每日打卡", "主体：记录减脂餐和称重", "收束：分享减脂饮食"] },
     { "rank": 4, "title": "减脂成功后，还需要控制饮食吗？ #健身大白话 #减脂塑形 #体重管理 #减肥反弹 #减脂餐", "publishedAt": "2026年8月7日 13:43", "author": "陈同学（肌本思维）", "videoUrl": null, "coverUrl": null, "duration": null, "hook": "减脂成功后还需要控制饮食吗？", "hookType": "成功后提问", "retention": "成功后如何避免反弹的疑问推动继续观看。", "scriptSegments": ["开场：提出减脂成功后的饮食问题", "主体：讨论减脂塑形与体重管理", "收束：提示减肥反弹风险"] },
