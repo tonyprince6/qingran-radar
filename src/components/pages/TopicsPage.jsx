@@ -1,16 +1,24 @@
 import { useMemo, useState } from 'react'
 import { Icon } from '../Icons'
-import { engagementScore, formatCount, hasEngagement, rankByEngagement } from '../../services/engagement'
+import { engagementScore, formatCount, growth24hMode, growth24hScore, hasEngagement, rankVideos } from '../../services/engagement'
 
-export default function TopicsPage({ videos, keywords, onAnalyze }) {
+const SORT_OPTIONS = [
+  ['growth24h', '24h 增长'],
+  ['engagement', '综合热度'],
+  ['likes', '点赞最多'],
+  ['latest', '最新发布'],
+]
+
+export default function TopicsPage({ videos, keywords, capturedAt, onAnalyze }) {
   const [query, setQuery] = useState('')
   const [keyword, setKeyword] = useState('全部')
+  const [sortMode, setSortMode] = useState('growth24h')
   const [selectedTitle, setSelectedTitle] = useState(videos[0]?.title ?? '')
 
-  const filtered = useMemo(() => rankByEngagement(videos.filter(video => {
+  const filtered = useMemo(() => rankVideos(videos.filter(video => {
     const text = `${video.title} ${video.author}`
     return (keyword === '全部' || text.includes(keyword)) && text.toLowerCase().includes(query.trim().toLowerCase())
-  })), [videos, keyword, query])
+  }), sortMode, capturedAt), [videos, keyword, query, sortMode, capturedAt])
 
   const selected = filtered.find(video => video.title === selectedTitle) ?? filtered[0]
 
@@ -22,17 +30,18 @@ export default function TopicsPage({ videos, keywords, onAnalyze }) {
           {['全部', ...keywords].map(item => <button key={item} role="tab" aria-selected={keyword === item} className={keyword === item ? 'active' : ''} onClick={() => setKeyword(item)}>{item}</button>)}
         </div>
       </div>
-      <div className="video-table-head"><span>视频文案</span><span>作者</span><span>热度分 / 点赞</span><span>发布时间</span><span>来源</span></div>
+      <div className="sort-toolbar"><span>排序</span><div role="group" aria-label="视频排序方式">{SORT_OPTIONS.map(([id, label]) => <button key={id} className={sortMode === id ? 'active' : ''} aria-pressed={sortMode === id} onClick={() => setSortMode(id)}>{label}</button>)}</div><small>{sortMode === 'growth24h' ? '近 24 小时发布 · 加权互动/小时' : '基于当前采集快照'}</small></div>
+      <div className="video-table-head"><span>视频文案</span><span>作者</span><span>{sortMode === 'growth24h' ? '24h 速度 / 点赞' : '热度分 / 点赞'}</span><span>发布时间</span><span>来源</span></div>
       <div className="video-list">
         {filtered.map((video, index) => <div className={`video-row ${selected?.title === video.title ? 'selected' : ''}`} key={video.title}>
           <button className="video-row-main" onClick={() => setSelectedTitle(video.title)}>
             <span className="video-index">{String(index + 1).padStart(2, '0')}</span>
             <span className="video-copy"><strong>{video.title}</strong><small>{video.hookType} · {video.retention}</small></span>
-            <span>{video.author}</span><span className="video-engagement">{hasEngagement(video) ? <><strong>{engagementScore(video)}</strong><small>赞 {formatCount(video.likeCount)}</small></> : <small>待采集</small>}</span><time>{video.publishedAt.replace('2026年', '')}</time>
+            <span>{video.author}</span><span className="video-engagement">{hasEngagement(video) ? <><strong>{sortMode === 'growth24h' ? `${growth24hScore(video, capturedAt).toFixed(1)}/h` : engagementScore(video)}</strong><small>赞 {formatCount(video.likeCount)}{sortMode === 'growth24h' ? ` · ${growth24hMode(video, capturedAt)}` : ''}</small></> : <small>待采集</small>}</span><time>{video.publishedAt.replace('2026年', '')}</time>
           </button>
           {video.videoUrl ? <a className="video-source-link" href={video.videoUrl} target="_blank" rel="noreferrer" aria-label={`打开${video.author}的抖音原视频`}><Icon name="external" size={15}/>原视频</a> : <span className="video-source-missing">待补</span>}
         </div>)}
-        {filtered.length === 0 ? <div className="empty-state">没有匹配的视频，换个关键词试试。</div> : null}
+        {filtered.length === 0 ? <div className="empty-state">近 24 小时没有可计算增长速度的视频，换个筛选条件试试。</div> : null}
       </div>
     </section>
     <aside className="page-panel insight-rail">

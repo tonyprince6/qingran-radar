@@ -177,7 +177,7 @@ export default function App() {
   }
 
   let pageContent
-  if (activeNav === 'topics') pageContent = <TopicsPage videos={videos} keywords={keywords} onAnalyze={analyzeVideo}/>
+  if (activeNav === 'topics') pageContent = <TopicsPage videos={videos} keywords={keywords} capturedAt={data?.source?.capturedAt} onAnalyze={analyzeVideo}/>
   else if (activeNav === 'scripts') pageContent = <ScriptsPage videos={videos} initialVideo={selectedVideo} onNotify={showToast}/>
   else if (activeNav === 'ideas') pageContent = <IdeasPage videos={videos} onGenerate={openScript} onNotify={showToast}/>
   else if (activeNav === 'tasks') pageContent = <TasksPage data={data} collecting={collecting} onRun={collect}/>

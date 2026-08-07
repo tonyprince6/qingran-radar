@@ -132,6 +132,12 @@ blockquote { margin: 0; padding: 13px 15px; border: 1px solid #ffcfd2; border-ra
 .filter-tabs { display: flex; gap: 5px; }
 .filter-tabs button { height: 32px; padding: 0 11px; border: 1px solid transparent; border-radius: 6px; color: #69758a; background: transparent; cursor: pointer; font-size: 11px; }
 .filter-tabs button:hover, .filter-tabs button.active { border-color: #ffc6ca; color: var(--accent); background: var(--accent-soft); }
+.sort-toolbar { min-height: 48px; padding: 8px 20px; display: flex; align-items: center; gap: 11px; border-bottom: 1px solid var(--line); background: #fafbfd; }
+.sort-toolbar > span { color: #8290a2; font-size: 10px; font-weight: 700; }
+.sort-toolbar > div { display: flex; gap: 5px; }
+.sort-toolbar button { height: 28px; padding: 0 10px; border: 1px solid #dce3ea; border-radius: 7px; color: #607086; background: #fff; font-size: 10px; cursor: pointer; }
+.sort-toolbar button.active { border-color: #ffb9c0; color: #e52d40; background: #fff3f4; font-weight: 700; }
+.sort-toolbar small { margin-left: auto; color: #8a96a6; font-size: 9px; }
 .video-table-head { display: grid; grid-template-columns: minmax(0,1fr) 130px 84px 130px 80px; align-items: center; }
 .video-table-head { min-height: 38px; padding: 0 20px 0 66px; color: #8a94a6; font-size: 11px; border-bottom: 1px solid var(--line); }
 .video-row { position: relative; display: grid; grid-template-columns: minmax(0,1fr) 80px; align-items: center; width: 100%; min-height: 82px; border-bottom: 1px solid #edf0f4; color: #263149; background: #fff; }
@@ -334,6 +340,9 @@ blockquote { margin: 0; padding: 13px 15px; border: 1px solid #ffcfd2; border-ra
   .search-field { width: 100%; }
   .filter-tabs { overflow-x: auto; }
   .filter-tabs button { flex: 0 0 auto; }
+  .sort-toolbar { align-items: flex-start; overflow-x: auto; padding-inline: 14px; }
+  .sort-toolbar > div { flex: 0 0 auto; }
+  .sort-toolbar small { display: none; }
   .video-table-head { display: none; }
   .video-row { grid-template-columns: minmax(0,1fr) 72px; }
   .video-row-main { grid-template-columns: 1fr; gap: 7px; padding-left: 52px; }
