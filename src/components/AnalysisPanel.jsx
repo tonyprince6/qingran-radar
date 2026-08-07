@@ -4,14 +4,16 @@ import { Icon } from './Icons'
 export default function AnalysisPanel({ topic, onPreview }) {
   const metricLabels = topic.metricLabels ?? ['点赞', '评论', '收藏']
   const metricIcons = topic.metricIcons ?? ['heart', 'comment', 'bookmark']
+  const coverUrl = topic.video?.coverUrl
   return (
     <section className="analysis-panel" aria-labelledby="sample-title">
       <div className="panel-heading"><h2 id="sample-title">实时热门话题圈 01</h2><span>{topic.video?.publishedAt?.replace('2026年', '') ?? '时长 36s'}</span></div>
       <div className="sample-top">
         <div className="video-cover">
-          <img src="./assets/healthy-meal.png" alt="鸡胸肉谷物蔬菜减脂餐短视频封面" />
+          <div className="video-cover-fallback" aria-hidden="true"><span>01</span><strong>#{topic.name}</strong><small>实时热门样本</small></div>
+          {coverUrl ? <img key={coverUrl} src={coverUrl} alt={`${topic.title}的抖音视频封面`} referrerPolicy="no-referrer" onError={event => { event.currentTarget.hidden = true }}/>: null}
           <button className="play-button" aria-label="查看样本拆解" onClick={() => onPreview(topic)}><Icon name="play" size={26}/></button>
-          <span className="duration">00:36</span>
+          <span className="duration">{topic.video?.duration ?? '原视频'}</span>
         </div>
         <div className="sample-summary">
           <h3>{topic.title}</h3>

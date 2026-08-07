@@ -1,12 +1,6 @@
 import { topics as fallbackTopics } from '../data'
 
 const COLORS = ['#ff4650', '#ff8a2a', '#31bd87']
-const PREFERRED_HOOK_TYPES = {
-  减脂: '数字结果承诺',
-  减肥: '反常识归因',
-  体重管理: '痛点提问',
-}
-
 function parseHour(value) {
   const match = value.match(/\s(\d{1,2}):/)
   return match ? Number(match[1]) : null
@@ -23,7 +17,10 @@ export function buildTopics(data) {
 
   return data.keywords.map((keyword, index) => {
     const matching = data.videos.filter(video => `${video.title} ${video.author}`.includes(keyword))
-    const lead = matching.find(video => video.hookType === PREFERRED_HOOK_TYPES[keyword]) ?? matching[0] ?? data.videos[0]
+    const lead = matching.find(video => video.videoUrl && video.coverUrl)
+      ?? matching.find(video => video.videoUrl)
+      ?? matching[0]
+      ?? data.videos[0]
     const isIndexKeyword = keyword === data.source.index.keyword
     const count = matching.length
 
