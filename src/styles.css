@@ -152,6 +152,8 @@ blockquote { margin: 0; padding: 13px 15px; border: 1px solid #ffcfd2; border-ra
 .video-row-main .video-engagement { display: grid; gap: 3px; color: #657086; }
 .video-engagement strong { color: #eb3345; font-size: 12px; }
 .video-engagement small { color: #8a94a6; font-size: 9px; }
+.video-engagement.status-待匹配 strong, .video-engagement.status-匹配暂停 strong, .video-engagement.status-待采集 strong { color: #9a6a20; }
+.video-engagement.status-待匹配 small, .video-engagement.status-匹配暂停 small, .video-engagement.status-待采集 small { color: #a17636; }
 .video-source-link, .rail-source-link { display: inline-flex; align-items: center; justify-content: center; gap: 5px; color: var(--accent); font-size: 10px; font-weight: 700; text-decoration: none; }
 .video-source-link { height: 31px; margin-right: 12px; border: 1px solid #ffc3c8; border-radius: 5px; background: #fff; }
 .video-source-link:hover, .rail-source-link:hover { color: #e41f3a; }

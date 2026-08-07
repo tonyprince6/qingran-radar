@@ -14,6 +14,12 @@ function publishedTimestamp(value) {
   return new Date(year, month - 1, day, hour, minute).getTime()
 }
 
+export function isWithin24Hours(video, capturedAt) {
+  const published = publishedTimestamp(video?.publishedAt)
+  const captured = new Date(capturedAt).getTime()
+  return Number.isFinite(published) && Number.isFinite(captured) && captured >= published && captured - published <= 86_400_000
+}
+
 export function hasEngagement(video) {
   return ['likeCount', 'commentCount', 'favoriteCount', 'shareCount']
     .some(key => Number.isFinite(Number(video?.[key])))
@@ -65,6 +71,15 @@ export function growth24hMode(video, capturedAt) {
   return growth24hScore(video, capturedAt) >= 0 ? '估算' : ''
 }
 
+export function sampleCount(video) {
+  return (Array.isArray(video?.engagementHistory) ? video.engagementHistory.length : 0) + (hasEngagement(video) ? 1 : 0)
+}
+
+export function trackingStatus(video) {
+  if (!video?.videoUrl) return video?.linkMatchStatus === 'paused' || Number(video?.linkAttempts) >= 3 ? '匹配暂停' : '待匹配'
+  return hasEngagement(video) ? '跟踪中' : '待采集'
+}
+
 export function rankVideos(videos, mode = 'engagement', capturedAt = new Date().toISOString()) {
   const ranked = videos.map((video, index) => ({
     video,
@@ -73,6 +88,12 @@ export function rankVideos(videos, mode = 'engagement', capturedAt = new Date().
     growth: growth24hScore(video, capturedAt),
     published: publishedTimestamp(video.publishedAt),
   }))
+  if (mode === 'measured') return ranked.filter(item => growth24hMode(item.video, capturedAt) === '实测')
+    .sort((a, b) => b.growth - a.growth || b.engagement - a.engagement || a.index - b.index)
+    .map(item => item.video)
+  if (mode === 'coldStart') return ranked.filter(item => isWithin24Hours(item.video, capturedAt) && growth24hMode(item.video, capturedAt) !== '实测')
+    .sort((a, b) => b.growth - a.growth || b.published - a.published || a.index - b.index)
+    .map(item => item.video)
   if (mode === 'growth24h') return ranked.filter(item => item.growth >= 0)
     .sort((a, b) => b.growth - a.growth || b.engagement - a.engagement || a.index - b.index)
     .map(item => item.video)

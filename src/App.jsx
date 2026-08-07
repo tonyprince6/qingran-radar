@@ -13,7 +13,7 @@ import { topics as fallbackTopics } from './data'
 import { loadDouyinData } from './services/douyinData'
 
 const PAGE_META = {
-  overview: ['减脂内容雷达', '每 4 小时发现新话题，每 20 分钟刷新视频互动'],
+  overview: ['减脂内容雷达', '4 小时发现话题 · 1 小时补链 · 20 分钟刷新互动'],
   topics: ['热门话题', '搜索和筛选抖音真实关联视频'],
   scripts: ['脚本拆解', '把爆点样本改写成可以直接拍的四段脚本'],
   ideas: ['选题库', '管理待拍、已拍和待发布的减脂选题'],

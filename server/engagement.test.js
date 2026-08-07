@@ -1,6 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { engagementScore, formatCount, growth24hMode, growth24hScore, rankByEngagement, rankVideos } from '../src/services/engagement.js'
+import { engagementScore, formatCount, growth24hMode, growth24hScore, rankByEngagement, rankVideos, sampleCount, trackingStatus } from '../src/services/engagement.js'
 
 test('ranks videos by weighted real engagement and leaves missing data last', () => {
   const videos = [
@@ -40,4 +40,15 @@ test('uses a previous snapshot when measured 24 hour growth is available', () =>
   }
   assert.equal(growth24hScore(video, '2026-08-07T08:00:00+08:00'), 10)
   assert.equal(growth24hMode(video, '2026-08-07T08:00:00+08:00'), '实测')
+  assert.equal(sampleCount(video), 2)
+  assert.deepEqual(rankVideos([video], 'measured', '2026-08-07T08:00:00+08:00'), [video])
+})
+
+test('keeps unmatched recent videos visible in cold start and reports their status', () => {
+  const pending = { title: 'pending', publishedAt: '2026年8月7日 07:30', videoUrl: null, linkAttempts: 1 }
+  const paused = { title: 'paused', publishedAt: '2026年8月7日 07:20', videoUrl: null, linkAttempts: 3, linkMatchStatus: 'paused' }
+  const ranked = rankVideos([pending, paused], 'coldStart', '2026-08-07T08:00:00+08:00')
+  assert.deepEqual(ranked.map(video => video.title), ['pending', 'paused'])
+  assert.equal(trackingStatus(pending), '待匹配')
+  assert.equal(trackingStatus(paused), '匹配暂停')
 })
