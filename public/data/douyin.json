@@ -258,6 +258,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -265,7 +272,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -302,6 +309,13 @@
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 10,
+          "commentCount": 6,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 10,
@@ -309,7 +323,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -338,6 +352,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
       "likeCount": 0,
@@ -345,7 +366,7 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -381,6 +402,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -388,7 +416,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -929,6 +957,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -936,7 +971,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -1063,6 +1098,13 @@
           "commentCount": 11,
           "favoriteCount": 12,
           "shareCount": 16
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 19,
+          "commentCount": 11,
+          "favoriteCount": 13,
+          "shareCount": 18
         }
       ],
       "likeCount": 19,
@@ -1070,7 +1112,7 @@
       "favoriteCount": 13,
       "shareCount": 18,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -1162,6 +1204,13 @@
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 22,
+          "commentCount": 1,
+          "favoriteCount": 7,
+          "shareCount": 4
         }
       ],
       "likeCount": 22,
@@ -1169,7 +1218,7 @@
       "favoriteCount": 7,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -1254,6 +1303,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
@@ -1261,7 +1317,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     },
     {
@@ -1387,7 +1443,7 @@
       "duration": "00:59",
       "likeCount": 77,
       "commentCount": 2,
-      "favoriteCount": 121,
+      "favoriteCount": 123,
       "shareCount": 9,
       "engagementHistory": [
         {
@@ -1501,6 +1557,13 @@
           "commentCount": 2,
           "favoriteCount": 121,
           "shareCount": 9
+        },
+        {
+          "capturedAt": "2026-08-08T04:17:24+08:00",
+          "likeCount": 77,
+          "commentCount": 2,
+          "favoriteCount": 121,
+          "shareCount": 9
         }
       ],
       "hook": "140到120需要多久？",
@@ -1512,7 +1575,7 @@
         "收束：关联体重管理方法"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+        "engagementCapturedAt": "2026-08-08T04:39:38+08:00"
       }
     }
   ]
