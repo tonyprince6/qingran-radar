@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-07T20:16:38+08:00",
-    "engagementCapturedAt": "2026-08-07T23:17:29+08:00",
+    "engagementCapturedAt": "2026-08-07T23:37:06+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -72,6 +72,13 @@
         },
         {
           "capturedAt": "2026-08-07T22:18:52+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
           "likeCount": 2,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -158,12 +165,19 @@
           "commentCount": 7,
           "favoriteCount": 9,
           "shareCount": 14
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 13,
+          "commentCount": 7,
+          "favoriteCount": 9,
+          "shareCount": 15
         }
       ],
-      "likeCount": 13,
-      "commentCount": 7,
-      "favoriteCount": 9,
-      "shareCount": 15
+      "likeCount": 15,
+      "commentCount": 11,
+      "favoriteCount": 10,
+      "shareCount": 16
     },
     {
       "rank": 4,
@@ -205,11 +219,18 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 15,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 4
         }
       ],
-      "likeCount": 15,
+      "likeCount": 19,
       "commentCount": 1,
-      "favoriteCount": 4,
+      "favoriteCount": 5,
       "shareCount": 4
     },
     {
@@ -248,6 +269,13 @@
         },
         {
           "capturedAt": "2026-08-07T22:57:39+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
           "likeCount": 3,
           "commentCount": 3,
           "favoriteCount": 0,
@@ -334,12 +362,19 @@
           "commentCount": 0,
           "favoriteCount": 5,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 22,
+          "commentCount": 0,
+          "favoriteCount": 6,
+          "shareCount": 3
         }
       ],
       "likeCount": 22,
       "commentCount": 0,
       "favoriteCount": 6,
-      "shareCount": 3
+      "shareCount": 4
     },
     {
       "rank": 9,
@@ -367,6 +402,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -384,7 +426,7 @@
       "duration": "00:59",
       "likeCount": 22,
       "commentCount": 2,
-      "favoriteCount": 7,
+      "favoriteCount": 8,
       "shareCount": 1,
       "engagementHistory": [
         {
@@ -456,6 +498,13 @@
           "commentCount": 2,
           "favoriteCount": 7,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 22,
+          "commentCount": 2,
+          "favoriteCount": 7,
+          "shareCount": 1
         }
       ],
       "hook": "140到120需要多久？",
@@ -516,8 +565,8 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 62,
-      "commentCount": 27,
+      "likeCount": 63,
+      "commentCount": 33,
       "favoriteCount": 7,
       "shareCount": 4,
       "engagementHistory": [
@@ -575,6 +624,13 @@
           "likeCount": 59,
           "commentCount": 26,
           "favoriteCount": 6,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
+          "likeCount": 62,
+          "commentCount": 27,
+          "favoriteCount": 7,
           "shareCount": 4
         }
       ],
@@ -636,7 +692,7 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 116,
+      "likeCount": 118,
       "commentCount": 29,
       "favoriteCount": 15,
       "shareCount": 15,
@@ -685,6 +741,13 @@
         },
         {
           "capturedAt": "2026-08-07T22:18:52+08:00",
+          "likeCount": 116,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 15
+        },
+        {
+          "capturedAt": "2026-08-07T23:17:29+08:00",
           "likeCount": 116,
           "commentCount": 29,
           "favoriteCount": 15,
