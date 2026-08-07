@@ -48,11 +48,11 @@
         "主体：对比饿肚子与吃对食物的思路",
         "收束：强调快乐饮食也能稳定掉秤"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671321470476194496",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 1
     },
@@ -71,7 +71,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 2
@@ -91,7 +92,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 3
@@ -108,11 +110,11 @@
         "主体：分步呈现健康减肥方法",
         "收束：强调体重管理执行"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671313476904953195",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 4
     },
@@ -131,7 +133,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 5
@@ -151,7 +154,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T04:48:34+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "rank": 6
@@ -168,11 +172,11 @@
         "主体：说明体重管理饮食原则",
         "收束：强调自律与减脂"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671289144852715685",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 7
     },
