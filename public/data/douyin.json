@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T00:17:58+08:00",
-    "engagementCapturedAt": "2026-08-08T00:17:31+08:00",
+    "engagementCapturedAt": "2026-08-08T00:38:07+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -253,6 +253,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:37:06+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -610,6 +617,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -713,11 +727,18 @@
           "commentCount": 11,
           "favoriteCount": 10,
           "shareCount": 16
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 16,
+          "commentCount": 11,
+          "favoriteCount": 11,
+          "shareCount": 16
         }
       ],
-      "likeCount": 16,
+      "likeCount": 17,
       "commentCount": 11,
-      "favoriteCount": 11,
+      "favoriteCount": 12,
       "shareCount": 16
     },
     {
@@ -781,9 +802,16 @@
           "commentCount": 1,
           "favoriteCount": 5,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 20,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 4
         }
       ],
-      "likeCount": 20,
+      "likeCount": 21,
       "commentCount": 1,
       "favoriteCount": 6,
       "shareCount": 4
@@ -845,6 +873,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:58:16+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
           "likeCount": 3,
           "commentCount": 3,
           "favoriteCount": 0,
@@ -931,12 +966,19 @@
           "commentCount": 1,
           "favoriteCount": 8,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 24,
+          "commentCount": 1,
+          "favoriteCount": 8,
+          "shareCount": 4
         }
       ],
-      "likeCount": 24,
+      "likeCount": 25,
       "commentCount": 1,
       "favoriteCount": 8,
-      "shareCount": 4
+      "shareCount": 5
     },
     {
       "rank": 33,
@@ -946,10 +988,10 @@
       "videoUrl": "https://www.douyin.com/video/7671188113348449125",
       "coverUrl": null,
       "duration": "00:59",
-      "likeCount": 22,
+      "likeCount": 34,
       "commentCount": 2,
-      "favoriteCount": 8,
-      "shareCount": 1,
+      "favoriteCount": 37,
+      "shareCount": 5,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T16:20:00+08:00",
@@ -1034,6 +1076,13 @@
           "commentCount": 2,
           "favoriteCount": 8,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 22,
+          "commentCount": 2,
+          "favoriteCount": 8,
+          "shareCount": 1
         }
       ],
       "hook": "140到120需要多久？",
@@ -1094,7 +1143,7 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 63,
+      "likeCount": 67,
       "commentCount": 34,
       "favoriteCount": 7,
       "shareCount": 4,
@@ -1168,6 +1217,13 @@
           "commentCount": 33,
           "favoriteCount": 7,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 63,
+          "commentCount": 34,
+          "favoriteCount": 7,
+          "shareCount": 4
         }
       ],
       "hook": "减脂成功后还需要控制饮食吗？",
@@ -1209,10 +1265,10 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 120,
-      "commentCount": 29,
+      "likeCount": 121,
+      "commentCount": 28,
       "favoriteCount": 15,
-      "shareCount": 15,
+      "shareCount": 16,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T19:35:01+08:00",
@@ -1273,6 +1329,13 @@
         {
           "capturedAt": "2026-08-07T23:37:06+08:00",
           "likeCount": 118,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 15
+        },
+        {
+          "capturedAt": "2026-08-08T00:17:31+08:00",
+          "likeCount": 120,
           "commentCount": 29,
           "favoriteCount": 15,
           "shareCount": 15
