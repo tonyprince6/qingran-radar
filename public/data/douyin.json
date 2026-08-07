@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T00:17:58+08:00",
-    "engagementCapturedAt": "2026-08-08T03:57:51+08:00",
+    "engagementCapturedAt": "2026-08-08T04:17:24+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -69,6 +69,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T03:57:51+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -76,7 +83,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:57:51+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -106,6 +113,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 10,
+          "commentCount": 6,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 10,
@@ -113,7 +127,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -148,7 +162,9 @@
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 1,
-      "lastMetricError": "主视频操作区未渲染，未更新互动值"
+      "source": {
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+      }
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -218,6 +234,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -225,7 +248,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -254,6 +277,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 1,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 1,
@@ -261,7 +291,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -296,7 +326,9 @@
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 0,
-      "lastMetricError": "主视频操作区未渲染，未更新互动值"
+      "source": {
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
+      }
     },
     {
       "rank": 9,
@@ -373,6 +405,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -380,7 +419,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -743,6 +782,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -750,7 +796,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -870,14 +916,21 @@
           "commentCount": 11,
           "favoriteCount": 12,
           "shareCount": 16
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 17,
+          "commentCount": 11,
+          "favoriteCount": 12,
+          "shareCount": 16
         }
       ],
-      "likeCount": 17,
+      "likeCount": 19,
       "commentCount": 11,
-      "favoriteCount": 12,
-      "shareCount": 16,
+      "favoriteCount": 13,
+      "shareCount": 18,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -962,14 +1015,21 @@
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 21,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 4
         }
       ],
-      "likeCount": 21,
+      "likeCount": 22,
       "commentCount": 1,
-      "favoriteCount": 6,
+      "favoriteCount": 7,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -1047,6 +1107,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
@@ -1054,7 +1121,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -1153,14 +1220,21 @@
           "commentCount": 1,
           "favoriteCount": 9,
           "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 26,
+          "commentCount": 1,
+          "favoriteCount": 9,
+          "shareCount": 6
         }
       ],
       "likeCount": 26,
       "commentCount": 1,
-      "favoriteCount": 9,
+      "favoriteCount": 10,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -1280,6 +1354,13 @@
           "commentCount": 2,
           "favoriteCount": 76,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 77,
+          "commentCount": 2,
+          "favoriteCount": 121,
+          "shareCount": 9
         }
       ],
       "hook": "140到120需要多久？",
@@ -1291,7 +1372,7 @@
         "收束：关联体重管理方法"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -1344,8 +1425,8 @@
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
       "likeCount": 70,
-      "commentCount": 38,
-      "favoriteCount": 7,
+      "commentCount": 39,
+      "favoriteCount": 8,
       "shareCount": 4,
       "engagementHistory": [
         {
@@ -1438,6 +1519,13 @@
           "commentCount": 35,
           "favoriteCount": 7,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 70,
+          "commentCount": 38,
+          "favoriteCount": 7,
+          "shareCount": 4
         }
       ],
       "hook": "减脂成功后还需要控制饮食吗？",
@@ -1449,7 +1537,7 @@
         "收束：提示减肥反弹风险"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
@@ -1482,7 +1570,7 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 122,
+      "likeCount": 123,
       "commentCount": 29,
       "favoriteCount": 15,
       "shareCount": 18,
@@ -1570,6 +1658,13 @@
           "commentCount": 29,
           "favoriteCount": 15,
           "shareCount": 17
+        },
+        {
+          "capturedAt": "2026-08-08T02:37:50.720+08:00",
+          "likeCount": 122,
+          "commentCount": 29,
+          "favoriteCount": 15,
+          "shareCount": 18
         }
       ],
       "hook": "减肥成功的人，十个有九个会变刻薄。",
@@ -1581,7 +1676,7 @@
         "收束：关联女生减脂经验"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:37:50.720+08:00"
+        "engagementCapturedAt": "2026-08-08T04:17:24+08:00"
       }
     },
     {
