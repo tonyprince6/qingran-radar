@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-07T20:16:38+08:00",
-    "engagementCapturedAt": "2026-08-07T22:57:39+08:00",
+    "engagementCapturedAt": "2026-08-07T23:17:29+08:00",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -245,6 +245,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T22:57:39+08:00",
+          "likeCount": 3,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
@@ -320,12 +327,19 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-07T22:57:39+08:00",
+          "likeCount": 21,
+          "commentCount": 0,
+          "favoriteCount": 5,
+          "shareCount": 2
         }
       ],
-      "likeCount": 21,
+      "likeCount": 22,
       "commentCount": 0,
-      "favoriteCount": 5,
-      "shareCount": 2
+      "favoriteCount": 6,
+      "shareCount": 3
     },
     {
       "rank": 9,
@@ -371,7 +385,7 @@
       "likeCount": 22,
       "commentCount": 2,
       "favoriteCount": 7,
-      "shareCount": 0,
+      "shareCount": 1,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T16:20:00+08:00",
@@ -431,6 +445,13 @@
         },
         {
           "capturedAt": "2026-08-07T22:18:52+08:00",
+          "likeCount": 22,
+          "commentCount": 2,
+          "favoriteCount": 7,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T22:57:39+08:00",
           "likeCount": 22,
           "commentCount": 2,
           "favoriteCount": 7,
@@ -495,9 +516,9 @@
       "linkMatchStatus": "matched",
       "linkAttempts": 0,
       "nextLinkRetryAt": null,
-      "likeCount": 59,
-      "commentCount": 26,
-      "favoriteCount": 6,
+      "likeCount": 62,
+      "commentCount": 27,
+      "favoriteCount": 7,
       "shareCount": 4,
       "engagementHistory": [
         {
@@ -545,6 +566,13 @@
         {
           "capturedAt": "2026-08-07T22:38:41+08:00",
           "likeCount": 58,
+          "commentCount": 26,
+          "favoriteCount": 6,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-07T22:57:39+08:00",
+          "likeCount": 59,
           "commentCount": 26,
           "favoriteCount": 6,
           "shareCount": 4
