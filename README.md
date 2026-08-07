@@ -15,6 +15,18 @@ pnpm dev
 pnpm build
 ```
 
+## DeepSeek 实时脚本拆解
+
+复制环境变量示例并填写服务端密钥：
+
+```bash
+cp .env.example .env.local
+```
+
+`DEEPSEEK_API_KEY` 只允许配置在服务端，不要添加 `VITE_` 前缀，也不要提交到 Git。默认使用 `deepseek-v4-flash`，可通过 `DEEPSEEK_MODEL` 切换。开发环境下 Vite 会在同一端口提供 `/api/analyze`；部署到 Vercel 时，`api/analyze.js` 会作为 Serverless Function 运行。
+
+若 GitHub Pages 前端调用独立部署的接口，请在构建时设置 `VITE_ANALYZE_API_URL`，并在后端设置逗号分隔的 `ALLOWED_ORIGINS`。
+
 数据快照位于 `public/data/douyin.json`。数据来源为抖音创作者中心，采集需要有效登录状态，并遵守平台访问限制；程序不会绕过验证码或风控。
 
 发布到 GitHub Pages：
