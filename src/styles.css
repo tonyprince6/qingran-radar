@@ -272,6 +272,12 @@ blockquote { margin: 0; padding: 13px 15px; border: 1px solid #ffcfd2; border-ra
 .api-setting-card code { display: inline-block; margin-top: 11px; padding: 6px 9px; border: 1px solid #ccdce8; border-radius: 7px; color: #0b2841; background: #fff; font: 700 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace; }
 .api-setting-card p { margin: 11px 0 0; color: #62748a; font-size: 10px; line-height: 1.65; }
 .api-setting-card b { color: #18364e; }
+.api-key-field { display: grid; gap: 7px; margin-top: 14px; }
+.api-key-field > span { color: #53667c; font-size: 10px; font-weight: 700; }
+.api-key-field > div { display: grid; grid-template-columns: minmax(0,1fr) auto; overflow: hidden; border: 1px solid #c9d9e5; border-radius: 9px; background: #fff; }
+.api-key-field input { min-width: 0; height: 40px; padding: 0 11px; border: 0; outline: 0; color: #102b42; background: transparent; font: 600 12px ui-monospace,SFMono-Regular,Menlo,monospace; }
+.api-key-field button { min-width: 54px; border: 0; border-left: 1px solid #d8e3eb; color: #315b77; background: #f7fafc; font-size: 10px; cursor: pointer; }
+.clear-api-key { margin-top: 12px; padding: 0; border: 0; color: #d93648; background: transparent; font-size: 10px; font-weight: 700; cursor: pointer; }
 @keyframes slideIn { from { transform: translateX(25px); opacity: .6; } }
 @keyframes toastIn { from { transform: translate(-50%, 8px); opacity: 0; } }
 @keyframes spin { to { transform: rotate(360deg); } }

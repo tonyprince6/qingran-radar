@@ -23,7 +23,9 @@ pnpm build
 cp .env.example .env.local
 ```
 
-`DEEPSEEK_API_KEY` 只允许配置在服务端，不要添加 `VITE_` 前缀，也不要提交到 Git。默认使用 `deepseek-v4-flash`，可通过 `DEEPSEEK_MODEL` 切换。开发环境下 Vite 会在同一端口提供 `/api/analyze`；部署到 Vercel 时，`api/analyze.js` 会作为 Serverless Function 运行。
+服务端模式下，`DEEPSEEK_API_KEY` 只允许配置在服务端，不要添加 `VITE_` 前缀，也不要提交到 Git。默认使用 `deepseek-v4-flash`，可通过 `DEEPSEEK_MODEL` 切换。开发环境下 Vite 会在同一端口提供 `/api/analyze`；部署到 Vercel 时，`api/analyze.js` 会作为 Serverless Function 运行。
+
+也支持设备自带密钥（BYOK）：在网页“API 配置”中填写后，Key 只保存在当前浏览器的 localStorage，分析请求通过 HTTPS 直接发送至 DeepSeek，不经过本站服务器。清除浏览器网站数据会同时清除该 Key；请勿在公共或不受信任设备上保存。
 
 若 GitHub Pages 前端调用独立部署的接口，请在构建时设置 `VITE_ANALYZE_API_URL`，并在后端设置逗号分隔的 `ALLOWED_ORIGINS`。
 
