@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T08:18:03+08:00",
-    "engagementCapturedAt": "2026-08-08T01:17:52.905Z",
+    "engagementCapturedAt": "2026-08-08T02:18:10.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -58,7 +58,10 @@
       "likeCount": 12,
       "commentCount": 3,
       "favoriteCount": 6,
-      "shareCount": 3
+      "shareCount": 3,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+      }
     },
     {
       "rank": 3,
@@ -126,11 +129,18 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T00:58:50.000Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 7,
+          "commentCount": 4,
+          "favoriteCount": 1,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T00:58:50.000Z",
           "likeCount": 7,
           "commentCount": 4,
           "favoriteCount": 1,
@@ -223,7 +233,10 @@
       "likeCount": 8,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+      }
     },
     {
       "title": "从145斤到99斤，差别到底有多大? 以前觉得减肥就要饿肚子，现在才知道吃对东西真的能瘦，看看我吃的顿顿肉 掉秤还比吃草还快，快乐又掉秤。",
@@ -300,14 +313,21 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T01:38:10Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 3,
+      "likeCount": 5,
       "commentCount": 0,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T01:38:10Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -347,18 +367,18 @@
         },
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 62,
+          "likeCount": 63,
           "commentCount": 4,
           "favoriteCount": 18,
-          "shareCount": 19
+          "shareCount": 21
         }
       ],
       "likeCount": 63,
-      "commentCount": 4,
+      "commentCount": 5,
       "favoriteCount": 18,
-      "shareCount": 21,
+      "shareCount": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -443,14 +463,21 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T00:20:43.000Z",
+          "likeCount": 6,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 3
         }
       ],
-      "likeCount": 6,
+      "likeCount": 7,
       "commentCount": 5,
       "favoriteCount": 4,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T00:20:43.000Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -535,7 +562,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -676,7 +703,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -765,7 +792,7 @@
         },
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 11,
+          "likeCount": 12,
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
@@ -776,7 +803,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -861,7 +888,7 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -953,7 +980,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -1027,7 +1054,7 @@
         },
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 1,
+          "likeCount": 2,
           "commentCount": 2,
           "favoriteCount": 1,
           "shareCount": 0
@@ -1038,7 +1065,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -1112,7 +1139,7 @@
         },
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 8,
+          "likeCount": 9,
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
@@ -1123,7 +1150,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -1257,7 +1284,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
@@ -1661,12 +1688,12 @@
           "shareCount": 0
         }
       ],
-      "likeCount": 3,
+      "likeCount": 4,
       "commentCount": 1,
-      "favoriteCount": 0,
-      "shareCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
+        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
       }
     },
     {
