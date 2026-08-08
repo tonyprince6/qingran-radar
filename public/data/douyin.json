@@ -76,11 +76,22 @@
         "主体：展示当天饮食与日常执行",
         "收束：用持续努力强化陪伴感"
       ],
-      "likeCount": 6,
+      "likeCount": 7,
       "commentCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T17:16:45Z"
-      }
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T17:16:45Z",
+          "likeCount": 6,
+          "commentCount": 2,
+          "favoriteCount": null,
+          "shareCount": null
+        }
+      ],
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671670526083454931",
@@ -101,7 +112,13 @@
         "主体：分享科学减脂经验",
         "收束：强调体重管理的长期性"
       ],
-      "lastMetricError": "2026-08-08T17:16:45Z: 主视频操作区不可见"
+      "likeCount": 7,
+      "commentCount": 0,
+      "favoriteCount": 3,
+      "shareCount": 3,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
+      }
     },
     {
       "videoUrl": null,
@@ -228,7 +245,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T17:16:45Z"
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
       },
       "engagementHistory": [
         {
@@ -273,8 +290,7 @@
           "favoriteCount": 1,
           "shareCount": 0
         }
-      ],
-      "lastMetricError": "2026-08-08T17:16:45Z: 收藏和分享数未显示，保留原值"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671536513956989312",
@@ -296,12 +312,12 @@
         "主体：呈现泰拳拳腿与肘膝组合训练",
         "收束：强调减重带来的力量、爆发力和协调性提升"
       ],
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T16:56:19Z"
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
       },
       "engagementHistory": [
         {
@@ -317,9 +333,15 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T16:56:19Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "2026-08-08T17:16:45Z: 主视频操作区不可见"
+      ]
     },
     {
       "videoUrl": null,
@@ -366,7 +388,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T16:56:19Z"
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
       },
       "engagementHistory": [
         {
@@ -553,6 +575,13 @@
         },
         {
           "capturedAt": "2026-08-08T16:36:38Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T16:56:19Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -1006,9 +1035,8 @@
       "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T17:16:45Z"
-      },
-      "lastMetricError": "2026-08-08T17:16:45Z: 分享数未显示，保留原值"
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
+      }
     },
     {
       "rank": 2,
@@ -1148,9 +1176,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T17:16:45Z"
-      },
-      "lastMetricError": "2026-08-08T17:16:45Z: 收藏和分享数未显示，保留原值"
+        "engagementCapturedAt": "2026-08-08T17:37:17Z"
+      }
     },
     {
       "rank": 4,
