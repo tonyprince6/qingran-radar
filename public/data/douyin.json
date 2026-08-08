@@ -62,6 +62,13 @@
           "commentCount": null,
           "favoriteCount": null,
           "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:37.505Z",
+          "likeCount": 18,
+          "commentCount": 17,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
       "likeCount": 18,
@@ -69,7 +76,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:37.505Z"
+        "engagementCapturedAt": "2026-08-08T06:00:20.966Z"
       }
     },
     {
