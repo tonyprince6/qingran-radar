@@ -60,9 +60,18 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:17:25Z"
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
       },
-      "lastMetricError": "分享数在主视频操作区未显示，未覆盖现有互动值"
+      "lastMetricError": "分享数在主视频操作区未显示，未覆盖现有互动值",
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T14:17:25Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671536513956989312",
@@ -138,7 +147,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:57:12Z"
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
       },
       "engagementHistory": [
         {
@@ -297,6 +306,13 @@
         },
         {
           "capturedAt": "2026-08-08T14:39:06.460Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T14:57:12Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -701,15 +717,23 @@
           "commentCount": 28,
           "favoriteCount": 2,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T14:57:12Z",
+          "likeCount": 42,
+          "commentCount": 28,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
       ],
-      "likeCount": 42,
+      "likeCount": 44,
       "commentCount": 28,
       "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:57:12Z"
-      }
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
+      },
+      "lastMetricError": "分享数在主视频操作区未显示，未覆盖现有互动值"
     },
     {
       "rank": 2,
@@ -807,6 +831,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T14:57:12Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
@@ -814,8 +845,9 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:57:12Z"
-      }
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
+      },
+      "lastMetricError": "收藏数、分享数在主视频操作区未显示，未覆盖现有互动值"
     },
     {
       "rank": 4,
@@ -1132,6 +1164,13 @@
           "commentCount": 1,
           "favoriteCount": 2,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T14:39:06.460Z",
+          "likeCount": 14,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 1
         }
       ],
       "likeCount": 14,
@@ -1139,7 +1178,7 @@
       "favoriteCount": 2,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:39:06.460Z"
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
       }
     },
     {
@@ -1330,6 +1369,13 @@
           "commentCount": 6,
           "favoriteCount": 24,
           "shareCount": 43
+        },
+        {
+          "capturedAt": "2026-08-08T14:39:06.460Z",
+          "likeCount": 82,
+          "commentCount": 6,
+          "favoriteCount": 24,
+          "shareCount": 43
         }
       ],
       "likeCount": 82,
@@ -1337,7 +1383,7 @@
       "favoriteCount": 24,
       "shareCount": 43,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:39:06.460Z"
+        "engagementCapturedAt": "2026-08-08T15:37:23Z"
       }
     },
     {
