@@ -60,8 +60,17 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
-      }
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        }
+      ]
     },
     {
       "rank": 3,
@@ -371,6 +380,13 @@
           "commentCount": 4,
           "favoriteCount": 18,
           "shareCount": 21
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 63,
+          "commentCount": 5,
+          "favoriteCount": 18,
+          "shareCount": 23
         }
       ],
       "likeCount": 63,
@@ -378,7 +394,7 @@
       "favoriteCount": 18,
       "shareCount": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
@@ -470,6 +486,13 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 7,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 3
         }
       ],
       "likeCount": 7,
@@ -477,7 +500,7 @@
       "favoriteCount": 4,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
@@ -555,6 +578,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 10,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 7
         }
       ],
       "likeCount": 10,
@@ -562,7 +592,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
@@ -1058,14 +1088,21 @@
           "commentCount": 2,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 2,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 2,
+      "likeCount": 3,
       "commentCount": 2,
       "favoriteCount": 1,
-      "shareCount": 0,
+      "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
@@ -1143,6 +1180,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 9,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
       "likeCount": 9,
@@ -1150,7 +1194,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
@@ -1686,14 +1730,21 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 4,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T02:38:46.000Z"
       }
     },
     {
