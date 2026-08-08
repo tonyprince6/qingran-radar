@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-08T12:19:20+08:00",
+    "capturedAt": "2026-08-08T16:19:59+08:00",
     "engagementCapturedAt": "2026-08-08T07:19:33Z",
     "window": "最近4小时",
     "index": {
@@ -36,6 +36,220 @@
     "体重管理"
   ],
   "videos": [
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 1,
+      "title": "儿童体重管理期早餐分享 今天是西多士➕酸奶火龙果 健康饮食，吃瘦不饿瘦 #儿童如何吃减肥餐 #小学生减肥餐#营养搭配减脂餐 #学生减肥期吃",
+      "publishedAt": "2026年8月8日 14:27",
+      "author": "依依 95年三娃妈妈",
+      "hook": "儿童体重管理期早餐分享",
+      "hookType": "减脂餐示范",
+      "retention": "以孩子早餐的具体搭配切入，给出健康减重餐的可复制参考。",
+      "scriptSegments": [
+        "开场：展示儿童体重管理早餐",
+        "主体：呈现西多士、酸奶与火龙果搭配",
+        "收束：强调健康饮食，吃瘦不饿瘦"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 2,
+      "title": "减肥更要好好吃家常菜！ 此时的我正在千山上，体能！#减脂餐 #日常上称 #小个子夏季长裙 #体重管理日记 #ootd",
+      "publishedAt": "2026年8月8日 11:59",
+      "author": "咖啡脑袋林等等",
+      "hook": "减肥更要好好吃家常菜",
+      "hookType": "饮食反常识",
+      "retention": "用“减肥也能吃家常菜”的反常识承诺，吸引观众了解减脂饮食与体重管理日常。",
+      "scriptSegments": [
+        "开场：提出减肥也要好好吃家常菜",
+        "主体：结合减脂餐、上秤和户外体能日常",
+        "收束：以体重管理日记强化持续记录"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "减肥可以吃烧烤吗？哪些能吃哪些不能吃？#减脂 #减肥期间可以吃什么烧烤 #减肥#体重管理 #减脂知识科普",
+      "publishedAt": "2026年8月8日 07:27",
+      "author": "陪你自律的景文",
+      "hook": "减肥期间烧烤哪些能吃、哪些不能吃？",
+      "hookType": "饮食避坑",
+      "retention": "把高诱惑食物与明确可吃清单绑定，直击减肥期的即时决策痛点。",
+      "scriptSegments": [
+        "开场：提出减肥能不能吃烧烤",
+        "主体：区分可选和应避开的烧烤食材",
+        "收束：回到减脂期的体重管理原则"
+      ],
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "lastLinkAttemptAt": "2026-08-08T14:54:17+08:00",
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-09T14:54:17+08:00"
+    },
+    {
+      "rank": 4,
+      "title": "邪修减脂焚决大全来了！！ 家人们，这豆包也太权威了吧！！我直接让豆包帮我生成减脂饮食清单表格！！这个夏天我一定要狠狠自律！！俊凯王源等着我！",
+      "publishedAt": "2026年8月8日 03:06",
+      "author": "Yonder·Jade",
+      "hook": "邪修减脂饮食清单，AI一键生成表格",
+      "hookType": "工具方法",
+      "retention": "“邪修”反差加上AI生成饮食清单，制造新奇感并承诺可立即复用的方法。",
+      "scriptSegments": [
+        "开场：用“邪修减脂”制造反差",
+        "主体：展示AI生成减脂饮食清单的思路",
+        "收束：以夏天自律目标强化行动动机"
+      ],
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-09T10:52:20+08:00",
+      "lastLinkAttemptAt": "2026-08-08T10:52:20+08:00"
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 5,
+      "title": "想瘦你必须要明白的一个道理 #健身干货 #健身房 #体重管理 #减脂 #减脂知识",
+      "publishedAt": "2026年8月7日 20:52",
+      "author": "大发不胖",
+      "hook": "想瘦必须明白的一个道理",
+      "hookType": "认知干货",
+      "retention": "以“必须明白”的关键认知制造信息缺口，促使观众停留获取减脂知识。",
+      "scriptSegments": [
+        "开场：抛出想瘦必须明白的道理",
+        "主体：展开健身与体重管理知识",
+        "收束：落到可执行的减脂认知提醒"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "#减肥 #体重管理 #减脂正确思路 #大基数减肥 #上班族减肥",
+      "publishedAt": "2026年8月7日 19:55",
+      "author": "露子（已瘦75斤）",
+      "hook": "已瘦75斤的大基数、上班族减肥思路",
+      "hookType": "成果经验",
+      "retention": "75斤成果为大基数和上班族人群提供强背书，吸引观众寻找可复用的正确思路。",
+      "scriptSegments": [
+        "开场：用已瘦75斤建立成果背书",
+        "主体：定位大基数与上班族减肥痛点",
+        "收束：输出减脂正确思路"
+      ],
+      "videoUrl": "https://www.douyin.com/video/7671257087594338790",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "nextLinkRetryAt": null,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T04:36:55Z",
+          "likeCount": null,
+          "commentCount": null,
+          "favoriteCount": null,
+          "shareCount": null
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:37.505Z",
+          "likeCount": 189,
+          "commentCount": 10,
+          "favoriteCount": 50,
+          "shareCount": 23
+        },
+        {
+          "capturedAt": "2026-08-08T07:19:33Z",
+          "likeCount": 195,
+          "commentCount": 10,
+          "favoriteCount": 52,
+          "shareCount": 23
+        }
+      ],
+      "likeCount": 197,
+      "commentCount": 10,
+      "favoriteCount": 54,
+      "shareCount": 23,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T08:00:19.032Z"
+      }
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 7,
+      "title": "減肚子干掉内脏旨肪，多吃这8种主食 #减脂小白必看 #体重管理#蜕变",
+      "publishedAt": "2026年8月7日 19:55",
+      "author": "陪你自律的晓莉",
+      "hook": "减肚子，多吃这8种主食",
+      "hookType": "清单干货",
+      "retention": "以“8种主食”的明确清单承诺，吸引减脂小白继续观看获取饮食方案。",
+      "scriptSegments": [
+        "开场：直击减肚子与内脏脂肪诉求",
+        "主体：列出可多吃的8种主食",
+        "收束：以体重管理蜕变强化执行动机"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "#减肥 #体重管理",
+      "publishedAt": "2026年8月7日 19:03",
+      "author": "大杨杨（女性减脂）",
+      "hook": "女性减脂的体重管理记录",
+      "hookType": "减脂日常",
+      "retention": "以女性减脂账号定位和体重管理标签吸引同类人群查看日常执行内容。",
+      "scriptSegments": [
+        "开场：定位女性减脂主题",
+        "主体：呈现减肥与体重管理日常",
+        "收束：以持续记录建立陪伴感"
+      ],
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "lastLinkAttemptAt": "2026-08-08T14:54:17+08:00",
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-09T14:54:17+08:00"
+    },
+    {
+      "rank": 9,
+      "title": "维持体重很简单 吃吃减减就是最好的状态，我给你一个小技巧#健康饮食 #女生减脂必看 #养成正确的饮食习惯 #减肥 #身材管理",
+      "publishedAt": "2026年8月7日 18:54",
+      "author": "小王同学呀",
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-08T23:40:52+08:00",
+      "lastLinkAttemptAt": "2026-08-07T23:40:52+08:00",
+      "hook": "维持体重很简单，吃吃减减就够了。",
+      "hookType": "维重小技巧",
+      "retention": "降低维重难度并承诺一个小技巧，鼓励用户继续看具体习惯。",
+      "scriptSegments": [
+        "开场：提出维持体重很简单",
+        "主体：解释吃吃减减的状态",
+        "收束：给出健康饮食小技巧"
+      ]
+    },
     {
       "rank": 1,
       "title": "#140赛道 已结束，正式闯入#130赛道 新中国没有苦难，除非开始减肥了#减肥跟玩命似的 #体重秤的爱恨情仇 #钢铁一般的意志",
@@ -158,27 +372,6 @@
       }
     },
     {
-      "rank": 3,
-      "title": "减肥可以吃烧烤吗？哪些能吃哪些不能吃？#减脂 #减肥期间可以吃什么烧烤 #减肥#体重管理 #减脂知识科普",
-      "publishedAt": "2026年8月8日 07:27",
-      "author": "陪你自律的景文",
-      "hook": "减肥期间烧烤哪些能吃、哪些不能吃？",
-      "hookType": "饮食避坑",
-      "retention": "把高诱惑食物与明确可吃清单绑定，直击减肥期的即时决策痛点。",
-      "scriptSegments": [
-        "开场：提出减肥能不能吃烧烤",
-        "主体：区分可选和应避开的烧烤食材",
-        "收束：回到减脂期的体重管理原则"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "lastLinkAttemptAt": "2026-08-08T14:54:17+08:00",
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T14:54:17+08:00"
-    },
-    {
       "rank": 4,
       "title": "被女明星Ella陈嘉桦种草的超慢跑减酯法❗❗适合有大肚子 大腿粗 胳膊粗 全身肉肉多不爱运动的朋友 睡眠不好 肠胃不好的都可以试试 坚持一段",
       "publishedAt": "2026年8月8日 07:19",
@@ -219,56 +412,6 @@
       "lastLinkAttemptAt": "2026-08-08T14:54:17+08:00",
       "linkMatchStatus": "paused",
       "nextLinkRetryAt": "2026-08-09T14:54:17+08:00"
-    },
-    {
-      "rank": 7,
-      "title": "#减肥 #体重管理 #减脂正确思路 #大基数减肥 #上班族减肥",
-      "publishedAt": "2026年8月7日 19:55",
-      "author": "露子（已瘦75斤）",
-      "hook": "已瘦75斤的大基数、上班族减肥思路",
-      "hookType": "成果经验",
-      "retention": "75斤成果为大基数和上班族人群提供强背书，吸引观众寻找可复用的正确思路。",
-      "scriptSegments": [
-        "开场：用已瘦75斤建立成果背书",
-        "主体：定位大基数与上班族减肥痛点",
-        "收束：输出减脂正确思路"
-      ],
-      "videoUrl": "https://www.douyin.com/video/7671257087594338790",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-08T04:36:55Z",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:37.505Z",
-          "likeCount": 189,
-          "commentCount": 10,
-          "favoriteCount": 50,
-          "shareCount": 23
-        },
-        {
-          "capturedAt": "2026-08-08T07:19:33Z",
-          "likeCount": 195,
-          "commentCount": 10,
-          "favoriteCount": 52,
-          "shareCount": 23
-        }
-      ],
-      "likeCount": 197,
-      "commentCount": 10,
-      "favoriteCount": 54,
-      "shareCount": 23,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T08:00:19.032Z"
-      }
     },
     {
       "rank": 8,
@@ -313,27 +456,6 @@
           "shareCount": 1
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "#减肥 #体重管理",
-      "publishedAt": "2026年8月7日 19:03",
-      "author": "大杨杨（女性减脂）",
-      "hook": "女性减脂的体重管理记录",
-      "hookType": "减脂日常",
-      "retention": "以女性减脂账号定位和体重管理标签吸引同类人群查看日常执行内容。",
-      "scriptSegments": [
-        "开场：定位女性减脂主题",
-        "主体：呈现减肥与体重管理日常",
-        "收束：以持续记录建立陪伴感"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "lastLinkAttemptAt": "2026-08-08T14:54:17+08:00",
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T14:54:17+08:00"
     },
     {
       "rank": 2,
@@ -447,27 +569,6 @@
           "shareCount": 3
         }
       ]
-    },
-    {
-      "rank": 6,
-      "title": "邪修减脂焚决大全来了！！ 家人们，这豆包也太权威了吧！！我直接让豆包帮我生成减脂饮食清单表格！！这个夏天我一定要狠狠自律！！俊凯王源等着我！",
-      "publishedAt": "2026年8月8日 03:06",
-      "author": "Yonder·Jade",
-      "hook": "邪修减脂饮食清单，AI一键生成表格",
-      "hookType": "工具方法",
-      "retention": "“邪修”反差加上AI生成饮食清单，制造新奇感并承诺可立即复用的方法。",
-      "scriptSegments": [
-        "开场：用“邪修减脂”制造反差",
-        "主体：展示AI生成减脂饮食清单的思路",
-        "收束：以夏天自律目标强化行动动机"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T10:52:20+08:00",
-      "lastLinkAttemptAt": "2026-08-08T10:52:20+08:00"
     },
     {
       "title": "从145斤到99斤，差别到底有多大? 以前觉得减肥就要饿肚子，现在才知道吃对东西真的能瘦，看看我吃的顿顿肉 掉秤还比吃草还快，快乐又掉秤。",
@@ -2339,27 +2440,6 @@
       ]
     },
     {
-      "rank": 16,
-      "title": "维持体重很简单 吃吃减减就是最好的状态，我给你一个小技巧#健康饮食 #女生减脂必看 #养成正确的饮食习惯 #减肥 #身材管理",
-      "publishedAt": "2026年8月7日 18:54",
-      "author": "小王同学呀",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-08T23:40:52+08:00",
-      "lastLinkAttemptAt": "2026-08-07T23:40:52+08:00",
-      "hook": "维持体重很简单，吃吃减减就够了。",
-      "hookType": "维重小技巧",
-      "retention": "降低维重难度并承诺一个小技巧，鼓励用户继续看具体习惯。",
-      "scriptSegments": [
-        "开场：提出维持体重很简单",
-        "主体：解释吃吃减减的状态",
-        "收束：给出健康饮食小技巧"
-      ]
-    },
-    {
       "rank": 17,
       "title": "不敢相信，你不胖和你好瘦之间竟然差了20斤 #你不胖 #瘦子 #减肥 #生活化减脂 #体重管理",
       "publishedAt": "2026年8月7日 18:32",
@@ -2623,88 +2703,6 @@
         "收束：给出可执行的减脂提醒或行动点"
       ],
       "rank": 23
-    },
-    {
-      "title": "没有人减淝是天天掉秤的，体重波浪式下降很正常#体重管理#身材管理#减肥#减脂#自律",
-      "publishedAt": "2026年8月7日 17:09",
-      "author": "鸿颜悦己双美（皮肤+身材）",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "hook": "没有人减淝是天天掉秤的，体重波浪式下降很正常",
-      "hookType": "成果数据",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 24
-    },
-    {
-      "title": "160➡️120，已瘦40斤，一条视频给你讲清楚降低体脂率的10个方法‼️#减肥#降低体脂率 #健康减脂 #体重管理 #产后减肥",
-      "publishedAt": "2026年8月7日 16:44",
-      "author": "大大咧咧的KK",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "hook": "160➡️120，已瘦40斤，一条视频给你讲清楚降低体脂率的10个方法‼️",
-      "hookType": "成果数据",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 25
-    },
-    {
-      "rank": 7,
-      "title": "#不饿自己的普通减脂餐 #减肥期吃什么主食 #生活化饮食",
-      "publishedAt": "2026年8月7日 14:23",
-      "author": "杜杜减脂日记",
-      "hook": "不饿自己的普通减脂餐",
-      "hookType": "饮食方法",
-      "retention": "“不饿”直击节食痛点，配合主食选择这一具体问题，引导观看完整餐食方案。",
-      "scriptSegments": [
-        "开场：强调减脂也可以不挨饿",
-        "主体：展示减肥期主食与生活化饮食",
-        "收束：强化普通人可执行性"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T11:53:39+08:00",
-      "lastLinkAttemptAt": "2026-08-08T11:53:39+08:00"
-    },
-    {
-      "rank": 8,
-      "title": "带娃减肉记：第几天已经记不清啦 小孩子减肉真的自带外挂buff，我属实羡慕哭了😭 跟娃三餐吃的一模一样，人家体重稳步往下掉，我却按几两再动",
-      "publishedAt": "2026年8月7日 13:37",
-      "author": "迪迪（运动塑形中~已甩38个)",
-      "hook": "带娃减肉：孩子体重稳步下降，妈妈却只掉几两",
-      "hookType": "亲子减重记录",
-      "retention": "亲子同餐却不同结果的反差，促使用户继续了解儿童减重与成年人平台差异。",
-      "scriptSegments": [
-        "开场：讲述带娃减肉持续打卡",
-        "主体：对比亲子同餐后的体重变化",
-        "收束：留下妈妈减重进展的悬念"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T11:53:39+08:00",
-      "lastLinkAttemptAt": "2026-08-08T11:53:39+08:00"
     }
   ]
 }
