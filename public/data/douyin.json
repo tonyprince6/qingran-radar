@@ -224,7 +224,8 @@
       "shareCount": 24,
       "source": {
         "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "videoUrl": null,
@@ -371,14 +372,21 @@
           "commentCount": 20,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 29,
+          "commentCount": 23,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 29,
-      "commentCount": 23,
+      "likeCount": 36,
+      "commentCount": 26,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -457,7 +465,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T10:20:28Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "rank": 4,
@@ -604,7 +613,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       },
       "engagementHistory": [
         {
@@ -714,6 +723,13 @@
         },
         {
           "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T11:18:54.606Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -888,7 +904,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T10:20:28Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "title": "饿瘦40斤的2条铁律！！！#体重管理 #自律 #轻断食减肥 #减脂",
@@ -1058,7 +1075,8 @@
       "shareCount": 43,
       "source": {
         "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "title": "三伏天 5 个无痛习惯，帮你平稳管理体重#三伏天 #减肥 #健康减脂 #自律 #变美变瘦变好看",
@@ -1261,6 +1279,13 @@
           "commentCount": 10,
           "favoriteCount": 4,
           "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-08T11:18:54.606Z",
+          "likeCount": 8,
+          "commentCount": 10,
+          "favoriteCount": 4,
+          "shareCount": 5
         }
       ],
       "likeCount": 8,
@@ -1268,7 +1293,7 @@
       "favoriteCount": 4,
       "shareCount": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -1486,6 +1511,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T11:18:54.606Z",
+          "likeCount": 14,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 7
         }
       ],
       "likeCount": 14,
@@ -1493,7 +1525,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -1655,6 +1687,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -1662,7 +1701,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -1818,6 +1857,13 @@
           "commentCount": 7,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 14,
+          "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 14,
@@ -1825,7 +1871,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -1981,7 +2027,8 @@
       "shareCount": 1,
       "source": {
         "engagementCapturedAt": "2026-08-08T10:20:28Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -2205,14 +2252,21 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T07:02:03.000Z",
+          "likeCount": 6,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
-      "likeCount": 6,
+      "likeCount": 7,
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T07:02:03.000Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -2360,6 +2414,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 6,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
       "likeCount": 6,
@@ -2367,7 +2428,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
     },
     {
@@ -2593,7 +2654,8 @@
       "shareCount": 2,
       "source": {
         "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "title": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当你体会到，就再也不想摆烂。 #减肥 #减",
@@ -2748,7 +2810,8 @@
       "shareCount": 1,
       "source": {
         "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
-      }
+      },
+      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
     },
     {
       "rank": 5,
