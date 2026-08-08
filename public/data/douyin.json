@@ -197,6 +197,13 @@
           "shareCount": 23
         },
         {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 210,
+          "commentCount": 10,
+          "favoriteCount": 56,
+          "shareCount": 23
+        },
+        {
           "capturedAt": "2026-08-08T09:40:01Z",
           "likeCount": 205,
           "commentCount": 10,
@@ -204,12 +211,12 @@
           "shareCount": 23
         }
       ],
-      "likeCount": 210,
+      "likeCount": 212,
       "commentCount": 10,
-      "favoriteCount": 56,
-      "shareCount": 23,
+      "favoriteCount": 57,
+      "shareCount": 24,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -345,6 +352,13 @@
           "shareCount": 0
         },
         {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 27,
+          "commentCount": 23,
+          "favoriteCount": 1,
+          "shareCount": 0
+        },
+        {
           "capturedAt": "2026-08-08T09:40:01Z",
           "likeCount": 26,
           "commentCount": 20,
@@ -352,12 +366,12 @@
           "shareCount": 0
         }
       ],
-      "likeCount": 27,
+      "likeCount": 29,
       "commentCount": 23,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -421,6 +435,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -428,9 +449,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "rank": 4,
@@ -499,7 +519,7 @@
       "favoriteCount": 2,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       },
       "engagementHistory": [
         {
@@ -525,6 +545,13 @@
         },
         {
           "capturedAt": "2026-08-08T08:38:33.269Z",
+          "likeCount": 13,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
           "likeCount": 13,
           "commentCount": 1,
           "favoriteCount": 2,
@@ -563,7 +590,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       },
       "engagementHistory": [
         {
@@ -825,6 +852,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 12,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
       "likeCount": 12,
@@ -832,9 +866,8 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "title": "饿瘦40斤的2条铁律！！！#体重管理 #自律 #轻断食减肥 #减脂",
@@ -996,7 +1029,7 @@
       "favoriteCount": 24,
       "shareCount": 42,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -1425,7 +1458,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -1580,6 +1613,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -1587,9 +1627,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "title": "百日减脂计划 Day1天，天塌了，吃了一顿烤肉胖了3.7斤，第一天也是执行下来了，总体来说还可以，吃的也不错，继续努力#减脂#减肥 #体重管",
@@ -1737,6 +1776,13 @@
           "commentCount": 7,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 14,
+          "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 14,
@@ -1744,9 +1790,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "title": "#自用好物分享 #咖啡 #减肥 #减脂 #体重管理",
@@ -1886,16 +1931,22 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "title": "水果避坑，看懂糖分再下嘴 #科学减脂 #减肥逆袭 #自律 #体重管理",
@@ -2267,6 +2318,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T09:18:27Z",
+          "likeCount": 6,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
       "likeCount": 6,
@@ -2274,9 +2332,8 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:18:27Z"
-      },
-      "lastMetricError": "未找到唯一主视频互动操作区"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+      }
     },
     {
       "rank": 34,
@@ -2493,7 +2550,7 @@
       "favoriteCount": 2,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -2627,14 +2684,21 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T07:02:03.000Z",
+          "likeCount": 10,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
-      "likeCount": 10,
+      "likeCount": 13,
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T07:02:03.000Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       }
     },
     {
@@ -2661,7 +2725,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T10:20:28Z"
       },
       "engagementHistory": [
         {
