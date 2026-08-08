@@ -741,6 +741,20 @@
           "commentCount": 10,
           "favoriteCount": 4,
           "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-08T05:40:37.505Z",
+          "likeCount": 8,
+          "commentCount": 10,
+          "favoriteCount": 4,
+          "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-08T06:37:19Z",
+          "likeCount": 8,
+          "commentCount": 10,
+          "favoriteCount": 4,
+          "shareCount": 5
         }
       ],
       "likeCount": 8,
@@ -748,7 +762,7 @@
       "favoriteCount": 4,
       "shareCount": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-08T05:40:37.505Z"
+        "engagementCapturedAt": "2026-08-08T06:37:19Z"
       }
     },
     {
