@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T08:18:03+08:00",
-    "engagementCapturedAt": "2026-08-07T23:59:59.172Z",
+    "engagementCapturedAt": "2026-08-08T01:17:52.905Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -54,7 +54,11 @@
       "duration": null,
       "linkAttempts": 0,
       "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null
+      "nextLinkRetryAt": null,
+      "likeCount": 12,
+      "commentCount": 3,
+      "favoriteCount": 6,
+      "shareCount": 3
     },
     {
       "rank": 3,
@@ -123,7 +127,16 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T00:58:50.000Z"
-      }
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 7,
+          "commentCount": 4,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "rank": 6,
@@ -206,7 +219,11 @@
       "duration": null,
       "linkAttempts": 0,
       "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null
+      "nextLinkRetryAt": null,
+      "likeCount": 8,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "title": "从145斤到99斤，差别到底有多大? 以前觉得减肥就要饿肚子，现在才知道吃对东西真的能瘦，看看我吃的顿顿肉 掉秤还比吃草还快，快乐又掉秤。",
@@ -265,7 +282,7 @@
         },
         {
           "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 2,
+          "likeCount": 3,
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
@@ -320,12 +337,19 @@
           "commentCount": 4,
           "favoriteCount": 18,
           "shareCount": 19
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 62,
+          "commentCount": 4,
+          "favoriteCount": 18,
+          "shareCount": 19
         }
       ],
-      "likeCount": 62,
+      "likeCount": 63,
       "commentCount": 4,
       "favoriteCount": 18,
-      "shareCount": 19,
+      "shareCount": 21,
       "source": {
         "engagementCapturedAt": "2026-08-07T23:59:59.172Z"
       }
@@ -490,6 +514,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 10,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 7
         }
       ],
       "likeCount": 10,
@@ -624,6 +655,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -717,9 +755,16 @@
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 11,
+          "commentCount": 6,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 11,
+      "likeCount": 12,
       "commentCount": 6,
       "favoriteCount": 0,
       "shareCount": 0,
@@ -791,6 +836,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:18:58.924+00:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -880,6 +932,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -958,9 +1017,16 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 1,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 1,
+      "likeCount": 2,
       "commentCount": 2,
       "favoriteCount": 1,
       "shareCount": 0,
@@ -1036,9 +1102,16 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
-      "likeCount": 8,
+      "likeCount": 9,
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1,
@@ -1159,6 +1232,13 @@
         },
         {
           "capturedAt": "2026-08-07T23:18:58.924+00:00",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -1562,6 +1642,13 @@
         {
           "capturedAt": "2026-08-07T23:18:58.924+00:00",
           "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-07T23:59:59.172Z",
+          "likeCount": 3,
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
