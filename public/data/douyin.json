@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T04:25:10+08:00",
-    "engagementCapturedAt": "2026-08-08T20:01:23Z",
+    "engagementCapturedAt": "2026-08-08T23:42:19.232Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,7 +55,15 @@
         "开场：亮出产后天数、体重目标与当前成果",
         "主体：展示当天饮食和生活化执行",
         "收束：以连续打卡推动追更"
-      ]
+      ],
+      "engagementHistory": [],
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+      }
     },
     {
       "videoUrl": null,
@@ -97,7 +105,15 @@
         "开场：给出季节性饮食主题",
         "主体：列出可执行的食材或吃法",
         "收束：回扣吃瘦不挨饿"
-      ]
+      ],
+      "engagementHistory": [],
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671672723311552832",
@@ -121,7 +137,7 @@
       "likeCount": 14,
       "commentCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       },
       "engagementHistory": [
         {
@@ -165,6 +181,13 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 14,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "favoriteCount": 0,
@@ -189,12 +212,12 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 11,
+      "likeCount": 12,
       "commentCount": 0,
       "favoriteCount": 5,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       },
       "engagementHistory": [
         {
@@ -230,6 +253,13 @@
           "likeCount": 8,
           "commentCount": 0,
           "favoriteCount": 3,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 11,
+          "commentCount": 0,
+          "favoriteCount": 5,
           "shareCount": 3
         }
       ]
@@ -274,7 +304,15 @@
         "开场：用反问制造共鸣",
         "主体：拆解减肥执行的现实障碍",
         "收束：给出继续行动的理由"
-      ]
+      ],
+      "engagementHistory": [],
+      "likeCount": 65,
+      "commentCount": 14,
+      "favoriteCount": 9,
+      "shareCount": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671659219934316985",
@@ -296,13 +334,21 @@
         "主体：输出减脂干货要点",
         "收束：引导收藏复看"
       ],
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 3,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       }
     },
     {
@@ -325,13 +371,21 @@
         "主体：邀请观众代入自身经验",
         "收束：引导评论区讨论"
       ],
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 26,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
+        }
+      ],
       "likeCount": 26,
       "commentCount": 2,
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       }
     },
     {
@@ -833,7 +887,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
-      }
+      },
+      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
     },
     {
       "videoUrl": null,
@@ -953,7 +1008,8 @@
           "favoriteCount": 1,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671536513956989312",
@@ -980,7 +1036,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       },
       "engagementHistory": [
         {
@@ -1020,6 +1076,13 @@
         },
         {
           "capturedAt": "2026-08-08T18:21:01Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
           "likeCount": 1,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -1312,6 +1375,13 @@
           "commentCount": 28,
           "favoriteCount": 3,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 45,
+          "commentCount": 28,
+          "favoriteCount": 3,
+          "shareCount": 0
         }
       ],
       "likeCount": 45,
@@ -1319,7 +1389,7 @@
       "favoriteCount": 3,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
+        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
       }
     },
     {
@@ -1482,7 +1552,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
-      }
+      },
+      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
     },
     {
       "rank": 4,
