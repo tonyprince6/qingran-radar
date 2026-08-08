@@ -179,14 +179,21 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 7,
+      "likeCount": 8,
       "commentCount": 0,
       "favoriteCount": 3,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T18:21:01Z"
+        "engagementCapturedAt": "2026-08-08T21:41:11Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T18:21:01Z",
+          "likeCount": 7,
+          "commentCount": 0,
+          "favoriteCount": 3,
+          "shareCount": 3
+        },
         {
           "capturedAt": "2026-08-08T17:37:17Z",
           "likeCount": 7,
