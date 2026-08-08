@@ -60,7 +60,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       },
       "engagementHistory": [
         {
@@ -72,6 +72,13 @@
         },
         {
           "capturedAt": "2026-08-08T02:38:46.000Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -140,12 +147,12 @@
       "linkAttempts": 0,
       "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
-      "likeCount": 7,
+      "likeCount": 8,
       "commentCount": 4,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       },
       "engagementHistory": [
         {
@@ -157,6 +164,13 @@
         },
         {
           "capturedAt": "2026-08-08T00:58:50.000Z",
+          "likeCount": 7,
+          "commentCount": 4,
+          "favoriteCount": 1,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
           "likeCount": 7,
           "commentCount": 4,
           "favoriteCount": 1,
@@ -251,8 +265,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
-      }
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "title": "从145斤到99斤，差别到底有多大? 以前觉得减肥就要饿肚子，现在才知道吃对东西真的能瘦，看看我吃的顿顿肉 掉秤还比吃草还快，快乐又掉秤。",
@@ -336,14 +359,21 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 5,
+      "likeCount": 7,
       "commentCount": 0,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -401,14 +431,21 @@
           "commentCount": 5,
           "favoriteCount": 18,
           "shareCount": 23
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 63,
+          "commentCount": 5,
+          "favoriteCount": 18,
+          "shareCount": 23
         }
       ],
-      "likeCount": 63,
+      "likeCount": 64,
       "commentCount": 5,
       "favoriteCount": 18,
       "shareCount": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -514,14 +551,21 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 7,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 3
         }
       ],
-      "likeCount": 7,
-      "commentCount": 5,
+      "likeCount": 8,
+      "commentCount": 10,
       "favoriteCount": 4,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -613,6 +657,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 12,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 7
         }
       ],
       "likeCount": 12,
@@ -620,7 +671,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -754,6 +805,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -761,7 +819,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -854,14 +912,21 @@
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 12,
+          "commentCount": 6,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 12,
-      "commentCount": 6,
+      "commentCount": 7,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -939,6 +1004,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
       "likeCount": 0,
@@ -946,7 +1018,7 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -1039,7 +1111,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
-      }
+      },
+      "lastMetricError": "页面未加载主视频操作区，未覆盖原互动数据"
     },
     {
       "title": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。 #健康减肥 #减脂干货",
@@ -1130,14 +1203,21 @@
           "commentCount": 2,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 4,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ],
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 2,
       "favoriteCount": 1,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -1229,6 +1309,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 9,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
       "likeCount": 9,
@@ -1236,7 +1323,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -1363,6 +1450,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T02:18:10.000Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -1370,7 +1464,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T02:18:10.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
@@ -1786,6 +1880,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T03:00:30.000Z",
+          "likeCount": 5,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
       "likeCount": 5,
@@ -1793,7 +1894,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T03:00:30.000Z"
+        "engagementCapturedAt": "2026-08-08T03:18:03.202Z"
       }
     },
     {
