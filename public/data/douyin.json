@@ -209,14 +209,21 @@
           "commentCount": 10,
           "favoriteCount": 54,
           "shareCount": 23
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 212,
+          "commentCount": 10,
+          "favoriteCount": 57,
+          "shareCount": 24
         }
       ],
-      "likeCount": 212,
+      "likeCount": 217,
       "commentCount": 10,
-      "favoriteCount": 57,
+      "favoriteCount": 56,
       "shareCount": 24,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
@@ -519,7 +526,7 @@
       "favoriteCount": 2,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       },
       "engagementHistory": [
         {
@@ -563,6 +570,13 @@
           "commentCount": 1,
           "favoriteCount": 2,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 13,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 1
         }
       ]
     },
@@ -590,7 +604,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       },
       "engagementHistory": [
         {
@@ -693,6 +707,13 @@
         },
         {
           "capturedAt": "2026-08-08T09:40:01Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -1022,14 +1043,21 @@
           "commentCount": 6,
           "favoriteCount": 24,
           "shareCount": 42
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 79,
+          "commentCount": 6,
+          "favoriteCount": 24,
+          "shareCount": 42
         }
       ],
       "likeCount": 79,
       "commentCount": 6,
       "favoriteCount": 24,
-      "shareCount": 42,
+      "shareCount": 43,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
@@ -1240,7 +1268,7 @@
       "favoriteCount": 4,
       "shareCount": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-08T09:40:01Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
@@ -1451,6 +1479,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 14,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 7
         }
       ],
       "likeCount": 14,
@@ -1458,7 +1493,7 @@
       "favoriteCount": 4,
       "shareCount": 7,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
@@ -2543,6 +2578,13 @@
           "commentCount": 2,
           "favoriteCount": 2,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 6,
+          "commentCount": 2,
+          "favoriteCount": 2,
+          "shareCount": 2
         }
       ],
       "likeCount": 6,
@@ -2550,7 +2592,7 @@
       "favoriteCount": 2,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
@@ -2691,6 +2733,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T10:20:28Z",
+          "likeCount": 13,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
       "likeCount": 13,
@@ -2698,7 +2747,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T10:20:28Z"
+        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
       }
     },
     {
