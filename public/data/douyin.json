@@ -2245,6 +2245,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T12:38:07.267Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
       "likeCount": 1,
@@ -2252,7 +2259,7 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-08T12:38:07.267Z"
+        "engagementCapturedAt": "2026-08-08T12:57:30Z"
       }
     },
     {
