@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-08T20:20:22+08:00",
+    "capturedAt": "2026-08-09T00:21:10+08:00",
     "engagementCapturedAt": "2026-08-08T16:16:41Z",
     "window": "最近4小时",
     "index": {
@@ -25,8 +25,8 @@
       },
       "体重管理": {
         "period": "2026-07-06 ~ 2026-08-06",
-        "searchAverage": "9955",
-        "comprehensiveAverage": "1.3万"
+        "searchAverage": null,
+        "comprehensiveAverage": null
       }
     }
   },
@@ -36,6 +36,166 @@
     "体重管理"
   ],
   "videos": [
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 1,
+      "title": "减肥vglo-130斤瘦到110斤需要多久 第五十五天 初始体重130 今日体重124.8 今日份饮食： 冒菜+两个雪糕 #减肥打卡日记 #",
+      "publishedAt": "2026年8月8日 23:11",
+      "author": "玉米🌽棒子",
+      "hook": "130斤到110斤需要多久",
+      "hookType": "减肥打卡",
+      "retention": "用目标体重差和第55天进度建立连续追更感。",
+      "scriptSegments": [
+        "开场：提出130斤到110斤的减重目标",
+        "主体：记录第55天体重和当天饮食",
+        "收束：以打卡进度延续系列内容"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 2,
+      "title": "大基数记录打卡第47天 #真实生活分享计划 今天也是好好努力的一天呢！ #减肥日常记录 #减脂期每天要吃什么 #体重管理日常 #减肥",
+      "publishedAt": "2026年8月8日 22:48",
+      "author": "雪球球",
+      "hook": "大基数记录打卡第47天",
+      "hookType": "减肥打卡",
+      "retention": "以大基数和第47天的具体进度吸引同类人持续关注。",
+      "scriptSegments": [
+        "开场：点明大基数减肥打卡第47天",
+        "主体：展示当天饮食与日常执行",
+        "收束：用持续努力强化陪伴感"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 3,
+      "title": "减了30斤一年没反弹的减脂分享#减肥经验分享 #体重管理 #科学减脂 #真实减肥经历分享",
+      "publishedAt": "2026年8月8日 22:39",
+      "author": "阿巍",
+      "hook": "减了30斤，一年没反弹",
+      "hookType": "长期成果",
+      "retention": "先给出30斤且一年不反弹的结果，再承接可复制的经验。",
+      "scriptSegments": [
+        "开场：展示减30斤且一年未反弹的成果",
+        "主体：分享科学减脂经验",
+        "收束：强调体重管理的长期性"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 4,
+      "title": "两个月减掉30斤后，维持体重不反弹的一天吃了什么 好不容易减掉的30斤，怎么舍得反弹回去呢#减脂打卡日常 #健身日常记录 #体重管理 #减肥",
+      "publishedAt": "2026年8月8日 22:04",
+      "author": "茶·好了 怡姐生活号",
+      "hook": "两个月减30斤后，一天吃什么",
+      "hookType": "维重饮食",
+      "retention": "以30斤成果和“不反弹”的焦虑切入，展示维持期的一天饮食。",
+      "scriptSegments": [
+        "开场：交代两个月减30斤的成果",
+        "主体：展示维持体重的一天吃法",
+        "收束：强调避免反弹的日常选择"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 5,
+      "title": "#体重管理 #变美变瘦变好看 #减脂干货分享 #减肥 #减脂干货分享",
+      "publishedAt": "2026年8月8日 21:55",
+      "author": "瘦了40斤的佳佳",
+      "hook": "瘦了40斤的减脂干货",
+      "hookType": "减脂干货",
+      "retention": "以40斤成果建立信任，并用干货定位吸引需要方法的观众。",
+      "scriptSegments": [
+        "开场：以瘦40斤成果建立背书",
+        "主体：输出减脂干货",
+        "收束：关联变美变瘦的目标"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 6,
+      "title": "香蕉🍌椰子🥥减肥法 #减肥#香蕉椰子水 #减脂同时也要营养均衡 #减脂一定要坚持 马上就要开学了，紧急体重管理一下😭#减肥",
+      "publishedAt": "2026年8月8日 21:43",
+      "author": "🐏洋芋丝",
+      "hook": "香蕉椰子减肥法，开学前紧急体重管理",
+      "hookType": "饮食方法",
+      "retention": "用开学前的时间压力和具体食材组合制造立即观看动机。",
+      "scriptSegments": [
+        "开场：提出香蕉椰子减肥法",
+        "主体：说明食材搭配与营养均衡",
+        "收束：连接开学前体重管理需求"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 7,
+      "title": "减肥打卡第130天🙋‍♀️减脂期怎么控制食欲 有什么好的办法 评论区说一下姐妹们🖐️#体重管理 #减肥打卡记录 #抖音助手#真实生活分享",
+      "publishedAt": "2026年8月8日 21:38",
+      "author": "苏比 （目标50）",
+      "hook": "减脂期怎么控制食欲",
+      "hookType": "互动提问",
+      "retention": "第130天的长期打卡背书加上控制食欲提问，引导评论互动。",
+      "scriptSegments": [
+        "开场：点明减肥打卡第130天",
+        "主体：抛出减脂期控制食欲的难题",
+        "收束：邀请观众在评论区分享办法"
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "rank": 8,
+      "title": "经历40斤体重管理的两年后四十岁大叔HIIT聊聊减肥 人到四十，代谢下滑、肚子堆肉、减脂越来越难。整整两年时间，我从173斤暴减40斤，不靠",
+      "publishedAt": "2026年8月8日 19:45",
+      "author": "Vince.Z印鑫大叔",
+      "hook": "四十岁大叔两年减40斤",
+      "hookType": "中年减脂经验",
+      "retention": "锁定40岁代谢下滑痛点，以两年减40斤的可信成果承接HIIT经验。",
+      "scriptSegments": [
+        "开场：指出四十岁代谢下滑与堆肉焦虑",
+        "主体：讲述两年从173斤减40斤的过程",
+        "收束：分享HIIT与长期体重管理思路"
+      ]
+    },
     {
       "videoUrl": "https://www.douyin.com/video/7671622868095343534",
       "coverUrl": null,
@@ -2706,873 +2866,6 @@
       "source": {
         "engagementCapturedAt": "2026-08-08T11:38:44.528Z"
       }
-    },
-    {
-      "title": "亲测亲测！谁懂啊！减脂期吃馒头也能好好掉秤！ #减脂打卡 #体重管理 #减肥打卡记录 #瓶颈期怎么度过",
-      "publishedAt": "2026年8月7日 19:59",
-      "author": "赵小姐",
-      "videoUrl": "https://www.douyin.com/video/7671258018718426458",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "hook": "亲测亲测！谁懂啊！减脂期吃馒头也能好好掉秤！",
-      "hookType": "饮食方法",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 13,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-08T01:58:21+08:00",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-08T02:37:50.720+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:17:24+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:39:38+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:17:34+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:11+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:00:43+08:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:18:58.924+00:00",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:18:10.000Z",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:19:34Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:36:55Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:37.505Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:19:33Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:40:31Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T08:00:19.032Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T08:38:33.269Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T09:18:27Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T10:20:28Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T11:38:44.528Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 6,
-      "commentCount": 0,
-      "favoriteCount": 1,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T11:57:21.000Z"
-      }
-    },
-    {
-      "rank": 34,
-      "title": "演员的自律～116斤的时候，导演要求一个星期瘦6斤#姜妍 #综艺节目 #姜妍二胖 #综艺名场面 #姜妍厨娘天花板",
-      "publishedAt": "2026年8月7日 19:49",
-      "author": "姜妍萌厨美食",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-08T22:41:50+08:00",
-      "lastLinkAttemptAt": "2026-08-07T22:41:50+08:00",
-      "hook": "116斤时，一周要瘦6斤。",
-      "hookType": "极限目标",
-      "retention": "明确的短周期减重数字制造紧迫感，吸引用户关注演员自律方法。",
-      "scriptSegments": [
-        "开场：给出116斤与一周瘦6斤的任务",
-        "主体：讲述演员面对导演要求的自律",
-        "收束：关联综艺名场面"
-      ]
-    },
-    {
-      "title": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。 #健康减肥 #减脂干货",
-      "publishedAt": "2026年8月7日 19:39",
-      "author": "营养师王卓-体重管理",
-      "videoUrl": "https://www.douyin.com/video/7671252968783514907",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "hook": "一个月最多能减几斤脂肪 戳破快速减重的误区，告诉你健康减脂的真实速度，不自己骗自己，实实在在减脂肪。",
-      "hookType": "避坑科普",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 14,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-08T01:58:21+08:00",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-08T02:37:50.720+08:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:17:24+08:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:17:34+08:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:11+08:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:00:43+08:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:18:58.924+00:00",
-          "likeCount": 1,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 2,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:18:10.000Z",
-          "likeCount": 2,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:38:46.000Z",
-          "likeCount": 3,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T03:00:30.000Z",
-          "likeCount": 4,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T03:18:03.202Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T03:39:13.000Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T03:57:23Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T04:19:34Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T04:36:55Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:37.505Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T07:02:03.000Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T07:19:33Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T07:40:31Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T08:00:19.032Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T08:38:33.269Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T09:18:27Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T09:40:01Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T10:20:28Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-08T11:18:54.606Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 2
-        }
-      ],
-      "likeCount": 6,
-      "commentCount": 2,
-      "favoriteCount": 2,
-      "shareCount": 2,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T11:57:21.000Z"
-      }
-    },
-    {
-      "title": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当你体会到，就再也不想摆烂。 #减肥 #减",
-      "publishedAt": "2026年8月7日 19:37",
-      "author": "丹丹在减肥",
-      "videoUrl": "https://www.douyin.com/video/7671252437354193737",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "hook": "一旦体会到这种感觉，根本不想放弃减脂 减肥不只是数字变轻，清爽的身体、稳定的皮肤、掌控人生的底气，当",
-      "hookType": "减脂经验",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 15,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-08T01:58:21+08:00",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-08T04:17:24+08:00",
-          "likeCount": 7,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:17:34+08:00",
-          "likeCount": 7,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:11+08:00",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T06:38:47+08:00",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T07:00:43+08:00",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-07T23:18:58.924+00:00",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T02:18:10.000Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T02:38:46.000Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T03:00:30.000Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T03:18:03.202Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T03:39:13.000Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T04:19:34Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T04:36:55Z",
-          "likeCount": 10,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:37.505Z",
-          "likeCount": 10,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T07:02:03.000Z",
-          "likeCount": 10,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T10:20:28Z",
-          "likeCount": 13,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 1
-        }
-      ],
-      "likeCount": 13,
-      "commentCount": 1,
-      "favoriteCount": 1,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T11:18:54.606Z"
-      },
-      "lastMetricError": "主视频操作区未完整呈现，未更新互动值"
-    },
-    {
-      "rank": 5,
-      "title": "🧊｜今天早上126.7 我很满意🥰 #减脂计划与脂肪死磕到底 #减肥 #体重记录📝 #健康饮食计划🥗 #体重管理ing",
-      "publishedAt": "2026年8月7日 19:12",
-      "author": "🧊_🧊",
-      "hook": "今天早上126.7，我很满意",
-      "hookType": "体重打卡",
-      "retention": "即时体重结果与满意情绪形成轻量反馈，激发用户查看减脂计划和饮食细节。",
-      "scriptSegments": [
-        "开场：报出早晨126.7的体重结果",
-        "主体：关联减脂计划与健康饮食",
-        "收束：以持续体重记录强化陪伴感"
-      ],
-      "videoUrl": "https://www.douyin.com/video/7671246016407130085",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "likeCount": 10,
-      "commentCount": 9,
-      "favoriteCount": 1,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T11:57:21.000Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 7,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T00:58:50.000Z",
-          "likeCount": 7,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:18:10.000Z",
-          "likeCount": 7,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T03:18:03.202Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T03:57:23Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:19:34Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:36:55Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:37.505Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:19:33Z",
-          "likeCount": 9,
-          "commentCount": 5,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T08:00:19.032Z",
-          "likeCount": 10,
-          "commentCount": 6,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T08:38:33.269Z",
-          "likeCount": 10,
-          "commentCount": 6,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T09:18:27Z",
-          "likeCount": 10,
-          "commentCount": 6,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T09:40:01Z",
-          "likeCount": 10,
-          "commentCount": 6,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T10:20:28Z",
-          "likeCount": 10,
-          "commentCount": 6,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "不敢相信，你不胖和你好瘦之间竟然差了20斤 #你不胖 #瘦子 #减肥 #生活化减脂 #体重管理",
-      "publishedAt": "2026年8月7日 18:32",
-      "author": "豆豆聊减脂",
-      "videoUrl": "https://www.douyin.com/video/7671235624209560390",
-      "coverUrl": null,
-      "duration": "02:50",
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "hook": "你不胖和你好瘦之间，竟然差20斤。",
-      "hookType": "认知反差",
-      "retention": "日常评价与20斤差距构成鲜明反差，激发了解生活化减脂方法的兴趣。",
-      "scriptSegments": [
-        "开场：对比你不胖与好瘦的20斤差距",
-        "主体：讨论减肥与生活化减脂",
-        "收束：回到体重管理"
-      ],
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-07T22:18:52+08:00",
-          "likeCount": null,
-          "commentCount": null,
-          "favoriteCount": null,
-          "shareCount": null
-        },
-        {
-          "capturedAt": "2026-08-07T23:17:29+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:37:06+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T00:17:31+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T01:58:21+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:37:50.720+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:17:24+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:17:34+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T05:40:11+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T07:00:43+08:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:18:58.924+00:00",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-07T23:59:59.172Z",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T02:18:10.000Z",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T03:18:03.202Z",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-08T04:19:34Z",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-08T04:59:22.554Z",
-          "likeCount": 0,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 1
-        }
-      ],
-      "likeCount": 0,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T07:02:03.000Z"
-      }
-    },
-    {
-      "title": "90斤的人一天都吃什么？ 太辣了！#减肥 #减脂 #vlog美食记 #瘦子饮食习惯 #生活化体重管理",
-      "publishedAt": "2026年8月7日 18:22",
-      "author": "月亮潘潇",
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 1,
-      "lastLinkAttemptAt": "2026-08-08T07:49:15+08:00",
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "hook": "90斤的人一天都吃什么？ 太辣了！",
-      "hookType": "饮食方法",
-      "retention": "以明确的减脂场景、问题或结果切入，促使用户继续了解具体做法。",
-      "scriptSegments": [
-        "开场：抛出标题中的减脂问题或结果",
-        "主体：展开饮食、习惯或体重管理方法",
-        "收束：给出可执行的减脂提醒或行动点"
-      ],
-      "rank": 18
-    },
-    {
-      "rank": 6,
-      "title": "怎么定适合你身体状态的减肥目标 减肥vs减重vs减脂#减肥#女性减肥#减重 #体重管理#身材管理",
-      "publishedAt": "2026年8月7日 18:19",
-      "author": "内啡钛",
-      "hook": "怎么定适合自己身体状态的减肥目标",
-      "hookType": "知识科普",
-      "retention": "用“减肥、减重、减脂”的概念差异切入，承诺给出个性化目标设定答案。",
-      "scriptSegments": [
-        "开场：提出如何设定减肥目标的问题",
-        "主体：区分减肥、减重与减脂",
-        "收束：回到身体状态和体重管理选择"
-      ],
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-09T09:52:43+08:00",
-      "lastLinkAttemptAt": "2026-08-08T09:52:43+08:00"
     }
   ]
 }
