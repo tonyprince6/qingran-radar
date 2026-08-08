@@ -1234,14 +1234,21 @@
           "commentCount": 28,
           "favoriteCount": 2,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T19:38:17Z",
+          "likeCount": 44,
+          "commentCount": 28,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
       ],
-      "likeCount": 44,
+      "likeCount": 45,
       "commentCount": 28,
-      "favoriteCount": 2,
+      "favoriteCount": 3,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T19:38:17Z"
+        "engagementCapturedAt": "2026-08-08T23:00:20Z"
       }
     },
     {
