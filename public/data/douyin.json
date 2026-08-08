@@ -49,11 +49,11 @@
         "主体：以减肥如玩命的自嘲强化投入感",
         "收束：用体重秤的爱恨与意志力维持打卡氛围"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671501999918042858",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null
     },
     {
@@ -69,11 +69,11 @@
         "主体：补充妈妈同步减重20斤",
         "收束：引向暑假食谱和长期执行"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671501913363491299",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null
     },
     {
@@ -92,7 +92,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T12:54:50+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null
     },
@@ -112,7 +113,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T12:54:50+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null
     },
@@ -132,7 +134,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T12:54:50+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null
     },
@@ -149,11 +152,11 @@
         "主体：定位大基数与上班族减肥痛点",
         "收束：输出减脂正确思路"
       ],
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671257087594338790",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null
     },
     {
@@ -172,7 +175,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T12:54:50+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null
     },
@@ -192,7 +196,8 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
+      "lastLinkAttemptAt": "2026-08-08T12:54:50+08:00",
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null
     },
