@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-08T20:20:22+08:00",
-    "engagementCapturedAt": "2026-08-08T13:16:07Z",
+    "engagementCapturedAt": "2026-08-08T14:57:12Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -137,7 +137,7 @@
       "favoriteCount": 6,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:39:06.460Z"
+        "engagementCapturedAt": "2026-08-08T14:57:12Z"
       },
       "engagementHistory": [
         {
@@ -289,6 +289,13 @@
         },
         {
           "capturedAt": "2026-08-08T14:17:25Z",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 6,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T14:39:06.460Z",
           "likeCount": 12,
           "commentCount": 3,
           "favoriteCount": 6,
@@ -685,6 +692,13 @@
           "commentCount": 26,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T14:17:25Z",
+          "likeCount": 42,
+          "commentCount": 28,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
       ],
       "likeCount": 42,
@@ -692,9 +706,8 @@
       "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:17:25Z"
-      },
-      "lastMetricError": "分享数在主视频操作区未显示，未覆盖现有互动值"
+        "engagementCapturedAt": "2026-08-08T14:57:12Z"
+      }
     },
     {
       "rank": 2,
@@ -785,6 +798,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T14:17:25Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
@@ -792,9 +812,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T14:17:25Z"
-      },
-      "lastMetricError": "收藏和分享数在主视频操作区未显示，未覆盖现有互动值"
+        "engagementCapturedAt": "2026-08-08T14:57:12Z"
+      }
     },
     {
       "rank": 4,
