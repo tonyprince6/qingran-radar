@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T04:26:00+08:00",
-    "engagementCapturedAt": "2026-08-09T22:01:51Z",
+    "engagementCapturedAt": "2026-08-09T22:39:23Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -74,7 +74,14 @@
         "主体：围绕减脂、减肥或体重管理展开具体内容",
         "收束：回扣可持续执行与互动"
       ],
-      "rank": 2
+      "rank": 2,
+      "likeCount": 5,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 2,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T22:39:23Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672072339035505344",
@@ -134,7 +141,14 @@
         "主体：围绕减脂、减肥或体重管理展开具体内容",
         "收束：回扣可持续执行与互动"
       ],
-      "rank": 5
+      "rank": 5,
+      "likeCount": 2,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T22:39:23Z"
+      }
     },
     {
       "videoUrl": null,
@@ -274,7 +288,14 @@
         "主体：围绕减脂、减肥或体重管理展开具体内容",
         "收束：回扣可持续执行与互动"
       ],
-      "rank": 10
+      "rank": 10,
+      "likeCount": 37,
+      "commentCount": 0,
+      "favoriteCount": 8,
+      "shareCount": 14,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T22:39:23Z"
+      }
     },
     {
       "videoUrl": null,
@@ -521,9 +542,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:47:11Z"
+        "engagementCapturedAt": "2026-08-09T22:39:23Z"
       },
-      "lastMetricError": "main action metrics unavailable"
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T20:47:11Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672028431080574242",
@@ -602,6 +631,13 @@
           "commentCount": 12,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T21:00:53Z",
+          "likeCount": 10,
+          "commentCount": 12,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 10,
@@ -609,7 +645,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T21:00:53Z"
+        "engagementCapturedAt": "2026-08-09T22:39:23Z"
       }
     },
     {
