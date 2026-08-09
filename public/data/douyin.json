@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T20:31:01+08:00",
-    "engagementCapturedAt": "2026-08-09T14:40:18.000Z",
+    "engagementCapturedAt": "2026-08-09T15:23:55.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,15 +55,22 @@
         "收束：以坚持一个月的身材变化强化行动"
       ],
       "rank": 1,
-      "likeCount": 1,
+      "likeCount": 3,
       "commentCount": 0,
       "favoriteCount": 1,
-      "shareCount": 1,
+      "shareCount": 2,
       "source": {
-      "engagementCapturedAt": "2026-08-09T14:40:18.000Z"
+        "engagementCapturedAt": "2026-08-09T15:23:55.000Z"
       },
-    "engagementHistory": [
-      {
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T14:40:18.000Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 1
+        },
+        {
         "capturedAt": "2026-08-09T14:20:10.385Z",
         "likeCount": 1,
         "commentCount": 0,
