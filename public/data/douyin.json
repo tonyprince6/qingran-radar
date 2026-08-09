@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T04:25:10+08:00",
-    "engagementCapturedAt": "2026-08-08T23:42:19.232Z",
+    "engagementCapturedAt": "2026-08-09T00:01:14.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -56,13 +56,21 @@
         "主体：展示当天饮食和生活化执行",
         "收束：以连续打卡推动追更"
       ],
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T00:01:14.000Z"
       }
     },
     {
