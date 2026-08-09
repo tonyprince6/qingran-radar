@@ -74,11 +74,11 @@
       }
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671692121191048357",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 2,
