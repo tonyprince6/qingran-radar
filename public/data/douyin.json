@@ -55,13 +55,22 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 1,
-      "likeCount": 1,
+      "likeCount": 5,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
-      }
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672081970427568741",
@@ -87,11 +96,18 @@
       "favoriteCount": 0,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-09T22:39:23Z",
+          "likeCount": 5,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
           "likeCount": 5,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -118,13 +134,22 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 3,
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 4,
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
-      }
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 4,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 1
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672066264085427187",
@@ -150,8 +175,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
-      }
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672058583031605222",
@@ -177,11 +211,18 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-09T22:39:23Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
           "likeCount": 2,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -255,7 +296,7 @@
       "favoriteCount": 125,
       "shareCount": 66,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -292,6 +333,13 @@
           "commentCount": 3,
           "favoriteCount": 52,
           "shareCount": 42
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 193,
+          "commentCount": 3,
+          "favoriteCount": 125,
+          "shareCount": 66
         }
       ]
     },
@@ -335,12 +383,12 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 10,
-      "likeCount": 41,
+      "likeCount": 42,
       "commentCount": 0,
       "favoriteCount": 8,
       "shareCount": 15,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -349,6 +397,13 @@
           "commentCount": 0,
           "favoriteCount": 8,
           "shareCount": 14
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 41,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 15
         }
       ]
     },
@@ -557,7 +612,7 @@
       "rank": 1,
       "likeCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -571,6 +626,13 @@
           "capturedAt": "2026-08-09T21:00:53Z",
           "likeCount": 0,
           "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 0,
+          "commentCount": 5,
           "favoriteCount": 0,
           "shareCount": 0
         }
@@ -612,6 +674,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 1,
@@ -619,7 +688,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       }
     },
     {
@@ -642,12 +711,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 90,
+      "likeCount": 99,
       "commentCount": 2,
-      "favoriteCount": 50,
-      "shareCount": 40,
+      "favoriteCount": 59,
+      "shareCount": 47,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -677,6 +746,13 @@
           "commentCount": 2,
           "favoriteCount": 44,
           "shareCount": 37
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 90,
+          "commentCount": 2,
+          "favoriteCount": 50,
+          "shareCount": 40
         }
       ]
     },
@@ -720,14 +796,21 @@
           "commentCount": 12,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 12,
+          "commentCount": 12,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 12,
-      "commentCount": 12,
+      "likeCount": 16,
+      "commentCount": 17,
       "favoriteCount": 1,
-      "shareCount": 0,
+      "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       }
     },
     {
@@ -752,9 +835,9 @@
       "likeCount": 8,
       "commentCount": 0,
       "favoriteCount": 1,
-      "shareCount": 2,
+      "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -826,6 +909,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 8,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ]
     },
@@ -849,12 +939,12 @@
         "收束：强调自律与生活化减脂的持续执行"
       ],
       "rank": 10,
-      "likeCount": 109,
+      "likeCount": 114,
       "commentCount": 1,
-      "favoriteCount": 53,
-      "shareCount": 45,
+      "favoriteCount": 58,
+      "shareCount": 46,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -912,6 +1002,13 @@
           "commentCount": 1,
           "favoriteCount": 49,
           "shareCount": 41
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 109,
+          "commentCount": 1,
+          "favoriteCount": 53,
+          "shareCount": 45
         }
       ]
     },
@@ -977,14 +1074,21 @@
           "commentCount": 1,
           "favoriteCount": 136,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 111,
+          "commentCount": 1,
+          "favoriteCount": 138,
+          "shareCount": 30
         }
       ],
-      "likeCount": 111,
+      "likeCount": 112,
       "commentCount": 1,
       "favoriteCount": 138,
       "shareCount": 30,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       }
     },
     {
@@ -1006,12 +1110,12 @@
         "收束：建议用更多身体指标降低焦虑"
       ],
       "rank": 12,
-      "likeCount": 3,
+      "likeCount": 5,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:11:41Z"
+        "engagementCapturedAt": "2026-08-09T23:39:15Z"
       },
       "engagementHistory": [
         {
@@ -1037,6 +1141,13 @@
         },
         {
           "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
           "likeCount": 3,
           "commentCount": 0,
           "favoriteCount": 0,
