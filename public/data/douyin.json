@@ -220,7 +220,7 @@
       "favoriteCount": 1,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T17:23:03.745Z"
+        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
       },
       "engagementHistory": [
         {
@@ -271,6 +271,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ]
     },
@@ -294,12 +301,12 @@
         "收束：强调自律与生活化减脂的持续执行"
       ],
       "rank": 10,
-      "likeCount": 91,
+      "likeCount": 97,
       "commentCount": 1,
-      "favoriteCount": 41,
+      "favoriteCount": 45,
       "shareCount": 35,
       "source": {
-        "engagementCapturedAt": "2026-08-09T17:23:03.745Z"
+        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
       },
       "engagementHistory": [
         {
@@ -308,6 +315,13 @@
           "commentCount": 1,
           "favoriteCount": 31,
           "shareCount": 31
+        },
+        {
+          "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 91,
+          "commentCount": 1,
+          "favoriteCount": 41,
+          "shareCount": 35
         }
       ]
     },
@@ -331,13 +345,21 @@
         "收束：提醒收藏并按生活化减脂执行"
       ],
       "rank": 11,
-      "engagementHistory": [],
-      "likeCount": 107,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 107,
+          "commentCount": 1,
+          "favoriteCount": 135,
+          "shareCount": 29
+        }
+      ],
+      "likeCount": 108,
       "commentCount": 1,
       "favoriteCount": 135,
       "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T17:23:03.745Z"
+        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
       }
     },
     {
@@ -414,7 +436,7 @@
       "favoriteCount": 8,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T17:23:03.745Z"
+        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
       },
       "engagementHistory": [
         {
@@ -430,6 +452,13 @@
           "commentCount": 6,
           "favoriteCount": 7,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 20,
+          "commentCount": 8,
+          "favoriteCount": 8,
+          "shareCount": 4
         }
       ]
     },
@@ -755,14 +784,21 @@
           "commentCount": 5,
           "favoriteCount": 124,
           "shareCount": 24
+        },
+        {
+          "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 186,
+          "commentCount": 5,
+          "favoriteCount": 136,
+          "shareCount": 29
         }
       ],
       "likeCount": 186,
       "commentCount": 5,
-      "favoriteCount": 136,
+      "favoriteCount": 138,
       "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T17:23:03.745Z"
+        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
       }
     },
     {
