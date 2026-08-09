@@ -37,11 +37,11 @@
   ],
   "videos": [
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672036547827143022",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "万物皆可吃，关键在于量 #减肥打卡日记 #减脂期吃什么 #减脂干饭日记 #体重管理日常 #自律饮食",
       "publishedAt": "2026年8月9日 22:20",
