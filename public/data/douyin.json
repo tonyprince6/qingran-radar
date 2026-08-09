@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T12:25:09+08:00",
-    "engagementCapturedAt": "2026-08-09T04:44:00.000Z",
+    "engagementCapturedAt": "2026-08-09T05:03:47.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -150,6 +150,13 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T04:44:00.000Z",
+          "likeCount": 4,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -157,7 +164,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T04:44:00.000Z"
+        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
       }
     },
     {
@@ -454,12 +461,12 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 18,
+      "likeCount": 19,
       "commentCount": 0,
       "favoriteCount": 8,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
       },
       "engagementHistory": [
         {
@@ -514,6 +521,13 @@
         {
           "capturedAt": "2026-08-09T01:44:21.000Z",
           "likeCount": 15,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-09T03:42:17.000Z",
+          "likeCount": 18,
           "commentCount": 0,
           "favoriteCount": 8,
           "shareCount": 4
@@ -582,14 +596,21 @@
           "commentCount": 23,
           "favoriteCount": 10,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T04:01:51.000Z",
+          "likeCount": 78,
+          "commentCount": 23,
+          "favoriteCount": 10,
+          "shareCount": 2
         }
       ],
-      "likeCount": 78,
-      "commentCount": 23,
+      "likeCount": 100,
+      "commentCount": 28,
       "favoriteCount": 10,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T04:01:51.000Z"
+        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
       }
     },
     {
