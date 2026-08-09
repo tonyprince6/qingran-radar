@@ -101,13 +101,22 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 71,
+      "likeCount": 72,
       "commentCount": 2,
-      "favoriteCount": 43,
+      "favoriteCount": 44,
       "shareCount": 37,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:03:28Z"
-      }
+        "engagementCapturedAt": "2026-08-09T20:22:09Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T20:03:28Z",
+          "likeCount": 71,
+          "commentCount": 2,
+          "favoriteCount": 43,
+          "shareCount": 37
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672026984125478393",
@@ -128,13 +137,22 @@
         "收束：回扣自律与变瘦目标"
       ],
       "rank": 4,
-      "likeCount": 89,
+      "likeCount": 95,
       "commentCount": 2,
-      "favoriteCount": 23,
-      "shareCount": 28,
+      "favoriteCount": 28,
+      "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:03:28Z"
-      }
+        "engagementCapturedAt": "2026-08-09T20:22:09Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T20:03:28Z",
+          "likeCount": 89,
+          "commentCount": 2,
+          "favoriteCount": 23,
+          "shareCount": 28
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -325,9 +343,9 @@
       "likeCount": 100,
       "commentCount": 1,
       "favoriteCount": 47,
-      "shareCount": 36,
+      "shareCount": 37,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:03:28Z"
+        "engagementCapturedAt": "2026-08-09T20:22:09Z"
       },
       "engagementHistory": [
         {
@@ -350,6 +368,13 @@
           "commentCount": 1,
           "favoriteCount": 45,
           "shareCount": 35
+        },
+        {
+          "capturedAt": "2026-08-09T20:03:28Z",
+          "likeCount": 100,
+          "commentCount": 1,
+          "favoriteCount": 47,
+          "shareCount": 36
         }
       ]
     },
@@ -387,14 +412,21 @@
           "commentCount": 1,
           "favoriteCount": 135,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-09T20:03:28Z",
+          "likeCount": 108,
+          "commentCount": 1,
+          "favoriteCount": 135,
+          "shareCount": 29
         }
       ],
       "likeCount": 108,
       "commentCount": 1,
-      "favoriteCount": 135,
+      "favoriteCount": 136,
       "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:03:28Z"
+        "engagementCapturedAt": "2026-08-09T20:22:09Z"
       }
     },
     {
@@ -833,14 +865,21 @@
           "commentCount": 5,
           "favoriteCount": 136,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-09T18:07:36.000Z",
+          "likeCount": 186,
+          "commentCount": 5,
+          "favoriteCount": 138,
+          "shareCount": 29
         }
       ],
-      "likeCount": 186,
+      "likeCount": 187,
       "commentCount": 5,
-      "favoriteCount": 138,
+      "favoriteCount": 141,
       "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
+        "engagementCapturedAt": "2026-08-09T20:22:09Z"
       }
     },
     {
