@@ -56,21 +56,28 @@
         "主体：展示当天饮食和生活化执行",
         "收束：以连续打卡推动追更"
       ],
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-08T23:42:19.232Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
+  "engagementHistory": [
+    {
+      "capturedAt": "2026-08-08T23:42:19.232Z",
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
+    },
+    {
+      "capturedAt": "2026-08-09T00:01:14.000Z",
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
+    }
       ],
       "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-09T00:01:14.000Z"
+  "source": {
+    "engagementCapturedAt": "2026-08-09T00:19:37.000Z"
       }
     },
     {
@@ -313,13 +320,21 @@
         "主体：拆解减肥执行的现实障碍",
         "收束：给出继续行动的理由"
       ],
-      "engagementHistory": [],
+  "engagementHistory": [
+    {
+      "capturedAt": "2026-08-08T23:42:19.232Z",
       "likeCount": 65,
       "commentCount": 14,
       "favoriteCount": 9,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+      "shareCount": 1
+    }
+  ],
+  "likeCount": 74,
+  "commentCount": 18,
+  "favoriteCount": 10,
+  "shareCount": 2,
+  "source": {
+    "engagementCapturedAt": "2026-08-09T00:19:37.000Z"
       }
     },
     {
