@@ -695,11 +695,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671623373969510314",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 18,
@@ -716,11 +716,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671619685629199497",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 19,
@@ -737,11 +737,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671618578060122235",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 20,
@@ -758,11 +758,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671617107259409231",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 21,
@@ -779,11 +779,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671556128261606707",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T07:19:47+08:00",
       "nextLinkRetryAt": null,
       "rank": 22,
@@ -800,11 +800,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671565669158774442",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 23,
       "title": "大体重 大基数 最佳减脂思路 #减脂 #手写配方 #体重管理 #减脂 #大体重减肥",
@@ -820,11 +820,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671551927726399738",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "rank": 24,
       "title": "饿瘦47斤，5点小心得❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
