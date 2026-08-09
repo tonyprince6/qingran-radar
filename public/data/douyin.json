@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T12:25:09+08:00",
-    "engagementCapturedAt": "2026-08-09T07:00:02.000Z",
+    "engagementCapturedAt": "2026-08-09T08:44:54.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -62,6 +62,13 @@
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T07:00:02.000Z",
+          "likeCount": 5,
+          "commentCount": 8,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 5,
@@ -69,7 +76,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T07:00:02.000Z"
+        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
       }
     },
     {
@@ -91,13 +98,21 @@
         "收束：给出可执行的减脂方向"
       ],
       "rank": 2,
-      "engagementHistory": [],
-      "likeCount": 61,
-      "commentCount": 2,
-      "favoriteCount": 16,
-      "shareCount": 5,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 61,
+          "commentCount": 2,
+          "favoriteCount": 16,
+          "shareCount": 5
+        }
+      ],
+      "likeCount": 78,
+      "commentCount": 4,
+      "favoriteCount": 30,
+      "shareCount": 8,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
       }
     },
     {
@@ -119,13 +134,21 @@
         "收束：提问邀请观众分享目标"
       ],
       "rank": 3,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 13,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 2
+        }
+      ],
       "likeCount": 13,
       "commentCount": 3,
       "favoriteCount": 0,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
       }
     },
     {
@@ -197,6 +220,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 4,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -204,7 +234,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
       }
     },
     {
@@ -339,14 +369,21 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 4,
-      "commentCount": 0,
+      "likeCount": 5,
+      "commentCount": 2,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
       }
     },
     {
