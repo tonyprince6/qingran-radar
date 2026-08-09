@@ -56,42 +56,49 @@
         "主体：展示当天饮食和生活化执行",
         "收束：以连续打卡推动追更"
       ],
-  "engagementHistory": [
-    {
-      "capturedAt": "2026-08-08T23:42:19.232Z",
-      "likeCount": 1,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0
-    },
-    {
-      "capturedAt": "2026-08-09T00:01:14.000Z",
-      "likeCount": 1,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0
-    },
-    {
-      "capturedAt": "2026-08-09T00:19:37.000Z",
-      "likeCount": 1,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0
-    },
-    {
-      "capturedAt": "2026-08-09T01:44:21.000Z",
-      "likeCount": 2,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0
-    }
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T00:01:14.000Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T00:19:37.000Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T01:44:21.000Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T02:00:07.000Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
       ],
-      "likeCount": 2,
+      "likeCount": 4,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
-  "source": {
-    "engagementCapturedAt": "2026-08-09T02:00:07.000Z"
+      "source": {
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -114,13 +121,21 @@
         "主体：邀请观众代入自身经验",
         "收束：引导评论区讨论"
       ],
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T01:44:21.000Z",
+          "likeCount": 3,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 3,
       "commentCount": 2,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -150,6 +165,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T01:44:21.000Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -157,7 +179,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -179,10 +201,10 @@
         "主体：记录当天饮食和执行情况",
         "收束：以进度感延续追更"
       ],
-      "likeCount": 15,
+      "likeCount": 18,
       "commentCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       },
       "engagementHistory": [
         {
@@ -240,10 +262,17 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T01:44:21.000Z",
+          "likeCount": 15,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 1
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671670526083454931",
@@ -264,12 +293,12 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 15,
+      "likeCount": 18,
       "commentCount": 0,
       "favoriteCount": 8,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       },
       "engagementHistory": [
         {
@@ -320,6 +349,13 @@
           "commentCount": 0,
           "favoriteCount": 5,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-09T01:44:21.000Z",
+          "likeCount": 15,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 4
         }
       ]
     },
@@ -364,21 +400,28 @@
         "主体：拆解减肥执行的现实障碍",
         "收束：给出继续行动的理由"
       ],
-  "engagementHistory": [
-    {
-      "capturedAt": "2026-08-08T23:42:19.232Z",
-      "likeCount": 65,
-      "commentCount": 14,
-      "favoriteCount": 9,
-      "shareCount": 1
-    }
-  ],
-  "likeCount": 74,
-  "commentCount": 18,
-  "favoriteCount": 10,
-  "shareCount": 2,
-  "source": {
-    "engagementCapturedAt": "2026-08-09T00:19:37.000Z"
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 65,
+          "commentCount": 14,
+          "favoriteCount": 9,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-09T00:19:37.000Z",
+          "likeCount": 74,
+          "commentCount": 18,
+          "favoriteCount": 10,
+          "shareCount": 2
+        }
+      ],
+      "likeCount": 78,
+      "commentCount": 23,
+      "favoriteCount": 10,
+      "shareCount": 2,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -408,14 +451,21 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 3,
+      "likeCount": 4,
       "commentCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -445,14 +495,21 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 26,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
-      "likeCount": 26,
-      "commentCount": 2,
-      "favoriteCount": 0,
-      "shareCount": 1,
+      "likeCount": 34,
+      "commentCount": 4,
+      "favoriteCount": 1,
+      "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -947,15 +1004,22 @@
         "主体：记录第55天体重和当天饮食",
         "收束：以打卡进度延续系列内容"
       ],
-      "engagementHistory": [],
-      "likeCount": 4,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 4,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 5,
       "commentCount": 1,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
-      },
-      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+      }
     },
     {
       "videoUrl": null,
@@ -1002,7 +1066,7 @@
       "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T00:44:30.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       },
       "engagementHistory": [
         {
@@ -1081,9 +1145,15 @@
           "commentCount": 1,
           "favoriteCount": 2,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T00:44:30.000Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671536513956989312",
@@ -1110,7 +1180,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       },
       "engagementHistory": [
         {
@@ -1157,6 +1227,13 @@
         },
         {
           "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
           "likeCount": 1,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -1463,14 +1540,21 @@
           "commentCount": 28,
           "favoriteCount": 3,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T00:44:30.000Z",
+          "likeCount": 45,
+          "commentCount": 28,
+          "favoriteCount": 3,
+          "shareCount": 0
         }
       ],
-      "likeCount": 45,
+      "likeCount": 47,
       "commentCount": 28,
       "favoriteCount": 3,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T00:44:30.000Z"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
       }
     },
     {
@@ -1625,16 +1709,22 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:21:02.058Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 3,
       "commentCount": 1,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:21:02.058Z"
-      },
-      "lastMetricError": "可见主视频操作区未加载，保留上次互动数据"
+        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+      }
     },
     {
       "rank": 4,
