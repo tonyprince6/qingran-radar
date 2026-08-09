@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T04:25:10+08:00",
-    "engagementCapturedAt": "2026-08-09T00:01:14.000Z",
+    "engagementCapturedAt": "2026-08-09T01:44:21.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -70,14 +70,21 @@
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0
+    },
+    {
+      "capturedAt": "2026-08-09T00:19:37.000Z",
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
     }
       ],
-      "likeCount": 1,
+      "likeCount": 2,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
   "source": {
-    "engagementCapturedAt": "2026-08-09T00:19:37.000Z"
+    "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
       }
     },
     {
@@ -99,7 +106,15 @@
         "开场：抛出具体体重或食欲问题",
         "主体：邀请观众代入自身经验",
         "收束：引导评论区讨论"
-      ]
+      ],
+      "engagementHistory": [],
+      "likeCount": 3,
+      "commentCount": 2,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671681051967059273",
@@ -121,13 +136,21 @@
         "主体：列出可执行的食材或吃法",
         "收束：回扣吃瘦不挨饿"
       ],
-      "engagementHistory": [],
-      "likeCount": 1,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 2,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
       }
     },
     {
@@ -149,10 +172,10 @@
         "主体：记录当天饮食和执行情况",
         "收束：以进度感延续追更"
       ],
-      "likeCount": 14,
+      "likeCount": 15,
       "commentCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
       },
       "engagementHistory": [
         {
@@ -203,6 +226,13 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 14,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "favoriteCount": 0,
@@ -227,12 +257,12 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 12,
+      "likeCount": 15,
       "commentCount": 0,
-      "favoriteCount": 5,
-      "shareCount": 3,
+      "favoriteCount": 8,
+      "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-08T23:42:19.232Z"
+        "engagementCapturedAt": "2026-08-09T01:44:21.000Z"
       },
       "engagementHistory": [
         {
@@ -273,6 +303,13 @@
         {
           "capturedAt": "2026-08-08T23:21:02.058Z",
           "likeCount": 11,
+          "commentCount": 0,
+          "favoriteCount": 5,
+          "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-08T23:42:19.232Z",
+          "likeCount": 12,
           "commentCount": 0,
           "favoriteCount": 5,
           "shareCount": 3
