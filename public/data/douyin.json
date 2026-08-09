@@ -202,12 +202,12 @@
         "收束：回扣自律与变瘦目标"
       ],
       "rank": 8,
-      "likeCount": 95,
+      "likeCount": 97,
       "commentCount": 2,
-      "favoriteCount": 28,
-      "shareCount": 29,
+      "favoriteCount": 32,
+      "shareCount": 30,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:22:09Z"
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
       },
       "engagementHistory": [
         {
@@ -216,6 +216,13 @@
           "commentCount": 2,
           "favoriteCount": 23,
           "shareCount": 28
+        },
+        {
+          "capturedAt": "2026-08-09T20:22:09Z",
+          "likeCount": 95,
+          "commentCount": 2,
+          "favoriteCount": 28,
+          "shareCount": 29
         }
       ]
     },
@@ -339,7 +346,15 @@
         "主体：解释体重波动、心理与皮质醇相关因素",
         "收束：给出健康减脂与体重管理建议"
       ],
-      "rank": 14
+      "rank": 14,
+      "engagementHistory": [],
+      "likeCount": 11,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
+      }
     },
     {
       "videoUrl": null,
@@ -419,7 +434,15 @@
         "主体：展示或点评减脂餐选择",
         "收束：回扣减肥日常与体重管理"
       ],
-      "rank": 18
+      "rank": 18,
+      "engagementHistory": [],
+      "likeCount": 11,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672036547827143022",
@@ -440,11 +463,14 @@
         "收束：回扣自律饮食和体重管理日常"
       ],
       "rank": 1,
-      "likeCount": 3,
+      "likeCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T19:39:32Z"
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
       },
-      "lastMetricError": "当前主视频操作区未显示评论、收藏或分享数；已保留其旧值。"
+      "engagementHistory": [],
+      "commentCount": 3,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672034728623508873",
@@ -464,7 +490,15 @@
         "主体：讲解平台期的应对思路",
         "收束：鼓励持续执行并度过平台期"
       ],
-      "rank": 2
+      "rank": 2,
+      "engagementHistory": [],
+      "likeCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672028431080574242",
@@ -486,12 +520,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 72,
+      "likeCount": 74,
       "commentCount": 2,
       "favoriteCount": 44,
       "shareCount": 37,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:22:09Z"
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
       },
       "engagementHistory": [
         {
@@ -499,6 +533,13 @@
           "likeCount": 71,
           "commentCount": 2,
           "favoriteCount": 43,
+          "shareCount": 37
+        },
+        {
+          "capturedAt": "2026-08-09T20:22:09Z",
+          "likeCount": 72,
+          "commentCount": 2,
+          "favoriteCount": 44,
           "shareCount": 37
         }
       ]
@@ -521,7 +562,15 @@
         "主体：记录减脂打卡中的情绪与日常",
         "收束：回扣体重管理的持续坚持"
       ],
-      "rank": 7
+      "rank": 7,
+      "engagementHistory": [],
+      "likeCount": 10,
+      "commentCount": 12,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671988937224651749",
@@ -547,7 +596,7 @@
       "favoriteCount": 1,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
       },
       "engagementHistory": [
         {
@@ -605,6 +654,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T18:07:36.000Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ]
     },
@@ -633,7 +689,7 @@
       "favoriteCount": 47,
       "shareCount": 37,
       "source": {
-        "engagementCapturedAt": "2026-08-09T20:22:09Z"
+        "engagementCapturedAt": "2026-08-09T20:47:11Z"
       },
       "engagementHistory": [
         {
@@ -663,6 +719,13 @@
           "commentCount": 1,
           "favoriteCount": 47,
           "shareCount": 36
+        },
+        {
+          "capturedAt": "2026-08-09T20:22:09Z",
+          "likeCount": 100,
+          "commentCount": 1,
+          "favoriteCount": 47,
+          "shareCount": 37
         }
       ]
     },
