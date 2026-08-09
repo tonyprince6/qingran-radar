@@ -73,11 +73,11 @@
       ]
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671988373166337465",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "lastLinkAttemptAt": "2026-08-09T21:33:35+08:00",
       "title": "减肥先控糖十吃十不吃#自律#体重管理#生活化减脂",
@@ -94,11 +94,11 @@
       "rank": 2
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671972810276818191",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "lastLinkAttemptAt": "2026-08-09T21:33:35+08:00",
       "title": "吃什么东西下秤快，收藏分享起来 #减脂#生活化减脂#体重管理#减肥#吃瘦不饿瘦",
