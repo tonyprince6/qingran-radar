@@ -77,7 +77,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671874577659645227",
@@ -105,14 +106,21 @@
           "commentCount": 2,
           "favoriteCount": 16,
           "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-09T08:44:54.000Z",
+          "likeCount": 78,
+          "commentCount": 4,
+          "favoriteCount": 30,
+          "shareCount": 8
         }
       ],
-      "likeCount": 78,
+      "likeCount": 107,
       "commentCount": 4,
-      "favoriteCount": 30,
-      "shareCount": 8,
+      "favoriteCount": 63,
+      "shareCount": 14,
       "source": {
-        "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
+        "engagementCapturedAt": "2026-08-09T09:01:10.000Z"
       }
     },
     {
@@ -149,7 +157,8 @@
       "shareCount": 2,
       "source": {
         "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": null,
@@ -235,7 +244,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": null,
@@ -384,7 +394,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T08:44:54.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671681051967059273",
@@ -442,7 +453,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671672723311552832",
@@ -466,7 +478,7 @@
       "likeCount": 21,
       "commentCount": 9,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T09:01:10.000Z"
       },
       "engagementHistory": [
         {
@@ -536,6 +548,13 @@
           "capturedAt": "2026-08-09T03:42:17.000Z",
           "likeCount": 18,
           "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 21,
+          "commentCount": 9,
           "favoriteCount": 0,
           "shareCount": 1
         }
@@ -640,7 +659,8 @@
           "favoriteCount": 8,
           "shareCount": 4
         }
-      ]
+      ],
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": null,
@@ -718,14 +738,21 @@
           "commentCount": 28,
           "favoriteCount": 10,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 165,
+          "commentCount": 46,
+          "favoriteCount": 21,
+          "shareCount": 6
         }
       ],
-      "likeCount": 165,
-      "commentCount": 46,
-      "favoriteCount": 21,
+      "likeCount": 167,
+      "commentCount": 47,
+      "favoriteCount": 22,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T09:01:10.000Z"
       }
     },
     {
@@ -784,7 +811,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
-      }
+      },
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671654642077704825",
@@ -827,6 +855,13 @@
           "commentCount": 4,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 37,
+          "commentCount": 4,
+          "favoriteCount": 2,
+          "shareCount": 2
         }
       ],
       "likeCount": 37,
@@ -834,7 +869,7 @@
       "favoriteCount": 2,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T09:01:10.000Z"
       }
     },
     {
@@ -1343,6 +1378,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T06:43:15.000Z",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 5,
@@ -1350,7 +1392,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+        "engagementCapturedAt": "2026-08-09T09:01:10.000Z"
       }
     },
     {
@@ -1492,7 +1534,8 @@
           "favoriteCount": 2,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "未找到当前主视频操作区"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671536513956989312",
