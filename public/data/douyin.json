@@ -202,12 +202,12 @@
         "收束：回扣自律与变瘦目标"
       ],
       "rank": 8,
-      "likeCount": 106,
+      "likeCount": 122,
       "commentCount": 3,
-      "favoriteCount": 35,
-      "shareCount": 35,
+      "favoriteCount": 52,
+      "shareCount": 42,
       "source": {
-        "engagementCapturedAt": "2026-08-09T21:00:53Z"
+        "engagementCapturedAt": "2026-08-09T21:20:04Z"
       },
       "engagementHistory": [
         {
@@ -230,6 +230,13 @@
           "commentCount": 2,
           "favoriteCount": 32,
           "shareCount": 30
+        },
+        {
+          "capturedAt": "2026-08-09T21:00:53Z",
+          "likeCount": 106,
+          "commentCount": 3,
+          "favoriteCount": 35,
+          "shareCount": 35
         }
       ]
     },
