@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-09T12:25:09+08:00",
-    "engagementCapturedAt": "2026-08-09T05:03:47.000Z",
+    "engagementCapturedAt": "2026-08-09T06:43:15.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -54,7 +54,15 @@
         "主体：记录休息日的饮食与生活片段",
         "收束：回扣减肥执行中的真实感"
       ],
-      "rank": 1
+      "rank": 1,
+      "engagementHistory": [],
+      "likeCount": 5,
+      "commentCount": 6,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671874577659645227",
@@ -74,7 +82,15 @@
         "主体：解释局部减脂的关键真相",
         "收束：给出可执行的减脂方向"
       ],
-      "rank": 2
+      "rank": 2,
+      "engagementHistory": [],
+      "likeCount": 61,
+      "commentCount": 2,
+      "favoriteCount": 16,
+      "shareCount": 5,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671852581996480731",
@@ -94,7 +110,15 @@
         "主体：展示减肥、减脂餐或产后阶段",
         "收束：提问邀请观众分享目标"
       ],
-      "rank": 3
+      "rank": 3,
+      "engagementHistory": [],
+      "likeCount": 13,
+      "commentCount": 3,
+      "favoriteCount": 0,
+      "shareCount": 2,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
+      }
     },
     {
       "videoUrl": null,
@@ -158,6 +182,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T05:03:47.000Z",
+          "likeCount": 4,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -165,7 +196,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -293,6 +324,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T04:44:00.000Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -300,7 +338,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T04:44:00.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -344,6 +382,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T04:44:00.000Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -351,7 +396,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T04:44:00.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -373,10 +418,10 @@
         "主体：记录当天饮食和执行情况",
         "收束：以进度感延续追更"
       ],
-      "likeCount": 18,
-      "commentCount": 2,
+      "likeCount": 21,
+      "commentCount": 9,
       "source": {
-        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       },
       "engagementHistory": [
         {
@@ -441,6 +486,13 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T03:42:17.000Z",
+          "likeCount": 18,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ],
       "favoriteCount": 0,
@@ -465,12 +517,12 @@
         "主体：分享长期执行经验",
         "收束：强调科学减脂"
       ],
-      "likeCount": 19,
+      "likeCount": 20,
       "commentCount": 0,
-      "favoriteCount": 8,
+      "favoriteCount": 7,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       },
       "engagementHistory": [
         {
@@ -532,6 +584,13 @@
         {
           "capturedAt": "2026-08-09T03:42:17.000Z",
           "likeCount": 18,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-09T05:03:47.000Z",
+          "likeCount": 19,
           "commentCount": 0,
           "favoriteCount": 8,
           "shareCount": 4
@@ -607,14 +666,21 @@
           "commentCount": 23,
           "favoriteCount": 10,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T05:03:47.000Z",
+          "likeCount": 100,
+          "commentCount": 28,
+          "favoriteCount": 10,
+          "shareCount": 2
         }
       ],
-      "likeCount": 100,
-      "commentCount": 28,
-      "favoriteCount": 10,
-      "shareCount": 2,
+      "likeCount": 165,
+      "commentCount": 46,
+      "favoriteCount": 21,
+      "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-09T05:03:47.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -658,14 +724,21 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T04:01:51.000Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T04:01:51.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -702,14 +775,21 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-09T03:42:17.000Z",
+          "likeCount": 34,
+          "commentCount": 4,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ],
-      "likeCount": 34,
+      "likeCount": 37,
       "commentCount": 4,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -1211,14 +1291,21 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T03:42:17.000Z",
+          "likeCount": 5,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 5,
-      "commentCount": 1,
+      "commentCount": 2,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       }
     },
     {
@@ -1266,7 +1353,7 @@
       "favoriteCount": 2,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T03:42:17.000Z"
+        "engagementCapturedAt": "2026-08-09T06:43:15.000Z"
       },
       "engagementHistory": [
         {
@@ -1348,6 +1435,13 @@
         },
         {
           "capturedAt": "2026-08-09T00:44:30.000Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T03:42:17.000Z",
           "likeCount": 2,
           "commentCount": 1,
           "favoriteCount": 2,
