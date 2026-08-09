@@ -76,6 +76,13 @@
           "commentCount": 8,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 5,
+          "commentCount": 8,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 5,
@@ -83,7 +90,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -126,14 +133,21 @@
           "commentCount": 4,
           "favoriteCount": 63,
           "shareCount": 14
+        },
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 124,
+          "commentCount": 4,
+          "favoriteCount": 90,
+          "shareCount": 16
         }
       ],
-      "likeCount": 124,
+      "likeCount": 126,
       "commentCount": 4,
-      "favoriteCount": 90,
-      "shareCount": 16,
+      "favoriteCount": 93,
+      "shareCount": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -169,6 +183,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 14,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 2
         }
       ],
       "likeCount": 14,
@@ -176,7 +197,7 @@
       "favoriteCount": 0,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -262,6 +283,13 @@
           "commentCount": 3,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 4,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 4,
@@ -269,7 +297,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -292,13 +320,21 @@
         "收束：回扣减脂并没有想象中难"
       ],
       "rank": 6,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 167,
+          "commentCount": 26,
+          "favoriteCount": 50,
+          "shareCount": 22
+        }
+      ],
       "likeCount": 167,
       "commentCount": 26,
       "favoriteCount": 50,
-      "shareCount": 22,
+      "shareCount": 24,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -321,13 +357,21 @@
         "收束：回扣体重管理的长期收益"
       ],
       "rank": 7,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T09:43:10.210Z",
+          "likeCount": 81,
+          "commentCount": 3,
+          "favoriteCount": 13,
+          "shareCount": 20
+        }
+      ],
       "likeCount": 81,
       "commentCount": 3,
       "favoriteCount": 13,
       "shareCount": 20,
       "source": {
-        "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
+        "engagementCapturedAt": "2026-08-09T10:06:04.000Z"
       }
     },
     {
@@ -350,7 +394,7 @@
         "收束：强调体重管理期的执行要点"
       ],
       "rank": 8,
-      "lastMetricError": "读取主视频操作区时页面关闭"
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671698635558864507",
@@ -443,7 +487,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671681051967059273",
@@ -508,7 +553,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671672723311552832",
@@ -621,7 +667,8 @@
         }
       ],
       "favoriteCount": 0,
-      "shareCount": 1
+      "shareCount": 1,
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671670526083454931",
@@ -727,7 +774,8 @@
           "favoriteCount": 7,
           "shareCount": 4
         }
-      ]
+      ],
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": null,
@@ -827,7 +875,8 @@
       "shareCount": 6,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671659219934316985",
@@ -892,7 +941,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671654642077704825",
@@ -957,7 +1007,8 @@
       "shareCount": 2,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": null,
@@ -1487,7 +1538,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-09T09:43:10.210Z"
-      }
+      },
+      "lastMetricError": "operation metrics not clearly visible"
     },
     {
       "videoUrl": null,
