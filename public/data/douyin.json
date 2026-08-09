@@ -248,11 +248,11 @@
       "lastMetricError": "未找到当前主视频操作区"
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671684395468923066",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T16:24:29+08:00",
       "nextLinkRetryAt": null,
       "title": "#减脂计划与脂肪死磕到底 #健身胖子 #减脂餐 #健身饮食记录 #体重管理 好像也没有那么难",
@@ -269,11 +269,11 @@
       "rank": 6
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671650171620979685",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T16:24:29+08:00",
       "nextLinkRetryAt": null,
       "title": "你知道廋30斤是什么概念吗？ #减肥逆袭 #自律 #体重管理 #减脂",
@@ -290,11 +290,11 @@
       "rank": 7
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7671588609782715236",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "lastLinkAttemptAt": "2026-08-09T16:24:29+08:00",
       "nextLinkRetryAt": null,
       "title": "7天瘦10斤，碳循环减肥法，我不允许还有人不知道 #减肥#减脂餐 #减脂干货 #碳循环减肥法 #体重管理期",
