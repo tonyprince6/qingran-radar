@@ -100,7 +100,14 @@
         "主体：逐项介绍适合减脂的食物",
         "收束：强调生活化减脂和自律执行"
       ],
-      "rank": 3
+      "rank": 3,
+      "likeCount": 71,
+      "commentCount": 2,
+      "favoriteCount": 43,
+      "shareCount": 37,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:03:28Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672026984125478393",
@@ -120,7 +127,14 @@
         "主体：逐项列出建议吃与不吃的食物",
         "收束：回扣自律与变瘦目标"
       ],
-      "rank": 4
+      "rank": 4,
+      "likeCount": 89,
+      "commentCount": 2,
+      "favoriteCount": 23,
+      "shareCount": 28,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T20:03:28Z"
+      }
     },
     {
       "videoUrl": null,
@@ -308,12 +322,12 @@
         "收束：强调自律与生活化减脂的持续执行"
       ],
       "rank": 10,
-      "likeCount": 97,
+      "likeCount": 100,
       "commentCount": 1,
-      "favoriteCount": 45,
-      "shareCount": 35,
+      "favoriteCount": 47,
+      "shareCount": 36,
       "source": {
-        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
+        "engagementCapturedAt": "2026-08-09T20:03:28Z"
       },
       "engagementHistory": [
         {
@@ -328,6 +342,13 @@
           "likeCount": 91,
           "commentCount": 1,
           "favoriteCount": 41,
+          "shareCount": 35
+        },
+        {
+          "capturedAt": "2026-08-09T18:07:36.000Z",
+          "likeCount": 97,
+          "commentCount": 1,
+          "favoriteCount": 45,
           "shareCount": 35
         }
       ]
@@ -359,6 +380,13 @@
           "commentCount": 1,
           "favoriteCount": 135,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-09T18:07:36.000Z",
+          "likeCount": 108,
+          "commentCount": 1,
+          "favoriteCount": 135,
+          "shareCount": 29
         }
       ],
       "likeCount": 108,
@@ -366,7 +394,7 @@
       "favoriteCount": 135,
       "shareCount": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
+        "engagementCapturedAt": "2026-08-09T20:03:28Z"
       }
     },
     {
@@ -443,7 +471,7 @@
       "favoriteCount": 8,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-09T18:07:36.000Z"
+        "engagementCapturedAt": "2026-08-09T20:03:28Z"
       },
       "engagementHistory": [
         {
@@ -462,6 +490,13 @@
         },
         {
           "capturedAt": "2026-08-09T17:23:03.745Z",
+          "likeCount": 20,
+          "commentCount": 8,
+          "favoriteCount": 8,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-09T18:07:36.000Z",
           "likeCount": 20,
           "commentCount": 8,
           "favoriteCount": 8,
