@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T00:26:51+08:00",
-    "engagementCapturedAt": "2026-08-09T16:20:13.000Z",
+    "engagementCapturedAt": "2026-08-09T16:37:00.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -220,7 +220,7 @@
       "favoriteCount": 1,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-09T16:20:13.000Z"
+        "engagementCapturedAt": "2026-08-09T16:37:00.000Z"
       },
       "engagementHistory": [
         {
@@ -257,6 +257,13 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-09T16:20:13.000Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 2
         }
       ]
     },
@@ -279,7 +286,14 @@
         "主体：逐项给出十种建议吃与十种建议不吃",
         "收束：强调自律与生活化减脂的持续执行"
       ],
-      "rank": 10
+      "rank": 10,
+      "likeCount": 87,
+      "commentCount": 1,
+      "favoriteCount": 31,
+      "shareCount": 31,
+      "source": {
+        "engagementCapturedAt": "2026-08-09T16:37:00.000Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671972810276818191",
