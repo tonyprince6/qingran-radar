@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T16:26:52.000Z",
-    "engagementCapturedAt": "2026-08-10T19:58:45Z",
+    "engagementCapturedAt": "2026-08-10T20:19:30Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -61,8 +61,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T19:20:47Z"
-      }
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T19:20:47Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672392462195872933",
@@ -83,7 +92,15 @@
         "开场：今天减脂训练已完成",
         "主体：记录减脂打卡与体重管理日常",
         "收束：以拒绝内耗强化持续执行"
-      ]
+      ],
+      "source": {
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [],
+      "likeCount": 7,
+      "commentCount": 4,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672389870304035505",
@@ -104,7 +121,15 @@
         "开场：点出减肥期嘴馋困扰",
         "主体：依次分享对付嘴馋的小方法",
         "收束：回到可持续的体重管理"
-      ]
+      ],
+      "source": {
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [],
+      "likeCount": 17,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672382963820304313",
@@ -125,7 +150,15 @@
         "开场：15天瘦了11斤的结果",
         "主体：分享健康减脂与经期饮食经验",
         "收束：回到适合自己的体重管理"
-      ]
+      ],
+      "source": {
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [],
+      "likeCount": 3,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672375402215734009",
@@ -146,7 +179,15 @@
         "开场：点出40+女性的减肥困惑",
         "主体：解释体重管理与科学减脂逻辑",
         "收束：以自律和变美目标收尾"
-      ]
+      ],
+      "source": {
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [],
+      "likeCount": 4,
+      "commentCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 1
     },
     {
       "videoUrl": null,
@@ -188,7 +229,15 @@
         "开场：9岁女孩体重管理第21天，已减5.8斤",
         "主体：讲述儿童减肥餐与家庭配合",
         "收束：回到孩子自律与长期体重管理"
-      ]
+      ],
+      "source": {
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+      },
+      "engagementHistory": [],
+      "likeCount": 16,
+      "commentCount": 0,
+      "favoriteCount": 6,
+      "shareCount": 9
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672365035783963633",
@@ -211,7 +260,7 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -244,6 +293,13 @@
         },
         {
           "capturedAt": "2026-08-10T17:19:49Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T17:46:43Z",
           "likeCount": 3,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -384,7 +440,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -463,6 +519,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T17:46:43Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -485,12 +548,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 2,
-      "likeCount": 41,
-      "commentCount": 31,
+      "likeCount": 42,
+      "commentCount": 32,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -555,6 +618,13 @@
           "commentCount": 31,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T17:46:43Z",
+          "likeCount": 41,
+          "commentCount": 31,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -577,21 +647,14 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 3,
-      "likeCount": 741,
+      "likeCount": 754,
       "commentCount": 10,
-      "favoriteCount": 303,
+      "favoriteCount": 311,
       "shareCount": 64,
       "source": {
-        "engagementCapturedAt": "2026-08-10T19:58:45Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T19:39:43Z",
-          "likeCount": 676,
-          "commentCount": 10,
-          "favoriteCount": 252,
-          "shareCount": 60
-        },
         {
           "capturedAt": "2026-08-10T08:07:02Z",
           "likeCount": 275,
@@ -661,6 +724,20 @@
           "commentCount": 10,
           "favoriteCount": 252,
           "shareCount": 60
+        },
+        {
+          "capturedAt": "2026-08-10T19:39:43Z",
+          "likeCount": 676,
+          "commentCount": 10,
+          "favoriteCount": 252,
+          "shareCount": 60
+        },
+        {
+          "capturedAt": "2026-08-10T19:58:45Z",
+          "likeCount": 741,
+          "commentCount": 10,
+          "favoriteCount": 303,
+          "shareCount": 64
         }
       ]
     },
@@ -688,7 +765,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -725,6 +802,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T17:46:43Z",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ]
     },
@@ -752,7 +836,7 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -810,6 +894,13 @@
           "commentCount": 2,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-10T17:46:43Z",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
         }
       ]
     },
@@ -838,7 +929,7 @@
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T19:39:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -892,6 +983,13 @@
         },
         {
           "capturedAt": "2026-08-10T18:27:25Z",
+          "likeCount": 11,
+          "commentCount": 3,
+          "favoriteCount": 1,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-10T19:39:43Z",
           "likeCount": 11,
           "commentCount": 3,
           "favoriteCount": 1,
@@ -960,12 +1058,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 9,
-      "likeCount": 149,
-      "commentCount": 4,
-      "favoriteCount": 206,
-      "shareCount": 81,
+      "likeCount": 152,
+      "commentCount": 5,
+      "favoriteCount": 211,
+      "shareCount": 83,
       "source": {
-        "engagementCapturedAt": "2026-08-10T19:39:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -1072,6 +1170,13 @@
           "commentCount": 4,
           "favoriteCount": 206,
           "shareCount": 81
+        },
+        {
+          "capturedAt": "2026-08-10T19:39:43Z",
+          "likeCount": 149,
+          "commentCount": 4,
+          "favoriteCount": 206,
+          "shareCount": 81
         }
       ]
     },
@@ -1099,7 +1204,7 @@
       "favoriteCount": 4,
       "shareCount": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-10T19:39:43Z"
+        "engagementCapturedAt": "2026-08-10T20:19:30Z"
       },
       "engagementHistory": [
         {
@@ -1251,6 +1356,13 @@
         },
         {
           "capturedAt": "2026-08-10T18:27:25Z",
+          "likeCount": 20,
+          "commentCount": 19,
+          "favoriteCount": 4,
+          "shareCount": 10
+        },
+        {
+          "capturedAt": "2026-08-10T19:39:43Z",
           "likeCount": 20,
           "commentCount": 19,
           "favoriteCount": 4,
