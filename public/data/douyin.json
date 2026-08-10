@@ -220,10 +220,10 @@
       "rank": 9,
       "likeCount": 106,
       "commentCount": 4,
-      "favoriteCount": 151,
-      "shareCount": 68,
+      "favoriteCount": 152,
+      "shareCount": 70,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T04:45:43Z"
       },
       "engagementHistory": [
         {
@@ -253,6 +253,13 @@
           "commentCount": 4,
           "favoriteCount": 151,
           "shareCount": 67
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 106,
+          "commentCount": 4,
+          "favoriteCount": 151,
+          "shareCount": 68
         }
       ]
     },
@@ -275,12 +282,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 1,
-      "likeCount": 10,
-      "commentCount": 13,
-      "favoriteCount": 1,
+      "likeCount": 12,
+      "commentCount": 14,
+      "favoriteCount": 2,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T04:45:43Z"
       },
       "engagementHistory": [
         {
@@ -328,6 +335,13 @@
         {
           "capturedAt": "2026-08-10T03:47:08.318Z",
           "likeCount": 9,
+          "commentCount": 13,
+          "favoriteCount": 1,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 10,
           "commentCount": 13,
           "favoriteCount": 1,
           "shareCount": 2
@@ -438,12 +452,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 7,
-      "likeCount": 26,
+      "likeCount": 27,
       "commentCount": 7,
       "favoriteCount": 3,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T04:45:43Z"
       },
       "engagementHistory": [
         {
@@ -455,6 +469,13 @@
         },
         {
           "capturedAt": "2026-08-10T03:47:08.318Z",
+          "likeCount": 26,
+          "commentCount": 7,
+          "favoriteCount": 3,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
           "likeCount": 26,
           "commentCount": 7,
           "favoriteCount": 3,
@@ -926,7 +947,7 @@
       "favoriteCount": 130,
       "shareCount": 67,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T04:45:43Z"
       },
       "engagementHistory": [
         {
@@ -1009,6 +1030,13 @@
         {
           "capturedAt": "2026-08-10T03:47:08.318Z",
           "likeCount": 196,
+          "commentCount": 3,
+          "favoriteCount": 130,
+          "shareCount": 67
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 197,
           "commentCount": 3,
           "favoriteCount": 130,
           "shareCount": 67
