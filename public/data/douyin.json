@@ -60,9 +60,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672240299314269157",
@@ -83,14 +91,22 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 2,
-      "likeCount": 15,
+      "likeCount": 17,
       "commentCount": 17,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 15,
+          "commentCount": 17,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672224648499343680",
@@ -111,14 +127,22 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 3,
-      "likeCount": 275,
-      "commentCount": 3,
-      "favoriteCount": 48,
-      "shareCount": 17,
+      "likeCount": 308,
+      "commentCount": 5,
+      "favoriteCount": 66,
+      "shareCount": 28,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 275,
+          "commentCount": 3,
+          "favoriteCount": 48,
+          "shareCount": 17
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672221253231017151",
@@ -164,9 +188,17 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 5,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 1
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672208984770058673",
@@ -193,9 +225,17 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -337,11 +377,11 @@
       ],
       "rank": 1,
       "likeCount": 20,
-      "commentCount": 16,
+      "commentCount": 19,
       "favoriteCount": 4,
       "shareCount": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
       "engagementHistory": [
         {
@@ -413,6 +453,13 @@
           "commentCount": 14,
           "favoriteCount": 3,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-10T08:07:02Z",
+          "likeCount": 20,
+          "commentCount": 16,
+          "favoriteCount": 4,
+          "shareCount": 10
         }
       ]
     },
@@ -456,12 +503,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 5,
-      "likeCount": 16,
-      "commentCount": 12,
-      "favoriteCount": 1,
+      "likeCount": 33,
+      "commentCount": 17,
+      "favoriteCount": 5,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
       "engagementHistory": [
         {
@@ -477,9 +524,15 @@
           "commentCount": 12,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 16,
+          "commentCount": 12,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "Visible main-operation counters were not all numeric."
+      ]
     },
     {
       "videoUrl": null,
@@ -833,12 +886,12 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 3,
-      "likeCount": 19,
+      "likeCount": 21,
       "commentCount": 20,
       "favoriteCount": 0,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
       "engagementHistory": [
         {
@@ -861,9 +914,15 @@
           "commentCount": 4,
           "favoriteCount": 0,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 19,
+          "commentCount": 20,
+          "favoriteCount": 0,
+          "shareCount": 3
         }
-      ],
-      "lastMetricError": "Visible main-operation counters were not all numeric."
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672066264085427187",
@@ -889,7 +948,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
       "engagementHistory": [
         {
@@ -915,6 +974,13 @@
         },
         {
           "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
           "likeCount": 2,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -1493,6 +1559,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T02:45:46Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 1,
@@ -1500,9 +1573,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T02:45:46Z"
-      },
-      "lastMetricError": "Visible main-operation counters were not all numeric."
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672028431080574242",
@@ -1524,12 +1596,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 152,
+      "likeCount": 164,
       "commentCount": 3,
-      "favoriteCount": 95,
-      "shareCount": 54,
+      "favoriteCount": 98,
+      "shareCount": 56,
       "source": {
-        "engagementCapturedAt": "2026-08-10T06:42:17Z"
+        "engagementCapturedAt": "2026-08-10T08:58:59Z"
       },
       "engagementHistory": [
         {
@@ -1608,6 +1680,13 @@
           "commentCount": 3,
           "favoriteCount": 91,
           "shareCount": 53
+        },
+        {
+          "capturedAt": "2026-08-10T06:42:17Z",
+          "likeCount": 152,
+          "commentCount": 3,
+          "favoriteCount": 95,
+          "shareCount": 54
         }
       ]
     },
