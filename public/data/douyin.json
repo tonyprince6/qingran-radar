@@ -616,10 +616,10 @@
       "rank": 8,
       "likeCount": 196,
       "commentCount": 3,
-      "favoriteCount": 128,
+      "favoriteCount": 129,
       "shareCount": 66,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
+        "engagementCapturedAt": "2026-08-10T02:26:40.516Z"
       },
       "engagementHistory": [
         {
@@ -676,6 +676,13 @@
           "likeCount": 193,
           "commentCount": 3,
           "favoriteCount": 126,
+          "shareCount": 66
+        },
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 196,
+          "commentCount": 3,
+          "favoriteCount": 128,
           "shareCount": 66
         }
       ]
@@ -1292,12 +1299,12 @@
         "收束：强调自律与生活化减脂的持续执行"
       ],
       "rank": 10,
-      "likeCount": 117,
-      "commentCount": 1,
-      "favoriteCount": 63,
-      "shareCount": 49,
+      "likeCount": 141,
+      "commentCount": 2,
+      "favoriteCount": 85,
+      "shareCount": 58,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:59:59Z"
+        "engagementCapturedAt": "2026-08-10T02:26:40.516Z"
       },
       "engagementHistory": [
         {
@@ -1369,6 +1376,13 @@
           "commentCount": 1,
           "favoriteCount": 58,
           "shareCount": 46
+        },
+        {
+          "capturedAt": "2026-08-09T23:59:59Z",
+          "likeCount": 117,
+          "commentCount": 1,
+          "favoriteCount": 63,
+          "shareCount": 49
         }
       ]
     },
@@ -1936,14 +1950,21 @@
           "commentCount": 5,
           "favoriteCount": 141,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-09T21:00:53Z",
+          "likeCount": 187,
+          "commentCount": 5,
+          "favoriteCount": 142,
+          "shareCount": 29
         }
       ],
-      "likeCount": 187,
+      "likeCount": 193,
       "commentCount": 5,
-      "favoriteCount": 142,
-      "shareCount": 29,
+      "favoriteCount": 149,
+      "shareCount": 32,
       "source": {
-        "engagementCapturedAt": "2026-08-09T21:00:53Z"
+        "engagementCapturedAt": "2026-08-10T02:26:40.516Z"
       }
     },
     {
