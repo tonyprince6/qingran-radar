@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T20:30:08.986Z",
-    "engagementCapturedAt": "2026-08-10T20:19:30Z",
+    "engagementCapturedAt": "2026-08-10T20:44:25Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -815,14 +815,21 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 24,
-      "likeCount": 754,
+      "likeCount": 766,
       "commentCount": 10,
-      "favoriteCount": 311,
+      "favoriteCount": 316,
       "shareCount": 64,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T20:44:25Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 754,
+          "commentCount": 10,
+          "favoriteCount": 311,
+          "shareCount": 64
+        },
         {
           "capturedAt": "2026-08-10T08:07:02Z",
           "likeCount": 275,
