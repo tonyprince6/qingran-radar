@@ -55,14 +55,21 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 1,
-      "likeCount": 2,
-      "commentCount": 4,
+      "likeCount": 4,
+      "commentCount": 9,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
+        "engagementCapturedAt": "2026-08-10T02:02:50Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 2,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T00:45:14Z",
           "likeCount": 1,
