@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T08:28:19+08:00",
-    "engagementCapturedAt": "2026-08-10T00:45:14Z",
+    "engagementCapturedAt": "2026-08-10T02:45:46Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,12 +55,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 1,
-      "likeCount": 4,
-      "commentCount": 9,
+      "likeCount": 6,
+      "commentCount": 10,
       "favoriteCount": 0,
-      "shareCount": 0,
+      "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-10T02:02:50Z"
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
       },
       "engagementHistory": [
         {
@@ -74,6 +74,13 @@
           "capturedAt": "2026-08-10T00:45:14Z",
           "likeCount": 1,
           "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T02:02:50Z",
+          "likeCount": 4,
+          "commentCount": 9,
           "favoriteCount": 0,
           "shareCount": 0
         }
@@ -119,13 +126,22 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 3,
-      "likeCount": 100,
+      "likeCount": 103,
       "commentCount": 3,
-      "favoriteCount": 146,
-      "shareCount": 60,
+      "favoriteCount": 150,
+      "shareCount": 65,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
-      }
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 100,
+          "commentCount": 3,
+          "favoriteCount": 146,
+          "shareCount": 60
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -167,13 +183,22 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 5,
-      "likeCount": 12,
-      "commentCount": 10,
+      "likeCount": 14,
+      "commentCount": 12,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
-      }
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 12,
+          "commentCount": 10,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -237,7 +262,7 @@
       "rank": 8,
       "likeCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
       },
       "engagementHistory": [
         {
@@ -281,9 +306,16 @@
           "commentCount": 5,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 1,
+          "commentCount": 5,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "commentCount": 5,
+      "commentCount": 8,
       "favoriteCount": 0,
       "shareCount": 0
     },
@@ -1005,6 +1037,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 1,
@@ -1012,7 +1051,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T01:46:12Z"
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
       }
     },
     {
@@ -1035,12 +1074,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 106,
-      "commentCount": 2,
-      "favoriteCount": 64,
-      "shareCount": 47,
+      "likeCount": 133,
+      "commentCount": 3,
+      "favoriteCount": 85,
+      "shareCount": 52,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:59:59Z"
+        "engagementCapturedAt": "2026-08-10T02:45:46Z"
       },
       "engagementHistory": [
         {
@@ -1083,6 +1122,13 @@
           "likeCount": 99,
           "commentCount": 2,
           "favoriteCount": 59,
+          "shareCount": 47
+        },
+        {
+          "capturedAt": "2026-08-09T23:59:59Z",
+          "likeCount": 106,
+          "commentCount": 2,
+          "favoriteCount": 64,
           "shareCount": 47
         }
       ],
