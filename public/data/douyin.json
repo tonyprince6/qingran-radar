@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T12:30:35.430Z",
-    "engagementCapturedAt": "2026-08-10T14:10:48Z",
+    "engagementCapturedAt": "2026-08-10T14:22:43Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -57,9 +57,17 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 3,
       "commentCount": 1,
       "favoriteCount": 0,
@@ -194,9 +202,16 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T12:42:38Z",
           "likeCount": 3,
@@ -274,14 +289,21 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 2,
-      "likeCount": 25,
+      "likeCount": 26,
       "commentCount": 19,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 25,
+          "commentCount": 19,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 18,
@@ -345,14 +367,21 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 3,
-      "likeCount": 446,
+      "likeCount": 453,
       "commentCount": 10,
-      "favoriteCount": 112,
-      "shareCount": 41,
+      "favoriteCount": 113,
+      "shareCount": 42,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 446,
+          "commentCount": 10,
+          "favoriteCount": 112,
+          "shareCount": 41
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 365,
@@ -414,9 +443,16 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T10:47:35Z",
           "likeCount": 7,
@@ -457,9 +493,16 @@
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 1
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 5,
@@ -616,14 +659,21 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 9,
-      "likeCount": 127,
+      "likeCount": 128,
       "commentCount": 4,
       "favoriteCount": 178,
-      "shareCount": 75,
+      "shareCount": 76,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 127,
+          "commentCount": 4,
+          "favoriteCount": 178,
+          "shareCount": 75
+        },
         {
           "capturedAt": "2026-08-10T10:47:35Z",
           "likeCount": 119,
@@ -720,9 +770,16 @@
       "favoriteCount": 4,
       "shareCount": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 20,
+          "commentCount": 19,
+          "favoriteCount": 4,
+          "shareCount": 10
+        },
         {
           "capturedAt": "2026-08-10T12:42:38Z",
           "likeCount": 20,
@@ -889,9 +946,16 @@
       "favoriteCount": 5,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 42,
+          "commentCount": 19,
+          "favoriteCount": 5,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 36,
@@ -988,9 +1052,16 @@
       "favoriteCount": 3,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 33,
+          "commentCount": 7,
+          "favoriteCount": 3,
+          "shareCount": 1
+        },
         {
           "capturedAt": "2026-08-10T10:47:35Z",
           "likeCount": 30,
@@ -1063,9 +1134,16 @@
       "rank": 8,
       "likeCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 3,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T10:47:35Z",
           "likeCount": 2,
@@ -1193,9 +1271,16 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 14,
+          "commentCount": 5,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-10T12:42:38Z",
           "likeCount": 14,
@@ -1280,14 +1365,21 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 2,
-      "likeCount": 148,
-      "commentCount": 81,
+      "likeCount": 155,
+      "commentCount": 103,
       "favoriteCount": 13,
-      "shareCount": 132,
+      "shareCount": 145,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 148,
+          "commentCount": 81,
+          "favoriteCount": 13,
+          "shareCount": 132
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 56,
@@ -1400,14 +1492,21 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 3,
-      "likeCount": 23,
+      "likeCount": 24,
       "commentCount": 27,
       "favoriteCount": 0,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-10T14:10:48Z"
+        "engagementCapturedAt": "2026-08-10T14:22:43Z"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T14:10:48Z",
+          "likeCount": 23,
+          "commentCount": 27,
+          "favoriteCount": 0,
+          "shareCount": 4
+        },
         {
           "capturedAt": "2026-08-10T11:50:35Z",
           "likeCount": 21,
