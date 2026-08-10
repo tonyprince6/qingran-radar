@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-10T04:26:00+08:00",
+    "capturedAt": "2026-08-10T08:28:19+08:00",
     "engagementCapturedAt": "2026-08-10T00:23:04Z",
     "window": "最近4小时",
     "index": {
@@ -36,6 +36,232 @@
     "体重管理"
   ],
   "videos": [
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "传说掉秤超快的一只白，第一天试试水 据说3天5斤，有今天开始的姐妹，3天后评论区见，看看大家都掉了几斤 3天冲刺计划启动，早餐香蕉鸡蛋椰子水",
+      "publishedAt": "2026年8月10日 08:01",
+      "author": "🌺闪闪🌺自律中",
+      "hook": "传说3天掉5斤，第一天先试水",
+      "hookType": "结果承诺挑战",
+      "retention": "以“传说3天掉5斤，第一天先试水”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：传说3天掉5斤，第一天先试水",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 1
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "七个好习惯，你中了几个？#体重管理 #减肥小知识 #减脂干货 #减脂期注意事项 #减肥",
+      "publishedAt": "2026年8月10日 07:31",
+      "author": "陪你自律的景文",
+      "hook": "七个好习惯，你中了几个",
+      "hookType": "清单自测",
+      "retention": "以“七个好习惯，你中了几个”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：七个好习惯，你中了几个",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 2
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "中年女人150斤瘦到120斤饮食如何搭配 #女性减脂 #体重管理 #自律 #好好吃饭",
+      "publishedAt": "2026年8月10日 06:25",
+      "author": "琳琳带你变瘦变美（进主页粉丝群）",
+      "hook": "150斤瘦到120斤，饮食怎么搭配",
+      "hookType": "前后对比方案",
+      "retention": "以“150斤瘦到120斤，饮食怎么搭配”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：150斤瘦到120斤，饮食怎么搭配",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "行动起来#减脂#自律#减肥#体重管理#三餐营养师军姐",
+      "publishedAt": "2026年8月10日 06:09",
+      "author": "三餐营养师｜军姐",
+      "hook": "行动起来，从今天开始减脂",
+      "hookType": "行动号召",
+      "retention": "以“行动起来，从今天开始减脂”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：行动起来，从今天开始减脂",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 4
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "小基数生活化减脂 165/91.3已减43斤 全天摄入750大卡 #小基数减脂日记 #体重管理记录 #减肥饮食分享 #每天吃什么 #减脂计划",
+      "publishedAt": "2026年8月10日 01:27",
+      "author": "乐乐超想瘦(已瘦40斤)",
+      "hook": "小基数已减43斤，全天吃了什么",
+      "hookType": "成果日记饮食展示",
+      "retention": "以“小基数已减43斤，全天吃了什么”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：小基数已减43斤，全天吃了什么",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 5
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "lastLinkAttemptAt": "2026-08-10T06:31:59+08:00",
+      "nextLinkRetryAt": "2026-08-11T06:31:59+08:00",
+      "title": "#减肥经验分享 #减肥干货 #体重管理 #科学减脂科普 #如何通过饮食科学减脂",
+      "publishedAt": "2026年8月9日 23:43",
+      "author": "李小哈呀",
+      "hook": "如何通过饮食科学减脂",
+      "hookType": "科普干货",
+      "retention": "以“如何通过饮食科学减脂”切入减脂、减肥或体重管理的直接痛点，形成继续观看的理由。",
+      "scriptSegments": [
+        "开场：如何通过饮食科学减脂",
+        "主体：围绕减脂、减肥或体重管理展开具体内容",
+        "收束：回扣可持续执行与互动"
+      ],
+      "rank": 6
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "270斤挑战过午不食减肥法，已⬇️28.8斤#大基数减肥 #逆袭 #改变自己 ##体重管理 #减脂日记",
+      "publishedAt": "2026年8月9日 22:22",
+      "author": "小花不要再吃了",
+      "hook": "270斤挑战过午不食，已减28.8斤",
+      "hookType": "大基数挑战",
+      "retention": "以“270斤挑战过午不食，已减28.8斤”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
+      "scriptSegments": [
+        "开场：270斤挑战过午不食，已减28.8斤",
+        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
+        "收束：回扣可持续执行，并引导评论或收藏"
+      ],
+      "rank": 7
+    },
+    {
+      "videoUrl": "https://www.douyin.com/video/7672036547827143022",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "nextLinkRetryAt": null,
+      "title": "万物皆可吃，关键在于量 #减肥打卡日记 #减脂期吃什么 #减脂干饭日记 #体重管理日常 #自律饮食",
+      "publishedAt": "2026年8月9日 22:20",
+      "author": "吴所畏（冲击体重115中）",
+      "hook": "万物皆可吃，关键在于量",
+      "hookType": "反限制饮食观点",
+      "retention": "用“都能吃”的反常识开场降低饮食焦虑，再以分量控制给出可执行的减脂答案。",
+      "scriptSegments": [
+        "开场：提出万物皆可吃的反限制观点",
+        "主体：说明减脂期食物选择与分量控制",
+        "收束：回扣自律饮食和体重管理日常"
+      ],
+      "rank": 8,
+      "likeCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T00:23:04Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-09T20:47:11Z",
+          "likeCount": 0,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T21:00:53Z",
+          "likeCount": 0,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:11:41Z",
+          "likeCount": 0,
+          "commentCount": 5,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:39:15Z",
+          "likeCount": 0,
+          "commentCount": 5,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-09T23:59:59Z",
+          "likeCount": 0,
+          "commentCount": 5,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
+      "commentCount": 5,
+      "favoriteCount": 0,
+      "shareCount": 0
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "lastLinkAttemptAt": "2026-08-10T04:31:48+08:00",
+      "nextLinkRetryAt": "2026-08-11T04:31:48+08:00",
+      "title": "瘦了46斤啦！大基数提高夜代谢，掉秤真的快✅ #减肥经验分享 #减肥 #减脂 #体重管理 #减肥干货知识分享",
+      "publishedAt": "2026年8月9日 21:23",
+      "author": "凤宝（已掉46）",
+      "hook": "大基数提高夜代谢，掉秤更快",
+      "hookType": "成果经验",
+      "retention": "先用46斤的显著成果建立可信度，再聚焦夜代谢这一具体机制吸引大基数人群继续看方法。",
+      "scriptSegments": [
+        "开场：亮出已瘦46斤的成果",
+        "主体：分享大基数提高夜代谢的做法",
+        "收束：强调持续减脂与体重管理"
+      ],
+      "rank": 9
+    },
     {
       "videoUrl": "https://www.douyin.com/video/7672096062115844550",
       "coverUrl": null,
@@ -285,27 +511,6 @@
       "duration": null,
       "linkAttempts": 3,
       "linkMatchStatus": "paused",
-      "lastLinkAttemptAt": "2026-08-10T06:31:59+08:00",
-      "nextLinkRetryAt": "2026-08-11T06:31:59+08:00",
-      "title": "#减肥经验分享 #减肥干货 #体重管理 #科学减脂科普 #如何通过饮食科学减脂",
-      "publishedAt": "2026年8月9日 23:43",
-      "author": "李小哈呀",
-      "hook": "如何通过饮食科学减脂",
-      "hookType": "科普干货",
-      "retention": "以“如何通过饮食科学减脂”切入减脂、减肥或体重管理的直接痛点，形成继续观看的理由。",
-      "scriptSegments": [
-        "开场：如何通过饮食科学减脂",
-        "主体：围绕减脂、减肥或体重管理展开具体内容",
-        "收束：回扣可持续执行与互动"
-      ],
-      "rank": 6
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
       "lastLinkAttemptAt": "2026-08-10T07:33:44+08:00",
       "nextLinkRetryAt": "2026-08-11T07:33:44+08:00",
       "title": "暑假减肥第13天 想问下各位宝妈，孩子减重你们会焦虑掉秤速度吗？你们都是怎么管理孩子体重的？#真实生活分享计划 #儿童减脂餐 #减肥打卡日常",
@@ -398,27 +603,6 @@
           "shareCount": 66
         }
       ]
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "lastLinkAttemptAt": "2026-08-10T04:31:48+08:00",
-      "nextLinkRetryAt": "2026-08-11T04:31:48+08:00",
-      "title": "瘦了46斤啦！大基数提高夜代谢，掉秤真的快✅ #减肥经验分享 #减肥 #减脂 #体重管理 #减肥干货知识分享",
-      "publishedAt": "2026年8月9日 21:23",
-      "author": "凤宝（已掉46）",
-      "hook": "大基数提高夜代谢，掉秤更快",
-      "hookType": "成果经验",
-      "retention": "先用46斤的显著成果建立可信度，再聚焦夜代谢这一具体机制吸引大基数人群继续看方法。",
-      "scriptSegments": [
-        "开场：亮出已瘦46斤的成果",
-        "主体：分享大基数提高夜代谢的做法",
-        "收束：强调持续减脂与体重管理"
-      ],
-      "rank": 9
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672015114114983242",
@@ -668,70 +852,6 @@
       "source": {
         "engagementCapturedAt": "2026-08-09T23:59:59Z"
       }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672036547827143022",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "万物皆可吃，关键在于量 #减肥打卡日记 #减脂期吃什么 #减脂干饭日记 #体重管理日常 #自律饮食",
-      "publishedAt": "2026年8月9日 22:20",
-      "author": "吴所畏（冲击体重115中）",
-      "hook": "万物皆可吃，关键在于量",
-      "hookType": "反限制饮食观点",
-      "retention": "用“都能吃”的反常识开场降低饮食焦虑，再以分量控制给出可执行的减脂答案。",
-      "scriptSegments": [
-        "开场：提出万物皆可吃的反限制观点",
-        "主体：说明减脂期食物选择与分量控制",
-        "收束：回扣自律饮食和体重管理日常"
-      ],
-      "rank": 1,
-      "likeCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-10T00:23:04Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-09T20:47:11Z",
-          "likeCount": 0,
-          "commentCount": 3,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T21:00:53Z",
-          "likeCount": 0,
-          "commentCount": 3,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T23:11:41Z",
-          "likeCount": 0,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T23:39:15Z",
-          "likeCount": 0,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T23:59:59Z",
-          "likeCount": 0,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ],
-      "commentCount": 5,
-      "favoriteCount": 0,
-      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672034728623508873",
@@ -1860,27 +1980,6 @@
       "source": {
         "engagementCapturedAt": "2026-08-09T21:00:53Z"
       }
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "lastLinkAttemptAt": "2026-08-09T16:24:29+08:00",
-      "nextLinkRetryAt": "2026-08-10T16:24:29+08:00",
-      "title": "女明星Ella陈嘉桦分享超慢跑減酯法！！有大肚子大象腿妈妈臀 全身肉肉比较多的，还有睡眠不好肠胃不好的朋友一定要试试，坚持打卡 你也能收获京",
-      "publishedAt": "2026年8月9日 07:38",
-      "author": "吉利布丁🍮",
-      "hook": "Ella分享超慢跑減酯法",
-      "hookType": "明星方法种草",
-      "retention": "借明星案例和大肚子、大象腿等具体痛点扩大代入，再以打卡结果承诺维持观看。",
-      "scriptSegments": [
-        "开场：点名明星超慢跑减脂法",
-        "主体：对应大肚子、大象腿等适用痛点",
-        "收束：以坚持打卡和收获结果引导尝试"
-      ],
-      "rank": 18
     }
   ]
 }
