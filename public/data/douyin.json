@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T20:30:08.986Z",
-    "engagementCapturedAt": "2026-08-10T20:44:25Z",
+    "engagementCapturedAt": "2026-08-10T21:20:38Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -225,11 +225,18 @@
         "收束：回到可持续的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T21:01:19Z"
+        "engagementCapturedAt": "2026-08-10T21:20:38Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 17,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T21:01:19Z",
           "likeCount": 17,
           "commentCount": 0,
           "favoriteCount": 0,
