@@ -37,11 +37,11 @@
   ],
   "videos": [
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672186330580057701",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "传说掉秤超快的一只白，第一天试试水 据说3天5斤，有今天开始的姐妹，3天后评论区见，看看大家都掉了几斤 3天冲刺计划启动，早餐香蕉鸡蛋椰子水",
       "publishedAt": "2026年8月10日 08:01",
