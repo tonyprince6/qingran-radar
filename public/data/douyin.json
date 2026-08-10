@@ -223,7 +223,7 @@
       "favoriteCount": 152,
       "shareCount": 70,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:45:43Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -260,6 +260,13 @@
           "commentCount": 4,
           "favoriteCount": 151,
           "shareCount": 68
+        },
+        {
+          "capturedAt": "2026-08-10T04:45:43Z",
+          "likeCount": 106,
+          "commentCount": 4,
+          "favoriteCount": 152,
+          "shareCount": 70
         }
       ]
     },
@@ -282,12 +289,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 1,
-      "likeCount": 12,
+      "likeCount": 14,
       "commentCount": 14,
-      "favoriteCount": 2,
-      "shareCount": 2,
+      "favoriteCount": 3,
+      "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:45:43Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -344,6 +351,13 @@
           "likeCount": 10,
           "commentCount": 13,
           "favoriteCount": 1,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T04:45:43Z",
+          "likeCount": 12,
+          "commentCount": 14,
+          "favoriteCount": 2,
           "shareCount": 2
         }
       ]
@@ -410,7 +424,8 @@
           "favoriteCount": 1,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": null,
@@ -457,7 +472,7 @@
       "favoriteCount": 3,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:45:43Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -477,6 +492,13 @@
         {
           "capturedAt": "2026-08-10T04:07:37.611Z",
           "likeCount": 26,
+          "commentCount": 7,
+          "favoriteCount": 3,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-10T04:45:43Z",
+          "likeCount": 27,
           "commentCount": 7,
           "favoriteCount": 3,
           "shareCount": 1
@@ -665,12 +687,12 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 2,
-      "likeCount": 11,
-      "commentCount": 4,
-      "favoriteCount": 1,
+      "likeCount": 12,
+      "commentCount": 5,
+      "favoriteCount": 2,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -728,6 +750,13 @@
           "commentCount": 3,
           "favoriteCount": 1,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-10T04:07:37.611Z",
+          "likeCount": 11,
+          "commentCount": 4,
+          "favoriteCount": 1,
+          "shareCount": 3
         }
       ]
     },
@@ -779,7 +808,8 @@
           "favoriteCount": 0,
           "shareCount": 1
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672066264085427187",
@@ -947,7 +977,7 @@
       "favoriteCount": 130,
       "shareCount": 67,
       "source": {
-        "engagementCapturedAt": "2026-08-10T04:45:43Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -1040,6 +1070,13 @@
           "commentCount": 3,
           "favoriteCount": 130,
           "shareCount": 67
+        },
+        {
+          "capturedAt": "2026-08-10T04:45:43Z",
+          "likeCount": 197,
+          "commentCount": 3,
+          "favoriteCount": 130,
+          "shareCount": 67
         }
       ]
     },
@@ -1105,7 +1142,8 @@
           "favoriteCount": 9,
           "shareCount": 17
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672014967675197113",
@@ -1189,7 +1227,8 @@
       "shareCount": 2,
       "source": {
         "engagementCapturedAt": "2026-08-10T04:07:37.611Z"
-      }
+      },
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672012258050468278",
@@ -1430,12 +1469,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 136,
+      "likeCount": 140,
       "commentCount": 3,
-      "favoriteCount": 87,
-      "shareCount": 52,
+      "favoriteCount": 91,
+      "shareCount": 53,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -1496,6 +1535,13 @@
         },
         {
           "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 136,
+          "commentCount": 3,
+          "favoriteCount": 87,
+          "shareCount": 52
+        },
+        {
+          "capturedAt": "2026-08-10T03:47:08.318Z",
           "likeCount": 136,
           "commentCount": 3,
           "favoriteCount": 87,
@@ -1578,14 +1624,21 @@
           "commentCount": 23,
           "favoriteCount": 3,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-10T03:47:08.318Z",
+          "likeCount": 29,
+          "commentCount": 23,
+          "favoriteCount": 3,
+          "shareCount": 4
         }
       ],
-      "likeCount": 29,
+      "likeCount": 30,
       "commentCount": 23,
       "favoriteCount": 3,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       }
     },
     {
@@ -1729,12 +1782,12 @@
         "收束：强调自律与生活化减脂的持续执行"
       ],
       "rank": 10,
-      "likeCount": 141,
+      "likeCount": 151,
       "commentCount": 2,
-      "favoriteCount": 85,
-      "shareCount": 58,
+      "favoriteCount": 106,
+      "shareCount": 64,
       "source": {
-        "engagementCapturedAt": "2026-08-10T02:26:40.516Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -1813,6 +1866,13 @@
           "commentCount": 1,
           "favoriteCount": 63,
           "shareCount": 49
+        },
+        {
+          "capturedAt": "2026-08-10T02:26:40.516Z",
+          "likeCount": 141,
+          "commentCount": 2,
+          "favoriteCount": 85,
+          "shareCount": 58
         }
       ]
     },
@@ -1885,14 +1945,21 @@
           "commentCount": 1,
           "favoriteCount": 138,
           "shareCount": 30
+        },
+        {
+          "capturedAt": "2026-08-09T23:39:15Z",
+          "likeCount": 112,
+          "commentCount": 1,
+          "favoriteCount": 138,
+          "shareCount": 30
         }
       ],
-      "likeCount": 112,
+      "likeCount": 116,
       "commentCount": 1,
-      "favoriteCount": 138,
-      "shareCount": 30,
+      "favoriteCount": 139,
+      "shareCount": 32,
       "source": {
-        "engagementCapturedAt": "2026-08-09T23:39:15Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       }
     },
     {
@@ -1978,12 +2045,12 @@
         "收束：回扣长期减脂与体重管理"
       ],
       "rank": 13,
-      "likeCount": 21,
-      "commentCount": 8,
-      "favoriteCount": 8,
-      "shareCount": 4,
+      "likeCount": 32,
+      "commentCount": 9,
+      "favoriteCount": 15,
+      "shareCount": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-09T21:00:53Z"
+        "engagementCapturedAt": "2026-08-10T05:00:45Z"
       },
       "engagementHistory": [
         {
@@ -2017,6 +2084,13 @@
         {
           "capturedAt": "2026-08-09T20:03:28Z",
           "likeCount": 20,
+          "commentCount": 8,
+          "favoriteCount": 8,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-09T21:00:53Z",
+          "likeCount": 21,
           "commentCount": 8,
           "favoriteCount": 8,
           "shareCount": 4
