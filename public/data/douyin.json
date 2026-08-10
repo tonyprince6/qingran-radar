@@ -225,9 +225,17 @@
         "收束：回到可持续的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 17,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 17,
       "commentCount": 0,
       "favoriteCount": 0,
@@ -258,11 +266,18 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-10T19:20:47Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -291,9 +306,17 @@
         "收束：以拒绝内耗强化持续执行"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 7,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 7,
       "commentCount": 4,
       "favoriteCount": 0,
@@ -320,9 +343,17 @@
         "收束：回到适合自己的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 3,
       "commentCount": 0,
       "favoriteCount": 0,
@@ -349,9 +380,17 @@
         "收束：以自律和变美目标收尾"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 1
+        }
+      ],
       "likeCount": 4,
       "commentCount": 0,
       "favoriteCount": 1,
@@ -399,9 +438,17 @@
         "收束：回到孩子自律与长期体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 16,
+          "commentCount": 0,
+          "favoriteCount": 6,
+          "shareCount": 9
+        }
+      ],
       "likeCount": 16,
       "commentCount": 0,
       "favoriteCount": 6,
@@ -428,7 +475,7 @@
       ],
       "rank": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
       "engagementHistory": [
         {
@@ -468,6 +515,13 @@
         },
         {
           "capturedAt": "2026-08-10T17:46:43Z",
+          "likeCount": 3,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
           "likeCount": 3,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -608,7 +662,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
       "engagementHistory": [
         {
@@ -694,6 +748,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -721,7 +782,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
       "engagementHistory": [
         {
@@ -793,6 +854,13 @@
           "commentCount": 31,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 42,
+          "commentCount": 32,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -815,21 +883,14 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 24,
-      "likeCount": 766,
+      "likeCount": 775,
       "commentCount": 10,
-      "favoriteCount": 316,
-      "shareCount": 64,
+      "favoriteCount": 323,
+      "shareCount": 66,
       "source": {
-        "engagementCapturedAt": "2026-08-10T20:44:25Z"
+        "engagementCapturedAt": "2026-08-10T21:01:19Z"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 754,
-          "commentCount": 10,
-          "favoriteCount": 311,
-          "shareCount": 64
-        },
         {
           "capturedAt": "2026-08-10T08:07:02Z",
           "likeCount": 275,
@@ -912,6 +973,20 @@
           "likeCount": 741,
           "commentCount": 10,
           "favoriteCount": 303,
+          "shareCount": 64
+        },
+        {
+          "capturedAt": "2026-08-10T20:19:30Z",
+          "likeCount": 754,
+          "commentCount": 10,
+          "favoriteCount": 311,
+          "shareCount": 64
+        },
+        {
+          "capturedAt": "2026-08-10T20:44:25Z",
+          "likeCount": 766,
+          "commentCount": 10,
+          "favoriteCount": 316,
           "shareCount": 64
         }
       ]
