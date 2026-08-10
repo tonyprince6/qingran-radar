@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-10T12:27:52+08:00",
-    "engagementCapturedAt": "2026-08-10T03:23:05Z",
+    "engagementCapturedAt": "2026-08-10T06:42:17Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -1470,12 +1470,12 @@
         "收束：强调生活化减脂和自律执行"
       ],
       "rank": 3,
-      "likeCount": 140,
+      "likeCount": 152,
       "commentCount": 3,
-      "favoriteCount": 91,
-      "shareCount": 53,
+      "favoriteCount": 95,
+      "shareCount": 54,
       "source": {
-        "engagementCapturedAt": "2026-08-10T05:00:45Z"
+        "engagementCapturedAt": "2026-08-10T06:42:17Z"
       },
       "engagementHistory": [
         {
@@ -1547,6 +1547,13 @@
           "commentCount": 3,
           "favoriteCount": 87,
           "shareCount": 52
+        },
+        {
+          "capturedAt": "2026-08-10T05:00:45Z",
+          "likeCount": 140,
+          "commentCount": 3,
+          "favoriteCount": 91,
+          "shareCount": 53
         }
       ]
     },
