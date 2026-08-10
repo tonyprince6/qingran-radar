@@ -381,7 +381,7 @@
       "favoriteCount": 4,
       "shareCount": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-10T08:58:59Z"
+        "engagementCapturedAt": "2026-08-10T09:21:15Z"
       },
       "engagementHistory": [
         {
@@ -458,6 +458,13 @@
           "capturedAt": "2026-08-10T08:07:02Z",
           "likeCount": 20,
           "commentCount": 16,
+          "favoriteCount": 4,
+          "shareCount": 10
+        },
+        {
+          "capturedAt": "2026-08-10T08:58:59Z",
+          "likeCount": 20,
+          "commentCount": 19,
           "favoriteCount": 4,
           "shareCount": 10
         }
