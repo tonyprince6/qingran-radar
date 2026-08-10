@@ -56,24 +56,24 @@
       ],
       "rank": 1,
       "likeCount": 9,
-      "commentCount": 12,
+      "commentCount": 13,
       "favoriteCount": 1,
       "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T01:46:12Z",
-          "likeCount": 2,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
         {
           "capturedAt": "2026-08-10T00:45:14Z",
           "likeCount": 1,
           "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-10T01:46:12Z",
+          "likeCount": 2,
+          "commentCount": 4,
           "favoriteCount": 0,
           "shareCount": 0
         },
@@ -96,6 +96,13 @@
           "likeCount": 6,
           "commentCount": 10,
           "favoriteCount": 0,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 9,
+          "commentCount": 12,
+          "favoriteCount": 1,
           "shareCount": 2
         }
       ]
@@ -140,12 +147,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 3,
-      "likeCount": 105,
-      "commentCount": 3,
-      "favoriteCount": 150,
-      "shareCount": 65,
+      "likeCount": 106,
+      "commentCount": 4,
+      "favoriteCount": 151,
+      "shareCount": 67,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       },
       "engagementHistory": [
         {
@@ -158,6 +165,13 @@
         {
           "capturedAt": "2026-08-10T02:45:46Z",
           "likeCount": 103,
+          "commentCount": 3,
+          "favoriteCount": 150,
+          "shareCount": 65
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 105,
           "commentCount": 3,
           "favoriteCount": 150,
           "shareCount": 65
@@ -219,7 +233,8 @@
           "favoriteCount": 1,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": null,
@@ -266,8 +281,17 @@
       "favoriteCount": 3,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
-      }
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 26,
+          "commentCount": 7,
+          "favoriteCount": 3,
+          "shareCount": 1
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672036547827143022",
@@ -345,7 +369,8 @@
       ],
       "commentCount": 8,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": null,
@@ -417,7 +442,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "当前详情页未呈现可验证的主视频互动指标"
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672081970427568741",
@@ -438,12 +463,12 @@
         "收束：回扣可持续执行与互动"
       ],
       "rank": 2,
-      "likeCount": 9,
-      "commentCount": 2,
+      "likeCount": 11,
+      "commentCount": 3,
       "favoriteCount": 1,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       },
       "engagementHistory": [
         {
@@ -487,6 +512,13 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 9,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 3
         }
       ]
     },
@@ -532,7 +564,7 @@
           "shareCount": 1
         }
       ],
-      "lastMetricError": "当前详情页未呈现可验证的主视频互动指标"
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672066264085427187",
@@ -582,7 +614,8 @@
           "favoriteCount": 0,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672058583031605222",
@@ -639,7 +672,8 @@
           "favoriteCount": 0,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": null,
@@ -686,7 +720,7 @@
       "favoriteCount": 130,
       "shareCount": 67,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       },
       "engagementHistory": [
         {
@@ -758,6 +792,13 @@
           "commentCount": 3,
           "favoriteCount": 129,
           "shareCount": 66
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 196,
+          "commentCount": 3,
+          "favoriteCount": 130,
+          "shareCount": 67
         }
       ]
     },
@@ -1094,7 +1135,8 @@
       "shareCount": 0,
       "source": {
         "engagementCapturedAt": "2026-08-10T02:45:46Z"
-      }
+      },
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672028431080574242",
@@ -1121,7 +1163,7 @@
       "favoriteCount": 87,
       "shareCount": 52,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       },
       "engagementHistory": [
         {
@@ -1178,6 +1220,13 @@
           "likeCount": 133,
           "commentCount": 3,
           "favoriteCount": 85,
+          "shareCount": 52
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 136,
+          "commentCount": 3,
+          "favoriteCount": 87,
           "shareCount": 52
         }
       ]
@@ -1250,6 +1299,13 @@
           "commentCount": 21,
           "favoriteCount": 3,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T03:23:05Z",
+          "likeCount": 29,
+          "commentCount": 23,
+          "favoriteCount": 3,
+          "shareCount": 4
         }
       ],
       "likeCount": 29,
@@ -1257,7 +1313,7 @@
       "favoriteCount": 3,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-10T03:23:05Z"
+        "engagementCapturedAt": "2026-08-10T03:47:08.318Z"
       }
     },
     {
@@ -1378,7 +1434,8 @@
           "favoriteCount": 1,
           "shareCount": 4
         }
-      ]
+      ],
+      "lastMetricError": "Visible main-operation counters were not all numeric."
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671988373166337465",
