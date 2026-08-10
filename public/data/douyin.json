@@ -54,7 +54,15 @@
         "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
-      "rank": 1
+      "rank": 1,
+      "likeCount": 1,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+      },
+      "engagementHistory": []
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672240299314269157",
@@ -74,7 +82,15 @@
         "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
-      "rank": 2
+      "rank": 2,
+      "likeCount": 15,
+      "commentCount": 17,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+      },
+      "engagementHistory": []
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672224648499343680",
@@ -94,7 +110,15 @@
         "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
-      "rank": 3
+      "rank": 3,
+      "likeCount": 275,
+      "commentCount": 3,
+      "favoriteCount": 48,
+      "shareCount": 17,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+      },
+      "engagementHistory": []
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672221253231017151",
@@ -134,7 +158,15 @@
         "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
-      "rank": 5
+      "rank": 5,
+      "likeCount": 5,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+      },
+      "engagementHistory": []
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672208984770058673",
@@ -155,7 +187,15 @@
         "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
-      "rank": 6
+      "rank": 6,
+      "likeCount": 2,
+      "commentCount": 1,
+      "favoriteCount": 1,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
+      },
+      "engagementHistory": []
     },
     {
       "videoUrl": null,
@@ -218,12 +258,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 9,
-      "likeCount": 106,
-      "commentCount": 4,
-      "favoriteCount": 152,
-      "shareCount": 70,
+      "likeCount": 115,
+      "commentCount": 6,
+      "favoriteCount": 161,
+      "shareCount": 71,
       "source": {
-        "engagementCapturedAt": "2026-08-10T05:00:45Z"
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
       },
       "engagementHistory": [
         {
@@ -267,6 +307,13 @@
           "commentCount": 4,
           "favoriteCount": 152,
           "shareCount": 70
+        },
+        {
+          "capturedAt": "2026-08-10T05:00:45Z",
+          "likeCount": 106,
+          "commentCount": 4,
+          "favoriteCount": 152,
+          "shareCount": 70
         }
       ]
     },
@@ -289,12 +336,12 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 1,
-      "likeCount": 14,
-      "commentCount": 14,
-      "favoriteCount": 3,
-      "shareCount": 3,
+      "likeCount": 20,
+      "commentCount": 16,
+      "favoriteCount": 4,
+      "shareCount": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-10T05:00:45Z"
+        "engagementCapturedAt": "2026-08-10T08:07:02Z"
       },
       "engagementHistory": [
         {
@@ -359,6 +406,13 @@
           "commentCount": 14,
           "favoriteCount": 2,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-10T05:00:45Z",
+          "likeCount": 14,
+          "commentCount": 14,
+          "favoriteCount": 3,
+          "shareCount": 3
         }
       ]
     },
