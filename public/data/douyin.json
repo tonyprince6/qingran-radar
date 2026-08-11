@@ -236,7 +236,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:21:51.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -280,6 +280,13 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T20:21:51.000Z",
+          "likeCount": 22,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 1
         }
       ],
       "likeCount": 22,
@@ -307,7 +314,7 @@
       ],
       "rank": 11,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:01:11.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "likeCount": 6,
       "commentCount": 1,
@@ -323,6 +330,13 @@
         },
         {
           "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 6,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T20:01:11.000Z",
           "likeCount": 6,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -350,16 +364,23 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "likeCount": 42,
       "commentCount": 3,
       "favoriteCount": 32,
-      "shareCount": 19,
+      "shareCount": 20,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T18:42:09.000Z",
           "likeCount": 41,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 19
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 42,
           "commentCount": 3,
           "favoriteCount": 32,
           "shareCount": 19
@@ -470,7 +491,7 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -528,12 +549,19 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 13
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 24,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 17
         }
       ],
-      "likeCount": 24,
-      "commentCount": 5,
-      "favoriteCount": 4,
-      "shareCount": 17
+      "likeCount": 44,
+      "commentCount": 7,
+      "favoriteCount": 10,
+      "shareCount": 29
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672713563697450292",
@@ -843,12 +871,12 @@
         "收束：回到健康减脂方式"
       ],
       "rank": 28,
-      "likeCount": 9,
-      "commentCount": 25,
+      "likeCount": 10,
+      "commentCount": 26,
       "favoriteCount": 0,
-      "shareCount": 4,
+      "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -871,6 +899,13 @@
           "commentCount": 14,
           "favoriteCount": 0,
           "shareCount": 3
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 9,
+          "commentCount": 25,
+          "favoriteCount": 0,
+          "shareCount": 4
         }
       ]
     },
@@ -893,9 +928,9 @@
         "收束：鼓励持续体重管理"
       ],
       "rank": 29,
-      "likeCount": 67,
+      "likeCount": 68,
       "commentCount": 1,
-      "favoriteCount": 6,
+      "favoriteCount": 7,
       "shareCount": 7,
       "engagementHistory": [
         {
@@ -981,10 +1016,17 @@
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 67,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 7
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       }
     },
     {
@@ -1006,12 +1048,12 @@
         "收束：回到健康体重管理"
       ],
       "rank": 30,
-      "likeCount": 87,
+      "likeCount": 89,
       "commentCount": 12,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -1076,6 +1118,13 @@
           "commentCount": 11,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 87,
+          "commentCount": 12,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -1103,7 +1152,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -1154,6 +1203,13 @@
           "commentCount": 7,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 66,
+          "commentCount": 10,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ]
     },
@@ -1181,7 +1237,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -1232,6 +1288,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 9,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -1276,12 +1339,12 @@
         "收束：引导健康减脂行动"
       ],
       "rank": 34,
-      "likeCount": 23,
+      "likeCount": 26,
       "commentCount": 4,
       "favoriteCount": 0,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
       },
       "engagementHistory": [
         {
@@ -1294,6 +1357,13 @@
         {
           "capturedAt": "2026-08-11T12:27:14.513Z",
           "likeCount": 19,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 23,
           "commentCount": 4,
           "favoriteCount": 0,
           "shareCount": 6
