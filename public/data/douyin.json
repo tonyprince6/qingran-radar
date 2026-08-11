@@ -197,7 +197,7 @@
       ],
       "rank": 8,
       "source": {
-        "engagementCapturedAt": "2026-08-11T16:04:30.489Z"
+        "engagementCapturedAt": "2026-08-11T16:42:05.000Z"
       },
       "engagementHistory": [
         {
@@ -227,9 +227,16 @@
           "commentCount": 4,
           "favoriteCount": 3,
           "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-11T16:04:30.489Z",
+          "likeCount": 12,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 6
         }
       ],
-      "likeCount": 12,
+      "likeCount": 13,
       "commentCount": 4,
       "favoriteCount": 3,
       "shareCount": 6
