@@ -77,7 +77,7 @@
       ],
       "rank": 2,
     "source": {
-      "engagementCapturedAt": "2026-08-11T15:21:09.000Z"
+      "engagementCapturedAt": "2026-08-11T16:04:30.489Z"
       },
       "engagementHistory": [
         {
@@ -100,12 +100,19 @@
         "commentCount": 4,
         "favoriteCount": 3,
         "shareCount": 4
+      },
+      {
+        "capturedAt": "2026-08-11T15:21:09.000Z",
+        "likeCount": 11,
+        "commentCount": 4,
+        "favoriteCount": 3,
+        "shareCount": 5
       }
     ],
-    "likeCount": 11,
+    "likeCount": 12,
       "commentCount": 4,
       "favoriteCount": 3,
-    "shareCount": 5
+    "shareCount": 6
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -196,7 +203,7 @@
       ],
       "rank": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-11T14:23:55.000Z"
+        "engagementCapturedAt": "2026-08-11T16:07:18.386Z"
       },
       "engagementHistory": [
       {
@@ -208,16 +215,16 @@
       },
       {
         "capturedAt": "2026-08-11T14:23:55.000Z",
-        "likeCount": 5372,
-        "commentCount": 259,
-        "favoriteCount": 1064,
-        "shareCount": 19000
+        "likeCount": 6389,
+        "commentCount": 305,
+        "favoriteCount": 1232,
+        "shareCount": 23000
       }
     ],
-    "likeCount": 6389,
-    "commentCount": 305,
-    "favoriteCount": 1232,
-    "shareCount": 23000
+    "likeCount": 8470,
+    "commentCount": 396,
+    "favoriteCount": 1571,
+    "shareCount": 29000
     },
     {
       "videoUrl": null,
