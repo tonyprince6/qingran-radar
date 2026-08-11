@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T20:34:29.239Z",
-    "engagementCapturedAt": "2026-08-11T20:01:11.000Z",
+    "engagementCapturedAt": "2026-08-11T21:40:41.000Z",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -245,7 +245,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       },
       "engagementHistory": [
         {
@@ -296,9 +296,16 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 22,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 1
         }
       ],
-      "likeCount": 22,
+      "likeCount": 24,
       "commentCount": 1,
       "favoriteCount": 4,
       "shareCount": 1
@@ -373,7 +380,7 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:01:49.570Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       },
       "likeCount": 42,
       "commentCount": 3,
@@ -396,6 +403,13 @@
         },
         {
           "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 42,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-11T21:01:49.570Z",
           "likeCount": 42,
           "commentCount": 3,
           "favoriteCount": 32,
@@ -485,7 +499,14 @@
         "主体：分享减肥与减脂经验",
         "收束：强调自律和会吃"
       ],
-      "rank": 16
+      "rank": 16,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+      },
+      "likeCount": 33,
+      "commentCount": 3,
+      "favoriteCount": 12,
+      "shareCount": 11
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672714019144609201",
@@ -507,7 +528,7 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       },
       "engagementHistory": [
         {
@@ -572,12 +593,19 @@
           "commentCount": 5,
           "favoriteCount": 4,
           "shareCount": 17
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 44,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 29
         }
       ],
       "likeCount": 44,
       "commentCount": 7,
       "favoriteCount": 10,
-      "shareCount": 29
+      "shareCount": 30
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672713563697450292",
@@ -598,7 +626,14 @@
         "主体：列举十种适合减脂饮食的食物",
         "收束：回到生活化体重管理"
       ],
-      "rank": 18
+      "rank": 18,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+      },
+      "likeCount": 81,
+      "commentCount": 20,
+      "favoriteCount": 51,
+      "shareCount": 28
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -620,7 +655,7 @@
       ],
       "rank": 19,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:01:49.570Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       },
       "engagementHistory": [
         {
@@ -657,10 +692,17 @@
           "commentCount": 23,
           "favoriteCount": 22,
           "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T21:01:49.570Z",
+          "likeCount": 145,
+          "commentCount": 23,
+          "favoriteCount": 23,
+          "shareCount": 6
         }
       ],
-      "likeCount": 145,
-      "commentCount": 23,
+      "likeCount": 147,
+      "commentCount": 24,
       "favoriteCount": 23,
       "shareCount": 6
     },
@@ -746,7 +788,7 @@
       ],
       "rank": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:01:49.570Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       },
       "engagementHistory": [
         {
@@ -790,11 +832,18 @@
           "commentCount": 549,
           "favoriteCount": 2089,
           "shareCount": 36000
+        },
+        {
+          "capturedAt": "2026-08-11T21:01:49.570Z",
+          "likeCount": 12000,
+          "commentCount": 587,
+          "favoriteCount": 2214,
+          "shareCount": 37000
         }
       ],
-      "likeCount": 12000,
-      "commentCount": 587,
-      "favoriteCount": 2214,
+      "likeCount": 13000,
+      "commentCount": 593,
+      "favoriteCount": 2244,
       "shareCount": 37000
     },
     {
@@ -1053,10 +1102,17 @@
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 68,
+          "commentCount": 1,
+          "favoriteCount": 7,
+          "shareCount": 7
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
       }
     },
     {
