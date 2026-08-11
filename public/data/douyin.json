@@ -2,30 +2,30 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-11T00:31:30.552Z",
+    "capturedAt": "2026-08-11T04:32:32.296Z",
     "engagementCapturedAt": "2026-08-11T04:19:17.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
-      "period": "2026-07-08 ~ 2026-08-08",
-      "searchAverage": "149.1万",
-      "yearOverYear": "+29.30%",
-      "monthOverMonth": "+19.58%"
+      "period": "2026-07-09 ~ 2026-08-09",
+      "searchAverage": "148.7万",
+      "yearOverYear": "+29.66%",
+      "monthOverMonth": "+18.52%"
     },
     "indexes": {
       "减脂": {
-        "period": "2026-07-08 ~ 2026-08-08",
-        "searchAverage": "149.1万",
-        "comprehensiveAverage": "59.6万"
+        "period": "2026-07-09 ~ 2026-08-09",
+        "searchAverage": "148.7万",
+        "comprehensiveAverage": "59.4万"
       },
       "减肥": {
-        "period": "2026-07-08 ~ 2026-08-08",
-        "searchAverage": "348.9万",
-        "comprehensiveAverage": "127.2万"
+        "period": "2026-07-09 ~ 2026-08-09",
+        "searchAverage": "348.4万",
+        "comprehensiveAverage": "127.0万"
       },
       "体重管理": {
-        "period": "2026-07-08 ~ 2026-08-08",
-        "searchAverage": "1.0万",
+        "period": "2026-07-09 ~ 2026-08-09",
+        "searchAverage": "9935",
         "comprehensiveAverage": "1.3万"
       }
     }
@@ -36,6 +36,395 @@
     "体重管理"
   ],
   "videos": [
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "四个月努力的减肥终于成功了",
+      "publishedAt": "2026年8月11日 12:14",
+      "author": "沙沙",
+      "hook": "结果先行的减重变化",
+      "hookType": "成果展示",
+      "retention": "先展示具体减重成果，促使观众停留了解过程和方法。",
+      "scriptSegments": [
+        "开场：亮出体重或成果",
+        "主体：补充饮食与行动过程",
+        "收束：回到健康体重管理"
+      ],
+      "rank": 1
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "小女人是宠出来的，女汉子是逼出来的！",
+      "publishedAt": "2026年8月11日 12:07",
+      "author": "霞姐体重管理师",
+      "hook": "减脂行动如何开始？",
+      "hookType": "经验分享",
+      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
+      "scriptSegments": [
+        "开场：描述减脂场景",
+        "主体：分享经历或方法",
+        "收束：鼓励持续执行"
+      ],
+      "rank": 2
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "马思纯瘦回了巅峰期，中女们8月预瘦多少斤？ #中女#马思纯#管理体重#瘦到理想型 #8月",
+      "publishedAt": "2026年8月11日 09:54",
+      "author": "体重管理铁心老板全程打明牌",
+      "hook": "结果先行的减重变化",
+      "hookType": "成果展示",
+      "retention": "先展示具体减重成果，促使观众停留了解过程和方法。",
+      "scriptSegments": [
+        "开场：亮出体重或成果",
+        "主体：补充饮食与行动过程",
+        "收束：回到健康体重管理"
+      ],
+      "rank": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "九种减脂食材越吃越瘦 减肥饿到晕还不掉秤？调理好肠道才是关键，这九种食材帮你轻松控卡掉秤。 #减肥 #减脂食材 #掉秤小",
+      "publishedAt": "2026年8月11日 08:35",
+      "author": "营养师王卓-体重管理",
+      "hook": "减脂期该怎么吃？",
+      "hookType": "清单干货",
+      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
+      "scriptSegments": [
+        "开场：点出减脂饮食难题",
+        "主体：列出食材或搭配",
+        "收束：提示执行要点"
+      ],
+      "rank": 4
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "管理期间饿了吃这几种食物#自律 #体重管理 #经验分享 #生活化减脂 #变美变瘦变好看",
+      "publishedAt": "2026年8月11日 07:26",
+      "author": "骁哥元气生活",
+      "hook": "减脂期该怎么吃？",
+      "hookType": "清单干货",
+      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
+      "scriptSegments": [
+        "开场：点出减脂饮食难题",
+        "主体：列出食材或搭配",
+        "收束：提示执行要点"
+      ],
+      "rank": 5
+    },
+    {
+      "videoUrl": "https://www.douyin.com/video/7672534693225556709",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "nextLinkRetryAt": null,
+      "lastLinkAttemptAt": "2026-08-11T08:45:55+08:00",
+      "title": "减肥的人真的要养成“瘦子思维”啊！为什么有的人喝奶茶吃炸鸡都不会胖呢？🤔#体重管理 #控食欲 #健康减脂 #瘦子思维 #跑步",
+      "publishedAt": "2026年8月11日 06:33",
+      "author": "游不动的小辉",
+      "hook": "喝奶茶吃炸鸡为何不胖？",
+      "hookType": "反差提问",
+      "retention": "用高热量食物与“不胖”的反差制造好奇，再承诺解释瘦子思维与控食欲方法。",
+      "scriptSegments": [
+        "开场：提出吃炸鸡奶茶却不胖的反差",
+        "主体：解释瘦子思维与控食欲",
+        "收束：回到健康减脂和跑步习惯"
+      ],
+      "rank": 6,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 71,
+          "commentCount": 23,
+          "favoriteCount": 34,
+          "shareCount": 24
+        }
+      ],
+      "likeCount": 163,
+      "commentCount": 56,
+      "favoriteCount": 83,
+      "shareCount": 85,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T03:21:38.613Z"
+      }
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "为什么节食减肥越减越胖#体重管理 #健康减脂 #生活化瘦身 #体质调理",
+      "publishedAt": "2026年8月11日 00:15",
+      "author": "静姐",
+      "hook": "为什么节食越减越胖？",
+      "hookType": "反差提问",
+      "retention": "用反常识问题制造好奇，随后解释饮食与减脂的关键做法。",
+      "scriptSegments": [
+        "开场：提出反差问题",
+        "主体：解释减脂原理或方法",
+        "收束：给出可执行建议"
+      ],
+      "rank": 7
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-12T06:43:41+08:00",
+      "lastLinkAttemptAt": "2026-08-11T06:43:41+08:00",
+      "title": "饿瘦47斤，只需8步❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
+      "publishedAt": "2026年8月10日 23:49",
+      "author": "大琳子管理咨询哦",
+      "hook": "饿瘦47斤，只需8步",
+      "hookType": "步骤承诺",
+      "retention": "“47斤”的强结果配合“8步”清单承诺，制造明确的减重路径期待。",
+      "scriptSegments": [
+        "开场：给出饿瘦47斤的结果",
+        "主体：按8步拆解减脂行动",
+        "收束：回扣健康减肥与体重管理"
+      ],
+      "rank": 8
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "#减肥 #减肥打卡日记 #减肥日常记录 #减脂餐 #体重管理日常",
+      "publishedAt": "2026年8月10日 21:39",
+      "author": "奔跑的小禾",
+      "hook": "减脂期该怎么吃？",
+      "hookType": "清单干货",
+      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
+      "scriptSegments": [
+        "开场：点出减脂饮食难题",
+        "主体：列出食材或搭配",
+        "收束：提示执行要点"
+      ],
+      "rank": 9
+    },
+    {
+      "videoUrl": "https://www.douyin.com/video/7672395836668670330",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "nextLinkRetryAt": null,
+      "lastLinkAttemptAt": "2026-08-10T20:40:40.000Z",
+      "title": "168 104斤挑战瘦到100斤收官！！ ⬇️95再见吧！！！！#减脂餐 #减肥打卡日常 #减肥饮食分享 #减脂期饮食记录 #体重管理日记",
+      "publishedAt": "2026年8月10日 21:34",
+      "author": "慧慧爱吃冰淇凌味的燕麦糊",
+      "hook": "104斤挑战瘦到100斤收官",
+      "hookType": "挑战收官",
+      "retention": "明确的100斤目标与收官节点营造结果验证感，带动观众关注减脂期饮食细节。",
+      "scriptSegments": [
+        "开场：宣布104斤到100斤挑战收官",
+        "主体：分享减脂餐与饮食记录",
+        "收束：继续向95斤目标推进"
+      ],
+      "rank": 10,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T03:39:15.000Z"
+      },
+      "likeCount": 16,
+      "commentCount": 6,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 8,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:25:42.472Z",
+          "likeCount": 10,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "饿到什么程度，脂肪才开始燃烧 #生活化减脂 #体重管理 #快乐减肥",
+      "publishedAt": "2026年8月10日 21:07",
+      "author": "蓝月与你共养身心",
+      "hook": "为什么节食越减越胖？",
+      "hookType": "反差提问",
+      "retention": "用反常识问题制造好奇，随后解释饮食与减脂的关键做法。",
+      "scriptSegments": [
+        "开场：提出反差问题",
+        "主体：解释减脂原理或方法",
+        "收束：给出可执行建议"
+      ],
+      "rank": 11
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "豆腐是减脂期的好食材。 #减肥 #科学健康减脂 #减脂饮食 #减肥误区 #体重管理",
+      "publishedAt": "2026年8月10日 20:30",
+      "author": "阿杰（减肥避坑）",
+      "hook": "减脂期该怎么吃？",
+      "hookType": "清单干货",
+      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
+      "scriptSegments": [
+        "开场：点出减脂饮食难题",
+        "主体：列出食材或搭配",
+        "收束：提示执行要点"
+      ],
+      "rank": 12
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "大胆说，万一实现了呢#减肥 #减脂 #自律 #体重管理 #变瘦变美变好看 @DOU+小助手",
+      "publishedAt": "2026年8月10日 20:20",
+      "author": "京硕陪你瘦",
+      "hook": "减脂行动如何开始？",
+      "hookType": "经验分享",
+      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
+      "scriptSegments": [
+        "开场：描述减脂场景",
+        "主体：分享经历或方法",
+        "收束：鼓励持续执行"
+      ],
+      "rank": 13
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "我靠饿掉了35，马甲线不靠练 #减脂 #生活化减脂 #健康饮食 #体重管理 #减肥",
+      "publishedAt": "2026年8月10日 20:17",
+      "author": "悦绮儿♡营养美学",
+      "hook": "结果先行的减重变化",
+      "hookType": "成果展示",
+      "retention": "先展示具体减重成果，促使观众停留了解过程和方法。",
+      "scriptSegments": [
+        "开场：亮出体重或成果",
+        "主体：补充饮食与行动过程",
+        "收束：回到健康体重管理"
+      ],
+      "rank": 14
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "减脂期 不要碰了#减肥#减脂#体重管理#自侓#减肥逆袭",
+      "publishedAt": "2026年8月10日 20:01",
+      "author": "小梁在自律",
+      "hook": "减脂行动如何开始？",
+      "hookType": "经验分享",
+      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
+      "scriptSegments": [
+        "开场：描述减脂场景",
+        "主体：分享经历或方法",
+        "收束：鼓励持续执行"
+      ],
+      "rank": 15
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "健康减脂｜能量缺口 #健康减脂#减肥科普#体重管理#千女纤寻#塑型瘦身",
+      "publishedAt": "2026年8月10日 19:56",
+      "author": "千女纤寻",
+      "hook": "减脂行动如何开始？",
+      "hookType": "经验分享",
+      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
+      "scriptSegments": [
+        "开场：描述减脂场景",
+        "主体：分享经历或方法",
+        "收束：鼓励持续执行"
+      ],
+      "rank": 16
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "#体重管理 #减脂餐分享 #减肥 #热门 #记录真实生活",
+      "publishedAt": "2026年8月10日 19:39",
+      "author": "可然日记🐌",
+      "hook": "减脂期该怎么吃？",
+      "hookType": "清单干货",
+      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
+      "scriptSegments": [
+        "开场：点出减脂饮食难题",
+        "主体：列出食材或搭配",
+        "收束：提示执行要点"
+      ],
+      "rank": 17
+    },
     {
       "videoUrl": "https://www.douyin.com/video/7672559181849760241",
       "coverUrl": null,
@@ -116,43 +505,6 @@
       }
     },
     {
-      "videoUrl": "https://www.douyin.com/video/7672534693225556709",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T08:45:55+08:00",
-      "title": "减肥的人真的要养成“瘦子思维”啊！为什么有的人喝奶茶吃炸鸡都不会胖呢？🤔#体重管理 #控食欲 #健康减脂 #瘦子思维 #跑步",
-      "publishedAt": "2026年8月11日 06:33",
-      "author": "游不动的小辉",
-      "hook": "喝奶茶吃炸鸡为何不胖？",
-      "hookType": "反差提问",
-      "retention": "用高热量食物与“不胖”的反差制造好奇，再承诺解释瘦子思维与控食欲方法。",
-      "scriptSegments": [
-        "开场：提出吃炸鸡奶茶却不胖的反差",
-        "主体：解释瘦子思维与控食欲",
-        "收束：回到健康减脂和跑步习惯"
-      ],
-      "rank": 3,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 71,
-          "commentCount": 23,
-          "favoriteCount": 34,
-          "shareCount": 24
-        }
-      ],
-      "likeCount": 163,
-      "commentCount": 56,
-      "favoriteCount": 83,
-      "shareCount": 85,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T03:21:38.613Z"
-      }
-    },
-    {
       "videoUrl": "https://www.douyin.com/video/7672523834758909610",
       "coverUrl": null,
       "duration": null,
@@ -172,27 +524,6 @@
         "收束：引导同目标人群参与陪跑"
       ],
       "rank": 4
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-12T06:43:41+08:00",
-      "lastLinkAttemptAt": "2026-08-11T06:43:41+08:00",
-      "title": "饿瘦47斤，只需8步❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
-      "publishedAt": "2026年8月10日 23:49",
-      "author": "大琳子管理咨询哦",
-      "hook": "饿瘦47斤，只需8步",
-      "hookType": "步骤承诺",
-      "retention": "“47斤”的强结果配合“8步”清单承诺，制造明确的减重路径期待。",
-      "scriptSegments": [
-        "开场：给出饿瘦47斤的结果",
-        "主体：按8步拆解减脂行动",
-        "收束：回扣健康减肥与体重管理"
-      ],
-      "rank": 5
     },
     {
       "videoUrl": null,
@@ -279,57 +610,6 @@
         "收束：落到长期体重管理"
       ],
       "rank": 8
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672395836668670330",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-10T20:40:40.000Z",
-      "title": "168 104斤挑战瘦到100斤收官！！ ⬇️95再见吧！！！！#减脂餐 #减肥打卡日常 #减肥饮食分享 #减脂期饮食记录 #体重管理日记",
-      "publishedAt": "2026年8月10日 21:34",
-      "author": "慧慧爱吃冰淇凌味的燕麦糊",
-      "hook": "104斤挑战瘦到100斤收官",
-      "hookType": "挑战收官",
-      "retention": "明确的100斤目标与收官节点营造结果验证感，带动观众关注减脂期饮食细节。",
-      "scriptSegments": [
-        "开场：宣布104斤到100斤挑战收官",
-        "主体：分享减脂餐与饮食记录",
-        "收束：继续向95斤目标推进"
-      ],
-      "rank": 9,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T03:39:15.000Z"
-      },
-      "likeCount": 16,
-      "commentCount": 6,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T01:25:42.472Z",
-          "likeCount": 10,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672419607954116197",
@@ -1096,1305 +1376,6 @@
         "收束：强调会吃才会瘦、便于体重管理"
       ],
       "rank": 20
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-11T22:40:05+08:00",
-      "lastLinkAttemptAt": "2026-08-10T22:40:05+08:00",
-      "title": "称体重没问题，但你得学会看体重！ #真实生活记录 #新手健身 #健身干货 #减脂",
-      "publishedAt": "2026年8月10日 16:26",
-      "author": "马丁的身材管理",
-      "hook": "称体重没问题，但要会看体重",
-      "hookType": "认知纠偏",
-      "retention": "用“能称但要会看”的转折纠正新手只看数字的误区，推动观众继续获取减脂判断方法。",
-      "scriptSegments": [
-        "开场：称体重没问题，但你得学会看体重",
-        "主体：解释新手健身与减脂期如何解读体重变化",
-        "收束：回到体重管理的正确观察方式"
-      ],
-      "rank": 21
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672242206926068453",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "游泳➕鞋修so出骨感教程（游泳妹请反复观看）#游泳 #减肥 #减脂餐打卡 #瘦 #体重管理",
-      "publishedAt": "2026年8月10日 11:38",
-      "author": "豆角包",
-      "hook": "游泳+修鞋也能练出骨感？",
-      "hookType": "反差好奇",
-      "retention": "以“游泳+修鞋也能练出骨感？”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：游泳+修鞋也能练出骨感？",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 22,
-      "likeCount": 5,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T08:01:31+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 2,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:20:18Z",
-          "likeCount": 2,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 2,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T11:05:05Z",
-          "likeCount": 2,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 3,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T12:42:38Z",
-          "likeCount": 3,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 3,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 3,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 4,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T21:01:19Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672240299314269157",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "#减脂计划与脂肪死磕到底 #今天你体重管理了吗 #减肥重在坚持 #追星女孩日常",
-      "publishedAt": "2026年8月10日 11:30",
-      "author": "肖战战🦐",
-      "hook": "和脂肪死磕到底，今天体重管理了吗",
-      "hookType": "打卡号召",
-      "retention": "以“和脂肪死磕到底，今天体重管理了吗”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：和脂肪死磕到底，今天体重管理了吗",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 23,
-      "likeCount": 42,
-      "commentCount": 32,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 15,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 17,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 17,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:03:01Z",
-          "likeCount": 17,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 17,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 18,
-          "commentCount": 17,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 25,
-          "commentCount": 19,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 26,
-          "commentCount": 19,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 41,
-          "commentCount": 31,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 41,
-          "commentCount": 31,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 42,
-          "commentCount": 32,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T21:01:19Z",
-          "likeCount": 42,
-          "commentCount": 32,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 42,
-          "commentCount": 32,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672224648499343680",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "已⬇️30斤的10个身材管理习惯✨瘦很轻松也好维持还长久 生活化的身材管理要落实到每一个选择的细节上，无痛“自律”是一种习惯#宅家减肥计划",
-      "publishedAt": "2026年8月10日 10:30",
-      "author": "鸡蛋很会吃",
-      "hook": "已瘦30斤的10个身材管理习惯",
-      "hookType": "结果背书清单",
-      "retention": "以“已瘦30斤的10个身材管理习惯”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：已瘦30斤的10个身材管理习惯",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 24,
-      "likeCount": 890,
-      "commentCount": 10,
-      "favoriteCount": 396,
-      "shareCount": 74,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 275,
-          "commentCount": 3,
-          "favoriteCount": 48,
-          "shareCount": 17
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 308,
-          "commentCount": 5,
-          "favoriteCount": 66,
-          "shareCount": 28
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 327,
-          "commentCount": 5,
-          "favoriteCount": 70,
-          "shareCount": 30
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 345,
-          "commentCount": 10,
-          "favoriteCount": 78,
-          "shareCount": 31
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 365,
-          "commentCount": 10,
-          "favoriteCount": 83,
-          "shareCount": 31
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 446,
-          "commentCount": 10,
-          "favoriteCount": 112,
-          "shareCount": 41
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 453,
-          "commentCount": 10,
-          "favoriteCount": 113,
-          "shareCount": 42
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 516,
-          "commentCount": 10,
-          "favoriteCount": 150,
-          "shareCount": 51
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 593,
-          "commentCount": 10,
-          "favoriteCount": 203,
-          "shareCount": 57
-        },
-        {
-          "capturedAt": "2026-08-10T18:27:25Z",
-          "likeCount": 676,
-          "commentCount": 10,
-          "favoriteCount": 252,
-          "shareCount": 60
-        },
-        {
-          "capturedAt": "2026-08-10T19:39:43Z",
-          "likeCount": 676,
-          "commentCount": 10,
-          "favoriteCount": 252,
-          "shareCount": 60
-        },
-        {
-          "capturedAt": "2026-08-10T19:58:45Z",
-          "likeCount": 741,
-          "commentCount": 10,
-          "favoriteCount": 303,
-          "shareCount": 64
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 754,
-          "commentCount": 10,
-          "favoriteCount": 311,
-          "shareCount": 64
-        },
-        {
-          "capturedAt": "2026-08-10T20:44:25Z",
-          "likeCount": 766,
-          "commentCount": 10,
-          "favoriteCount": 316,
-          "shareCount": 64
-        },
-        {
-          "capturedAt": "2026-08-10T21:01:19Z",
-          "likeCount": 794,
-          "commentCount": 10,
-          "favoriteCount": 338,
-          "shareCount": 69
-        },
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 794,
-          "commentCount": 10,
-          "favoriteCount": 338,
-          "shareCount": 69
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672221253231017151",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "减肥就是这样涨涨降降 去魏县吃顿江西菜🌶 上秤直接涨3两。在承受范围内。 重盐重辣锁水，不是长肥肉。 回归正常吃饭，等回落。#减肥日常记录",
-      "publishedAt": "2026年8月10日 10:16",
-      "author": "是娟吖︳产后二次瘦身",
-      "hook": "上秤涨3两别慌，可能只是锁水",
-      "hookType": "误区澄清",
-      "retention": "以“上秤涨3两别慌，可能只是锁水”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：上秤涨3两别慌，可能只是锁水",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 25,
-      "likeCount": 8,
-      "commentCount": 1,
-      "favoriteCount": 1,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 7,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 7,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 8,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672219846067161434",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "打卡第七天 谁能想到没有没有一个熟的🥹#体重管理日常 #减肥饮食打卡 #大基数减肥对镜拍 #减脂打卡 #减肥",
-      "publishedAt": "2026年8月10日 10:11",
-      "author": "赖床阿哞",
-      "hook": "减脂打卡第七天，结果出乎意料",
-      "hookType": "打卡悬念",
-      "retention": "以“减脂打卡第七天，结果出乎意料”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：减脂打卡第七天，结果出乎意料",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 26,
-      "likeCount": 5,
-      "commentCount": 2,
-      "favoriteCount": 0,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 5,
-          "commentCount": 1,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 5,
-          "commentCount": 1,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 5,
-          "commentCount": 1,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 1
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672208984770058673",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-10T12:41:33+08:00",
-      "title": "减肥过后要如何维持不反弹 #真实生活分享计划 #减肥 #减脂干货 #减肥不反弹 #体重管理",
-      "publishedAt": "2026年8月10日 09:29",
-      "author": "阿圣-减脂版",
-      "hook": "减肥后如何维持不反弹",
-      "hookType": "痛点提问",
-      "retention": "以“减肥后如何维持不反弹”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：减肥后如何维持不反弹",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 27,
-      "likeCount": 14,
-      "commentCount": 3,
-      "favoriteCount": 3,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 2,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 2,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 2,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 2,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 6,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 10,
-          "commentCount": 3,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 11,
-          "commentCount": 3,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T18:27:25Z",
-          "likeCount": 11,
-          "commentCount": 3,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T19:39:43Z",
-          "likeCount": 11,
-          "commentCount": 3,
-          "favoriteCount": 1,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-10T20:19:30Z",
-          "likeCount": 12,
-          "commentCount": 3,
-          "favoriteCount": 2,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 12,
-          "commentCount": 3,
-          "favoriteCount": 2,
-          "shareCount": 1
-        }
-      ]
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-11T14:37:10+08:00",
-      "lastLinkAttemptAt": "2026-08-10T14:37:10+08:00",
-      "title": "吃饭顺序一改，体重悄悄往下走 #体重管理 #减肥 #减脂##养成正确的饮食习惯 #科学饮食合理搭配",
-      "publishedAt": "2026年8月10日 07:40",
-      "author": "🌸鹏鹏｜减脂养气血",
-      "hook": "吃饭顺序一改，体重悄悄往下走",
-      "hookType": "简单技巧",
-      "retention": "以“吃饭顺序一改，体重悄悄往下走”开场，直接点出减脂、减肥或体重管理的可执行问题/结果，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：吃饭顺序一改，体重悄悄往下走",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 28
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-11T11:33:30+08:00",
-      "lastLinkAttemptAt": "2026-08-10T11:33:30+08:00",
-      "title": "七个好习惯，你中了几个？#体重管理 #减肥小知识 #减脂干货 #减脂期注意事项 #减肥",
-      "publishedAt": "2026年8月10日 07:31",
-      "author": "陪你自律的景文",
-      "hook": "七个好习惯，你中了几个",
-      "hookType": "清单自测",
-      "retention": "以“七个好习惯，你中了几个”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：七个好习惯，你中了几个",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 29
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7671234023561235766",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "中年女人150斤瘦到120斤饮食如何搭配 #女性减脂 #体重管理 #自律 #好好吃饭",
-      "publishedAt": "2026年8月10日 06:25",
-      "author": "琳琳带你变瘦变美（进主页粉丝群）",
-      "hook": "150斤瘦到120斤，饮食怎么搭配",
-      "hookType": "前后对比方案",
-      "retention": "以“150斤瘦到120斤，饮食怎么搭配”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：150斤瘦到120斤，饮食怎么搭配",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 30,
-      "likeCount": 152,
-      "commentCount": 5,
-      "favoriteCount": 211,
-      "shareCount": 83,
-      "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T01:46:12Z",
-          "likeCount": 100,
-          "commentCount": 3,
-          "favoriteCount": 146,
-          "shareCount": 60
-        },
-        {
-          "capturedAt": "2026-08-10T02:45:46Z",
-          "likeCount": 103,
-          "commentCount": 3,
-          "favoriteCount": 150,
-          "shareCount": 65
-        },
-        {
-          "capturedAt": "2026-08-10T03:23:05Z",
-          "likeCount": 105,
-          "commentCount": 3,
-          "favoriteCount": 150,
-          "shareCount": 65
-        },
-        {
-          "capturedAt": "2026-08-10T03:47:08.318Z",
-          "likeCount": 106,
-          "commentCount": 4,
-          "favoriteCount": 151,
-          "shareCount": 67
-        },
-        {
-          "capturedAt": "2026-08-10T04:07:37.611Z",
-          "likeCount": 106,
-          "commentCount": 4,
-          "favoriteCount": 151,
-          "shareCount": 68
-        },
-        {
-          "capturedAt": "2026-08-10T04:45:43Z",
-          "likeCount": 106,
-          "commentCount": 4,
-          "favoriteCount": 152,
-          "shareCount": 70
-        },
-        {
-          "capturedAt": "2026-08-10T05:00:45Z",
-          "likeCount": 106,
-          "commentCount": 4,
-          "favoriteCount": 152,
-          "shareCount": 70
-        },
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 115,
-          "commentCount": 6,
-          "favoriteCount": 161,
-          "shareCount": 71
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 119,
-          "commentCount": 4,
-          "favoriteCount": 161,
-          "shareCount": 72
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 119,
-          "commentCount": 4,
-          "favoriteCount": 163,
-          "shareCount": 73
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 127,
-          "commentCount": 4,
-          "favoriteCount": 178,
-          "shareCount": 75
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 128,
-          "commentCount": 4,
-          "favoriteCount": 178,
-          "shareCount": 76
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 142,
-          "commentCount": 4,
-          "favoriteCount": 201,
-          "shareCount": 81
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 149,
-          "commentCount": 4,
-          "favoriteCount": 206,
-          "shareCount": 81
-        },
-        {
-          "capturedAt": "2026-08-10T18:27:25Z",
-          "likeCount": 149,
-          "commentCount": 4,
-          "favoriteCount": 206,
-          "shareCount": 81
-        },
-        {
-          "capturedAt": "2026-08-10T19:39:43Z",
-          "likeCount": 149,
-          "commentCount": 4,
-          "favoriteCount": 206,
-          "shareCount": 81
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672186330580057701",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "传说掉秤超快的一只白，第一天试试水 据说3天5斤，有今天开始的姐妹，3天后评论区见，看看大家都掉了几斤 3天冲刺计划启动，早餐香蕉鸡蛋椰子水",
-      "publishedAt": "2026年8月10日 08:01",
-      "author": "🌺闪闪🌺自律中",
-      "hook": "传说3天掉5斤，第一天先试水",
-      "hookType": "结果承诺挑战",
-      "retention": "以“传说3天掉5斤，第一天先试水”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：传说3天掉5斤，第一天先试水",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 31,
-      "likeCount": 20,
-      "commentCount": 19,
-      "favoriteCount": 4,
-      "shareCount": 10,
-      "source": {
-        "engagementCapturedAt": "2026-08-10T20:19:30Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T00:45:14Z",
-          "likeCount": 1,
-          "commentCount": 1,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T01:46:12Z",
-          "likeCount": 2,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T02:02:50Z",
-          "likeCount": 4,
-          "commentCount": 9,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T02:45:46Z",
-          "likeCount": 6,
-          "commentCount": 10,
-          "favoriteCount": 0,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T03:02:28Z",
-          "likeCount": 6,
-          "commentCount": 10,
-          "favoriteCount": 0,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T03:23:05Z",
-          "likeCount": 9,
-          "commentCount": 12,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T03:47:08.318Z",
-          "likeCount": 9,
-          "commentCount": 13,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T04:07:37.611Z",
-          "likeCount": 10,
-          "commentCount": 13,
-          "favoriteCount": 1,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T04:45:43Z",
-          "likeCount": 12,
-          "commentCount": 14,
-          "favoriteCount": 2,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-10T05:00:45Z",
-          "likeCount": 14,
-          "commentCount": 14,
-          "favoriteCount": 3,
-          "shareCount": 3
-        },
-        {
-          "capturedAt": "2026-08-10T08:07:02Z",
-          "likeCount": 20,
-          "commentCount": 16,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T09:21:15Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T12:42:38Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T17:46:43Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T18:27:25Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        },
-        {
-          "capturedAt": "2026-08-10T19:39:43Z",
-          "likeCount": 20,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 10
-        }
-      ]
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-11T11:33:30+08:00",
-      "lastLinkAttemptAt": "2026-08-10T11:33:30+08:00",
-      "title": "行动起来#减脂#自律#减肥#体重管理#三餐营养师军姐",
-      "publishedAt": "2026年8月10日 06:09",
-      "author": "三餐营养师｜军姐",
-      "hook": "行动起来，从今天开始减脂",
-      "hookType": "行动号召",
-      "retention": "以“行动起来，从今天开始减脂”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：行动起来，从今天开始减脂",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 32
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672084766154785637",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "小基数生活化减脂 165/91.3已减43斤 全天摄入750大卡 #小基数减脂日记 #体重管理记录 #减肥饮食分享 #每天吃什么 #减脂计划",
-      "publishedAt": "2026年8月10日 01:27",
-      "author": "乐乐超想瘦(已瘦40斤)",
-      "hook": "小基数已减43斤，全天吃了什么",
-      "hookType": "成果日记饮食展示",
-      "retention": "以“小基数已减43斤，全天吃了什么”开场，先给出可验证的减脂、减肥或体重管理结果/问题，再展开具体做法以维持观看。",
-      "scriptSegments": [
-        "开场：小基数已减43斤，全天吃了什么",
-        "主体：展示减脂、减肥或体重管理的具体做法、饮食或打卡信息",
-        "收束：回扣可持续执行，并引导评论或收藏"
-      ],
-      "rank": 33,
-      "likeCount": 44,
-      "commentCount": 21,
-      "favoriteCount": 6,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-10T16:48:30Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 42,
-          "commentCount": 19,
-          "favoriteCount": 5,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 36,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 34,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 34,
-          "commentCount": 19,
-          "favoriteCount": 4,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T08:58:59Z",
-          "likeCount": 33,
-          "commentCount": 17,
-          "favoriteCount": 5,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T04:07:37.611Z",
-          "likeCount": 16,
-          "commentCount": 12,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T02:45:46Z",
-          "likeCount": 14,
-          "commentCount": 12,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T01:46:12Z",
-          "likeCount": 12,
-          "commentCount": 10,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 42,
-          "commentCount": 19,
-          "favoriteCount": 5,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672096062115844550",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "减肥日记，心情和掉秤一样重要 #每天记录减肥 #体重管理日常记录 #大基数减肥 #生活化减脂",
-      "publishedAt": "2026年8月10日 02:11",
-      "author": "漾漾会瘦哒",
-      "hook": "减肥日记里，心情和掉秤一样重要",
-      "hookType": "情绪共鸣日记",
-      "retention": "以“减肥日记里，心情和掉秤一样重要”切入减脂、减肥或体重管理的直接痛点，形成继续观看的理由。",
-      "scriptSegments": [
-        "开场：减肥日记里，心情和掉秤一样重要",
-        "主体：围绕减脂、减肥或体重管理展开具体内容",
-        "收束：回扣可持续执行与互动"
-      ],
-      "rank": 34,
-      "likeCount": 14,
-      "commentCount": 5,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-10T17:46:43Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-09T23:11:41Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T23:39:15Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-09T23:59:59Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T00:23:04Z",
-          "likeCount": 6,
-          "commentCount": 1,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T04:07:37.611Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T09:40:29Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T10:47:35Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T11:50:35Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T12:42:38Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:10:48Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T14:22:43Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-10T16:48:30Z",
-          "likeCount": 14,
-          "commentCount": 5,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
     }
   ]
 }
