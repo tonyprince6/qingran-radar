@@ -37,11 +37,11 @@
   ],
   "videos": [
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672622540461008378",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "四个月努力的减肥终于成功了",
       "publishedAt": "2026年8月11日 12:14",
@@ -57,11 +57,11 @@
       "rank": 1
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672620764167758435",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "小女人是宠出来的，女汉子是逼出来的！",
       "publishedAt": "2026年8月11日 12:07",
@@ -77,11 +77,11 @@
       "rank": 2
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672586634424609147",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "马思纯瘦回了巅峰期，中女们8月预瘦多少斤？ #中女#马思纯#管理体重#瘦到理想型 #8月",
       "publishedAt": "2026年8月11日 09:54",
@@ -97,11 +97,11 @@
       "rank": 3
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672566090010053903",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "九种减脂食材越吃越瘦 减肥饿到晕还不掉秤？调理好肠道才是关键，这九种食材帮你轻松控卡掉秤。 #减肥 #减脂食材 #掉秤小",
       "publishedAt": "2026年8月11日 08:35",
@@ -120,9 +120,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 0,
+      "linkAttempts": 1,
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
+      "lastLinkAttemptAt": "2026-08-11T12:48:59+08:00",
       "title": "管理期间饿了吃这几种食物#自律 #体重管理 #经验分享 #生活化减脂 #变美变瘦变好看",
       "publishedAt": "2026年8月11日 07:26",
       "author": "骁哥元气生活",
@@ -174,11 +175,11 @@
       }
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672437377671672418",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "为什么节食减肥越减越胖#体重管理 #健康减脂 #生活化瘦身 #体质调理",
       "publishedAt": "2026年8月11日 00:15",
@@ -215,11 +216,11 @@
       "rank": 8
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672397166586038641",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "#减肥 #减肥打卡日记 #减肥日常记录 #减脂餐 #体重管理日常",
       "publishedAt": "2026年8月10日 21:39",
