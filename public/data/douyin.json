@@ -55,7 +55,14 @@
         "主体：分享减肥与体重管理经验",
         "收束：鼓励立即把方法用进日常"
       ],
-      "rank": 1
+      "rank": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
+      },
+      "likeCount": 7,
+      "commentCount": 0,
+      "favoriteCount": 3,
+      "shareCount": 4
     },
     {
       "videoUrl": null,
@@ -245,7 +252,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:59:34.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
       "engagementHistory": [
         {
@@ -310,9 +317,16 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T21:59:34.000Z",
+          "likeCount": 24,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 1
         }
       ],
-      "likeCount": 24,
+      "likeCount": 26,
       "commentCount": 1,
       "favoriteCount": 4,
       "shareCount": 1
@@ -337,7 +351,8 @@
       ],
       "rank": 11,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z",
+        "lastMetricError": "收藏和分享未显示可读数值"
       },
       "likeCount": 6,
       "commentCount": 1,
@@ -387,9 +402,9 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
-      "likeCount": 42,
+      "likeCount": 44,
       "commentCount": 3,
       "favoriteCount": 32,
       "shareCount": 20,
@@ -417,6 +432,13 @@
         },
         {
           "capturedAt": "2026-08-11T21:01:49.570Z",
+          "likeCount": 42,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
           "likeCount": 42,
           "commentCount": 3,
           "favoriteCount": 32,
@@ -464,7 +486,10 @@
         "主体：记录减脂餐和日常吃饭",
         "收束：用健身打卡邀请坚持"
       ],
-      "rank": 14
+      "rank": 14,
+      "source": {
+        "lastMetricError": "分享未显示可读数值"
+      }
     },
     {
       "videoUrl": null,
@@ -508,12 +533,21 @@
       ],
       "rank": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
-      "likeCount": 33,
+      "likeCount": 34,
       "commentCount": 3,
       "favoriteCount": 12,
-      "shareCount": 11
+      "shareCount": 11,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 33,
+          "commentCount": 3,
+          "favoriteCount": 12,
+          "shareCount": 11
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672714019144609201",
@@ -535,7 +569,7 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
       "engagementHistory": [
         {
@@ -607,9 +641,16 @@
           "commentCount": 7,
           "favoriteCount": 10,
           "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 44,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 30
         }
       ],
-      "likeCount": 44,
+      "likeCount": 45,
       "commentCount": 7,
       "favoriteCount": 10,
       "shareCount": 30
@@ -635,12 +676,21 @@
       ],
       "rank": 18,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
-      "likeCount": 81,
-      "commentCount": 20,
-      "favoriteCount": 51,
-      "shareCount": 28
+      "likeCount": 85,
+      "commentCount": 22,
+      "favoriteCount": 56,
+      "shareCount": 29,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 81,
+          "commentCount": 20,
+          "favoriteCount": 51,
+          "shareCount": 28
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -662,7 +712,7 @@
       ],
       "rank": 19,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
       "engagementHistory": [
         {
@@ -706,9 +756,16 @@
           "commentCount": 23,
           "favoriteCount": 23,
           "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 147,
+          "commentCount": 24,
+          "favoriteCount": 23,
+          "shareCount": 6
         }
       ],
-      "likeCount": 147,
+      "likeCount": 148,
       "commentCount": 24,
       "favoriteCount": 23,
       "shareCount": 6
@@ -795,7 +852,7 @@
       ],
       "rank": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
       "engagementHistory": [
         {
@@ -846,12 +903,19 @@
           "commentCount": 587,
           "favoriteCount": 2214,
           "shareCount": 37000
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 13000,
+          "commentCount": 593,
+          "favoriteCount": 2244,
+          "shareCount": 37000
         }
       ],
       "likeCount": 13000,
-      "commentCount": 593,
-      "favoriteCount": 2244,
-      "shareCount": 37000
+      "commentCount": 605,
+      "favoriteCount": 2294,
+      "shareCount": 38000
     },
     {
       "videoUrl": null,
@@ -957,12 +1021,12 @@
         "收束：回到健康减脂方式"
       ],
       "rank": 28,
-      "likeCount": 10,
+      "likeCount": 12,
       "commentCount": 26,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       },
       "engagementHistory": [
         {
@@ -992,6 +1056,13 @@
           "commentCount": 25,
           "favoriteCount": 0,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 10,
+          "commentCount": 26,
+          "favoriteCount": 0,
+          "shareCount": 6
         }
       ]
     },
@@ -1014,7 +1085,7 @@
         "收束：鼓励持续体重管理"
       ],
       "rank": 29,
-      "likeCount": 68,
+      "likeCount": 69,
       "commentCount": 1,
       "favoriteCount": 7,
       "shareCount": 7,
@@ -1116,10 +1187,17 @@
           "commentCount": 1,
           "favoriteCount": 7,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 68,
+          "commentCount": 1,
+          "favoriteCount": 7,
+          "shareCount": 7
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T21:40:41.000Z"
+        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
       }
     },
     {
@@ -1146,7 +1224,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z",
+        "lastMetricError": "收藏和分享未显示可读数值"
       },
       "engagementHistory": [
         {
@@ -1245,7 +1324,8 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z",
+        "lastMetricError": "分享未显示可读数值"
       },
       "engagementHistory": [
         {
@@ -1330,7 +1410,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z"
+        "engagementCapturedAt": "2026-08-11T20:51:16.000Z",
+        "lastMetricError": "收藏和分享未显示可读数值"
       },
       "engagementHistory": [
         {
