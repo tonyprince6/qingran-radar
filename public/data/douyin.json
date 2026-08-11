@@ -56,7 +56,7 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-11T18:00:32.000Z"
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
       },
       "engagementHistory": [
         {
@@ -69,6 +69,13 @@
         {
           "capturedAt": "2026-08-11T17:39:13.000Z",
           "likeCount": 18,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T18:00:32.000Z",
+          "likeCount": 19,
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
@@ -124,7 +131,14 @@
         "主体：对比可选泡面与需要避开的品类",
         "收束：强调会吃才能瘦"
       ],
-      "rank": 3
+      "rank": 3,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
+      },
+      "likeCount": 41,
+      "commentCount": 3,
+      "favoriteCount": 32,
+      "shareCount": 19
     },
     {
       "videoUrl": null,
@@ -228,7 +242,7 @@
       ],
       "rank": 8,
       "source": {
-        "engagementCapturedAt": "2026-08-11T16:58:13.000Z"
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
       },
       "engagementHistory": [
         {
@@ -272,12 +286,19 @@
           "commentCount": 4,
           "favoriteCount": 3,
           "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T16:58:13.000Z",
+          "likeCount": 13,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 7
         }
       ],
-      "likeCount": 13,
-      "commentCount": 4,
-      "favoriteCount": 3,
-      "shareCount": 7
+      "likeCount": 21,
+      "commentCount": 5,
+      "favoriteCount": 4,
+      "shareCount": 13
     },
     {
       "videoUrl": null,
@@ -319,7 +340,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T18:21:12.000Z"
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
       },
       "engagementHistory": [
         {
@@ -335,9 +356,16 @@
           "commentCount": 23,
           "favoriteCount": 21,
           "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T18:21:12.000Z",
+          "likeCount": 141,
+          "commentCount": 23,
+          "favoriteCount": 21,
+          "shareCount": 6
         }
       ],
-      "likeCount": 141,
+      "likeCount": 143,
       "commentCount": 23,
       "favoriteCount": 21,
       "shareCount": 6
@@ -424,7 +452,7 @@
       ],
       "rank": 14,
       "source": {
-        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
       },
       "engagementHistory": [
         {
@@ -447,12 +475,19 @@
           "commentCount": 396,
           "favoriteCount": 1571,
           "shareCount": 29000
+        },
+        {
+          "capturedAt": "2026-08-11T17:19:36.000Z",
+          "likeCount": 10000,
+          "commentCount": 476,
+          "favoriteCount": 1879,
+          "shareCount": 33000
         }
       ],
-      "likeCount": 10000,
-      "commentCount": 476,
-      "favoriteCount": 1879,
-      "shareCount": 33000
+      "likeCount": 11000,
+      "commentCount": 539,
+      "favoriteCount": 2050,
+      "shareCount": 35000
     },
     {
       "videoUrl": null,
@@ -601,7 +636,7 @@
         "收束：鼓励持续体重管理"
       ],
       "rank": 20,
-      "likeCount": 66,
+      "likeCount": 67,
       "commentCount": 1,
       "favoriteCount": 6,
       "shareCount": 7,
@@ -675,10 +710,17 @@
           "commentCount": 1,
           "favoriteCount": 6,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T17:19:36.000Z",
+          "likeCount": 66,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 7
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
+        "engagementCapturedAt": "2026-08-11T18:42:09.000Z"
       }
     },
     {
