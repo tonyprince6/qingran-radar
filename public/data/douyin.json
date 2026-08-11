@@ -614,7 +614,7 @@
         "收束：回到孩子自律与长期体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
       },
       "engagementHistory": [
         {
@@ -630,12 +630,19 @@
           "commentCount": 0,
           "favoriteCount": 6,
           "shareCount": 9
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 19,
+          "commentCount": 0,
+          "favoriteCount": 6,
+          "shareCount": 9
         }
       ],
       "likeCount": 19,
       "commentCount": 0,
-      "favoriteCount": 6,
-      "shareCount": 9
+      "favoriteCount": 7,
+      "shareCount": 11
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672365035783963633",
@@ -986,7 +993,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
       },
       "engagementHistory": [
         {
@@ -1072,6 +1079,13 @@
           "commentCount": 32,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 42,
+          "commentCount": 32,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ]
     },
@@ -1099,7 +1113,7 @@
       "favoriteCount": 338,
       "shareCount": 69,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
       },
       "engagementHistory": [
         {
@@ -1206,8 +1220,19 @@
           "commentCount": 10,
           "favoriteCount": 338,
           "shareCount": 69
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 794,
+          "commentCount": 10,
+          "favoriteCount": 338,
+          "shareCount": 69
         }
-      ]
+      ],
+      "likeCount": 890,
+      "commentCount": 10,
+      "favoriteCount": 396,
+      "shareCount": 74
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672221253231017151",
@@ -1411,7 +1436,7 @@
       "favoriteCount": 2,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
       },
       "engagementHistory": [
         {
@@ -1483,8 +1508,19 @@
           "commentCount": 3,
           "favoriteCount": 2,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 12,
+          "commentCount": 3,
+          "favoriteCount": 2,
+          "shareCount": 1
         }
-      ]
+      ],
+      "likeCount": 14,
+      "commentCount": 3,
+      "favoriteCount": 3,
+      "shareCount": 1
     },
     {
       "videoUrl": null,
