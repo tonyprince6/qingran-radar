@@ -526,21 +526,28 @@
           "favoriteCount": 0,
           "shareCount": 0
         },
-        {
-          "capturedAt": "2026-08-11T04:40:16.000Z",
-          "likeCount": 38,
-          "commentCount": 9,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ],
+    {
+      "capturedAt": "2026-08-11T04:40:16.000Z",
+      "likeCount": 38,
+      "commentCount": 9,
+      "favoriteCount": 0,
+      "shareCount": 0
+    },
+    {
+      "capturedAt": "2026-08-11T06:42:27.000Z",
       "likeCount": 46,
       "commentCount": 10,
       "favoriteCount": 0,
+      "shareCount": 0
+    }
+  ],
+  "likeCount": 47,
+      "commentCount": 10,
+      "favoriteCount": 0,
       "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T06:42:27.000Z"
-      }
+  "source": {
+    "engagementCapturedAt": "2026-08-11T07:01:42.000Z"
+  }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672523834758909610",
