@@ -76,8 +76,8 @@
         "收束：回到体重管理"
       ],
       "rank": 2,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T14:23:55.000Z"
+    "source": {
+      "engagementCapturedAt": "2026-08-11T15:00:38.853Z"
       },
       "engagementHistory": [
         {
@@ -192,18 +192,25 @@
         "engagementCapturedAt": "2026-08-11T14:23:55.000Z"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T13:42:20.000Z",
-          "likeCount": 4075,
-          "commentCount": 187,
-          "favoriteCount": 810,
-          "shareCount": 14000
-        }
-      ],
-      "likeCount": 5372,
-      "commentCount": 259,
-      "favoriteCount": 1064,
-      "shareCount": 19000
+      {
+        "capturedAt": "2026-08-11T13:42:20.000Z",
+        "likeCount": 4075,
+        "commentCount": 187,
+        "favoriteCount": 810,
+        "shareCount": 14000
+      },
+      {
+        "capturedAt": "2026-08-11T14:23:55.000Z",
+        "likeCount": 5372,
+        "commentCount": 259,
+        "favoriteCount": 1064,
+        "shareCount": 19000
+      }
+    ],
+    "likeCount": 6389,
+    "commentCount": 305,
+    "favoriteCount": 1232,
+    "shareCount": 23000
     },
     {
       "videoUrl": null,
