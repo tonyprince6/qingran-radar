@@ -37,11 +37,11 @@
   ],
   "videos": [
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672800527969378246",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "lastLinkAttemptAt": "2026-08-12T05:00:34+08:00",
       "title": "抓住早上减脂黄金期#减肥 #体重管理#减脂黄金期#减肥经验分享#逆袭",
