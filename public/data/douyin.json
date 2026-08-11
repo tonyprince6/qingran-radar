@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T16:33:35.243Z",
-    "engagementCapturedAt": "2026-08-11T16:58:13.000Z",
+    "engagementCapturedAt": "2026-08-11T17:19:36.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -54,7 +54,14 @@
         "主体：连续输出十条清醒建议",
         "收束：把减肥落到找回底气"
       ],
-      "rank": 1
+      "rank": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
+      },
+      "likeCount": 18,
+      "commentCount": 1,
+      "favoriteCount": 4,
+      "shareCount": 1
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672592602927478242",
@@ -289,12 +296,21 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T14:23:55.000Z"
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
       },
-      "likeCount": 114,
-      "commentCount": 20,
-      "favoriteCount": 17,
-      "shareCount": 3
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T14:23:55.000Z",
+          "likeCount": 114,
+          "commentCount": 20,
+          "favoriteCount": 17,
+          "shareCount": 3
+        }
+      ],
+      "likeCount": 140,
+      "commentCount": 23,
+      "favoriteCount": 21,
+      "shareCount": 6
     },
     {
       "videoUrl": null,
@@ -378,7 +394,7 @@
       ],
       "rank": 14,
       "source": {
-        "engagementCapturedAt": "2026-08-11T16:07:18.386Z"
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
       },
       "engagementHistory": [
         {
@@ -394,12 +410,19 @@
           "commentCount": 305,
           "favoriteCount": 1232,
           "shareCount": 23000
+        },
+        {
+          "capturedAt": "2026-08-11T16:07:18.386Z",
+          "likeCount": 8470,
+          "commentCount": 396,
+          "favoriteCount": 1571,
+          "shareCount": 29000
         }
       ],
-      "likeCount": 8470,
-      "commentCount": 396,
-      "favoriteCount": 1571,
-      "shareCount": 29000
+      "likeCount": 10000,
+      "commentCount": 476,
+      "favoriteCount": 1879,
+      "shareCount": 33000
     },
     {
       "videoUrl": null,
@@ -548,7 +571,7 @@
         "收束：鼓励持续体重管理"
       ],
       "rank": 20,
-      "likeCount": 64,
+      "likeCount": 66,
       "commentCount": 1,
       "favoriteCount": 6,
       "shareCount": 7,
@@ -615,10 +638,17 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T15:40:25.000Z",
+          "likeCount": 64,
+          "commentCount": 1,
+          "favoriteCount": 6,
+          "shareCount": 7
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T15:40:25.000Z"
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
       }
     },
     {
@@ -925,12 +955,12 @@
         "收束：提示执行要点"
       ],
       "rank": 26,
-      "likeCount": 2,
+      "likeCount": 3,
       "commentCount": 2,
-      "favoriteCount": 1,
-      "shareCount": 0,
+      "favoriteCount": 3,
+      "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
       },
       "engagementHistory": [
         {
@@ -963,6 +993,13 @@
         },
         {
           "capturedAt": "2026-08-11T12:12:04.823Z",
+          "likeCount": 2,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T12:27:14.513Z",
           "likeCount": 2,
           "commentCount": 2,
           "favoriteCount": 1,
@@ -1237,14 +1274,21 @@
           "commentCount": 135,
           "favoriteCount": 170,
           "shareCount": 178
+        },
+        {
+          "capturedAt": "2026-08-11T12:27:14.513Z",
+          "likeCount": 385,
+          "commentCount": 136,
+          "favoriteCount": 171,
+          "shareCount": 179
         }
       ],
-      "likeCount": 385,
-      "commentCount": 136,
-      "favoriteCount": 171,
-      "shareCount": 179,
+      "likeCount": 432,
+      "commentCount": 151,
+      "favoriteCount": 185,
+      "shareCount": 207,
       "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
+        "engagementCapturedAt": "2026-08-11T17:19:36.000Z"
       }
     },
     {
