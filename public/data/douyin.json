@@ -2,20 +2,20 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-11T16:33:35.243Z",
+    "capturedAt": "2026-08-11T20:34:29.239Z",
     "engagementCapturedAt": "2026-08-11T20:01:11.000Z",
-    "window": "最近4小时",
+    "window": "最近24小时",
     "index": {
       "keyword": "减脂",
-      "period": "2026-07-09 ~ 2026-08-09",
-      "searchAverage": "148.7万",
-      "yearOverYear": "+29.66%",
-      "monthOverMonth": "+18.52%"
+      "period": "2026-07-10 ~ 2026-08-10",
+      "searchAverage": "148.6万",
+      "yearOverYear": "+29.94%",
+      "monthOverMonth": "+17.95%"
     },
     "indexes": {
       "减脂": {
-        "period": "2026-07-09 ~ 2026-08-09",
-        "searchAverage": "148.7万",
+        "period": "2026-07-10 ~ 2026-08-10",
+        "searchAverage": "148.6万",
         "comprehensiveAverage": "59.4万"
       },
       "减肥": {
@@ -37,6 +37,186 @@
   ],
   "videos": [
     {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "抓住早上减脂黄金期#减肥 #体重管理#减脂黄金期#减肥经验分享#逆袭",
+      "publishedAt": "2026年8月11日 23:44",
+      "author": "静静自律每一天",
+      "hook": "抓住早上减脂黄金期",
+      "hookType": "黄金时段建议",
+      "retention": "以“早上黄金期”的时间窗口与经验承诺，推动观众停留获取可执行的减脂方法。",
+      "scriptSegments": [
+        "开场：点出早上是减脂黄金期",
+        "主体：分享减肥与体重管理经验",
+        "收束：鼓励立即把方法用进日常"
+      ],
+      "rank": 1
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "减肥的时候肚子饿，吃这六种蛋白质食物 不仅容易饱腹，还能保持好身材。#自律 #体重管理 #女性健康 #减脂餐",
+      "publishedAt": "2026年8月11日 21:52",
+      "author": "张雒陪你蜕变",
+      "hook": "减肥饿了就吃这六种蛋白质食物",
+      "hookType": "清单干货",
+      "retention": "用“六种”具体清单回应减肥饥饿痛点，促使观众看完获取饱腹食材。",
+      "scriptSegments": [
+        "开场：提出减肥时肚子饿的痛点",
+        "主体：列出六种高蛋白饱腹食物",
+        "收束：强调饱腹也能保持身材"
+      ],
+      "rank": 2
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "今天是有劲儿减脂的一天 #美好的一天从称体重开始 #女生力量训练 #拒绝内耗健身第一 #坚持运动的快乐 #井迪儿",
+      "publishedAt": "2026年8月11日 21:51",
+      "author": "小熊要自律",
+      "hook": "今天是有劲儿减脂的一天",
+      "hookType": "日常打卡",
+      "retention": "将称重、力量训练与积极心态组合成日常打卡，吸引同类人观看并跟练。",
+      "scriptSegments": [
+        "开场：用称体重开启减脂日",
+        "主体：展示女生力量训练与健身状态",
+        "收束：传递坚持运动的快乐"
+      ],
+      "rank": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "姐妹体重差10斤，一天饮食对比，开始！ #减肥 #减肥打卡日常 #继续努力健康管理体重 #减脂餐 #减肥数据记录",
+      "publishedAt": "2026年8月11日 21:00",
+      "author": "嘟嘟交通警迪",
+      "hook": "姐妹体重差10斤，一天饮食对比",
+      "hookType": "对比实验",
+      "retention": "以10斤体重差和一天饮食对比制造差异悬念，驱动观众看完寻找减肥变量。",
+      "scriptSegments": [
+        "开场：亮出姐妹体重相差10斤",
+        "主体：对比两人的一天饮食",
+        "收束：落到体重管理与减脂餐记录"
+      ],
+      "rank": 4
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "越吃越痩的七种食物 #生活化减脂 #体重管理 #身材管理是女人一生的必修课",
+      "publishedAt": "2026年8月11日 20:55",
+      "author": "阿雅生活小妙招",
+      "hook": "越吃越瘦的七种食物",
+      "hookType": "食物清单",
+      "retention": "以“七种食物”和越吃越瘦的结果承诺，引导观众停留获得生活化减脂选择。",
+      "scriptSegments": [
+        "开场：提出越吃越瘦的食物主题",
+        "主体：依次介绍七种食物",
+        "收束：关联长期体重与身材管理"
+      ],
+      "rank": 5
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "加油！ #体重管理 #生活化减脂 #减肥",
+      "publishedAt": "2026年8月11日 20:30",
+      "author": "我是方可来分享",
+      "hook": "加油：体重管理减脂日常",
+      "hookType": "情绪鼓励",
+      "retention": "标题信息有限，以直接的减肥标签和鼓励语触达正在体重管理的人群。",
+      "scriptSegments": [
+        "开场：给减肥人一句加油",
+        "主体：围绕生活化减脂展开",
+        "收束：继续体重管理打卡"
+      ],
+      "rank": 6
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "五种特别不应该吃的食物 #自律 #体重管理 #健康饮食 #减脂食谱",
+      "publishedAt": "2026年8月11日 20:13",
+      "author": "张雒天天自律",
+      "hook": "五种特别不应该吃的食物",
+      "hookType": "饮食避坑",
+      "retention": "用“五种不该吃”的避坑框架触发好奇，促使观众停留查看减脂期饮食禁区。",
+      "scriptSegments": [
+        "开场：点名五种不建议吃的食物",
+        "主体：解释减脂期饮食避坑",
+        "收束：回到健康饮食与自律"
+      ],
+      "rank": 7
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "大厂牛马全蛋刷脂日记Day2（吃播版） #体重管理 #打工人减肥日记 #一边上班一边减脂 #吃播 #减肥日常vlog",
+      "publishedAt": "2026年8月11日 19:28",
+      "author": "KrayZhang",
+      "hook": "大厂打工人全蛋刷脂日记 Day2",
+      "hookType": "打工人日记",
+      "retention": "用打工人身份、Day2连续记录和吃播形式建立追更感，吸引观众查看上班减脂实践。",
+      "scriptSegments": [
+        "开场：以打工人刷脂日记 Day2 切入",
+        "主体：记录全蛋饮食和上班减脂",
+        "收束：延续减肥日常Vlog追更"
+      ],
+      "rank": 8
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "十个加速减脂的好习惯#减肥 #减脂 #自律 #体重管理 #身材管理",
+      "publishedAt": "2026年8月11日 19:26",
+      "author": "阿热教练（减脂号）",
+      "hook": "十个加速减脂的好习惯",
+      "hookType": "习惯清单",
+      "retention": "以“十个好习惯”的数量化承诺，吸引希望加速减脂的观众完整观看并收藏。",
+      "scriptSegments": [
+        "开场：提出加速减脂的十个习惯",
+        "主体：逐条讲解减肥与自律行动",
+        "收束：连接长期体重和身材管理"
+      ],
+      "rank": 9
+    },
+    {
       "videoUrl": "https://www.douyin.com/video/7672738683233199323",
       "coverUrl": null,
       "duration": null,
@@ -54,7 +234,7 @@
         "主体：连续输出十条清醒建议",
         "收束：把减肥落到找回底气"
       ],
-      "rank": 1,
+      "rank": 10,
       "source": {
         "engagementCapturedAt": "2026-08-11T20:21:51.000Z"
       },
@@ -125,7 +305,7 @@
         "主体：分享一条日常减肥小技巧",
         "收束：以转场强化变瘦期待"
       ],
-      "rank": 2,
+      "rank": 11,
       "source": {
         "engagementCapturedAt": "2026-08-11T20:01:11.000Z"
       },
@@ -168,7 +348,7 @@
         "主体：对比可选泡面与需要避开的品类",
         "收束：强调会吃才能瘦"
       ],
-      "rank": 3,
+      "rank": 12,
       "source": {
         "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
       },
@@ -205,7 +385,7 @@
         "主体：围绕体重管理展开内容",
         "收束：未从可见标题获知"
       ],
-      "rank": 4
+      "rank": 13
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672719599649470378",
@@ -226,7 +406,7 @@
         "主体：记录减脂餐和日常吃饭",
         "收束：用健身打卡邀请坚持"
       ],
-      "rank": 5
+      "rank": 14
     },
     {
       "videoUrl": null,
@@ -247,7 +427,7 @@
         "主体：演示王牌燃脂动作",
         "收束：邀请跟练"
       ],
-      "rank": 6
+      "rank": 15
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672714835730477300",
@@ -268,7 +448,7 @@
         "主体：分享减肥与减脂经验",
         "收束：强调自律和会吃"
       ],
-      "rank": 7
+      "rank": 16
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672714019144609201",
@@ -288,7 +468,7 @@
         "主体：科普健康饮食与科学减脂",
         "收束：回到体重管理"
       ],
-      "rank": 8,
+      "rank": 17,
       "source": {
         "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
       },
@@ -374,7 +554,7 @@
         "主体：列举十种适合减脂饮食的食物",
         "收束：回到生活化体重管理"
       ],
-      "rank": 9
+      "rank": 18
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -394,7 +574,7 @@
         "主体：展示减脂餐食谱",
         "收束：给出饮食参考"
       ],
-      "rank": 10,
+      "rank": 19,
       "source": {
         "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
       },
@@ -451,7 +631,7 @@
         "主体：给出有利于减肥的早餐思路",
         "收束：强调吃对才能瘦"
       ],
-      "rank": 11
+      "rank": 20
     },
     {
       "videoUrl": null,
@@ -472,7 +652,7 @@
         "主体：列出十吃十不吃",
         "收束：强调好好吃饭与自律"
       ],
-      "rank": 12
+      "rank": 21
     },
     {
       "videoUrl": null,
@@ -493,7 +673,7 @@
         "主体：分享三餐减脂餐",
         "收束：记录持续执行"
       ],
-      "rank": 13
+      "rank": 22
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672695592463847546",
@@ -513,7 +693,7 @@
         "主体：讲戒奶茶与健身坚持",
         "收束：展示身材管理变化"
       ],
-      "rank": 14,
+      "rank": 23,
       "source": {
         "engagementCapturedAt": "2026-08-11T19:08:11.905Z"
       },
@@ -578,7 +758,7 @@
         "主体：说明生活化减脂吃法",
         "收束：回到体重管理"
       ],
-      "rank": 15
+      "rank": 24
     },
     {
       "videoUrl": null,
@@ -599,7 +779,7 @@
         "主体：说明平台期仍要规律进食",
         "收束：强调健康减重节奏"
       ],
-      "rank": 16
+      "rank": 25
     },
     {
       "videoUrl": null,
@@ -620,7 +800,7 @@
         "主体：逐条给出7句建议",
         "收束：回到会吃才会瘦"
       ],
-      "rank": 17
+      "rank": 26
     },
     {
       "videoUrl": null,
@@ -641,7 +821,7 @@
         "主体：解释不节食的理由和方法",
         "收束：提示长期体重管理"
       ],
-      "rank": 18
+      "rank": 27
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672635881404437833",
@@ -662,7 +842,7 @@
         "主体：讨论体重变化与身体影响",
         "收束：回到健康减脂方式"
       ],
-      "rank": 19,
+      "rank": 28,
       "likeCount": 9,
       "commentCount": 25,
       "favoriteCount": 0,
@@ -712,7 +892,7 @@
         "主体：交代百斤目标与健康背景",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 20,
+      "rank": 29,
       "likeCount": 67,
       "commentCount": 1,
       "favoriteCount": 6,
@@ -825,7 +1005,7 @@
         "主体：补充饮食与行动过程",
         "收束：回到健康体重管理"
       ],
-      "rank": 21,
+      "rank": 30,
       "likeCount": 87,
       "commentCount": 12,
       "favoriteCount": 0,
@@ -917,7 +1097,7 @@
         "主体：分享经历或方法",
         "收束：鼓励持续执行"
       ],
-      "rank": 22,
+      "rank": 31,
       "likeCount": 66,
       "commentCount": 10,
       "favoriteCount": 1,
@@ -995,7 +1175,7 @@
         "主体：补充饮食与行动过程",
         "收束：回到健康体重管理"
       ],
-      "rank": 23,
+      "rank": 32,
       "likeCount": 9,
       "commentCount": 0,
       "favoriteCount": 0,
@@ -1074,7 +1254,7 @@
         "主体：说明香蕉鸡蛋搭配",
         "收束：关联产后体重管理"
       ],
-      "rank": 24
+      "rank": 33
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672582169093232320",
@@ -1095,7 +1275,7 @@
         "主体：说明免费减脂营",
         "收束：引导健康减脂行动"
       ],
-      "rank": 25,
+      "rank": 34,
       "likeCount": 23,
       "commentCount": 4,
       "favoriteCount": 0,
@@ -1138,7 +1318,7 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 26,
+      "rank": 35,
       "likeCount": 3,
       "commentCount": 2,
       "favoriteCount": 3,
@@ -1217,7 +1397,7 @@
         "主体：把重点转向体重下降",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 27,
+      "rank": 36,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T01:12:57.736Z",
@@ -1373,7 +1553,7 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 28
+      "rank": 37
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672534693225556709",
@@ -1394,7 +1574,7 @@
         "主体：解释瘦子思维与控食欲",
         "收束：落到健康减脂习惯"
       ],
-      "rank": 29,
+      "rank": 38,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T01:12:57.736Z",
@@ -1515,7 +1695,7 @@
         "主体：说明体重管理、健身与减肥主题",
         "收束：引导同目标人群参与陪跑"
       ],
-      "rank": 30,
+      "rank": 39,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T05:03:13.000Z",
