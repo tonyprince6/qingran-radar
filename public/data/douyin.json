@@ -55,12 +55,12 @@
         "收束：回到健康体重管理"
       ],
       "rank": 1,
-      "likeCount": 48,
+      "likeCount": 50,
       "commentCount": 10,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T08:05:02.000Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       },
       "engagementHistory": [
         {
@@ -80,6 +80,20 @@
         {
           "capturedAt": "2026-08-11T07:42:27.000Z",
           "likeCount": 48,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T08:05:02.000Z",
+          "likeCount": 48,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T08:22:56.277Z",
+          "likeCount": 50,
           "commentCount": 10,
           "favoriteCount": 0,
           "shareCount": 0
@@ -105,17 +119,24 @@
         "收束：鼓励持续执行"
       ],
       "rank": 2,
-      "likeCount": 21,
+      "likeCount": 28,
       "commentCount": 7,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T06:42:27.000Z",
           "likeCount": 19,
+          "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 21,
           "commentCount": 7,
           "favoriteCount": 0,
           "shareCount": 0
@@ -141,16 +162,23 @@
         "收束：回到健康体重管理"
       ],
       "rank": 3,
-      "likeCount": 5,
+      "likeCount": 6,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
           "likeCount": 5,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -179,11 +207,20 @@
       "rank": 4,
       "likeCount": 2,
       "commentCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
-      }
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -240,14 +277,21 @@
           "commentCount": 56,
           "favoriteCount": 83,
           "shareCount": 85
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 271,
+          "commentCount": 98,
+          "favoriteCount": 131,
+          "shareCount": 135
         }
       ],
-      "likeCount": 271,
-      "commentCount": 98,
-      "favoriteCount": 131,
-      "shareCount": 135,
+      "likeCount": 289,
+      "commentCount": 102,
+      "favoriteCount": 137,
+      "shareCount": 139,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -269,13 +313,22 @@
         "收束：给出可执行建议"
       ],
       "rank": 7,
-      "likeCount": 59,
+      "likeCount": 63,
       "commentCount": 8,
-      "favoriteCount": 1,
-      "shareCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
-      }
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 59,
+          "commentCount": 8,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -316,7 +369,15 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 9
+      "rank": 9,
+      "engagementHistory": [],
+      "likeCount": 5,
+      "commentCount": 4,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672395836668670330",
@@ -615,14 +676,21 @@
           "commentCount": 10,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:42:27.000Z",
+          "likeCount": 51,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 51,
-      "commentCount": 10,
+      "commentCount": 11,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:42:27.000Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -652,6 +720,13 @@
           "commentCount": 10,
           "favoriteCount": 2,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 80,
+          "commentCount": 10,
+          "favoriteCount": 2,
+          "shareCount": 4
         }
       ],
       "likeCount": 80,
@@ -659,7 +734,7 @@
       "favoriteCount": 2,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -724,14 +799,21 @@
           "commentCount": 1,
           "favoriteCount": 12,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 21,
+          "commentCount": 1,
+          "favoriteCount": 24,
+          "shareCount": 3
         }
       ],
-      "likeCount": 21,
+      "likeCount": 28,
       "commentCount": 1,
-      "favoriteCount": 24,
+      "favoriteCount": 25,
       "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -776,7 +858,7 @@
       ],
       "rank": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       },
       "likeCount": 1,
       "commentCount": 0,
@@ -806,6 +888,13 @@
         },
         {
           "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
           "likeCount": 1,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -840,14 +929,21 @@
           "commentCount": 0,
           "favoriteCount": 6,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 10,
+          "commentCount": 10,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
-      "likeCount": 10,
-      "commentCount": 10,
-      "favoriteCount": 1,
-      "shareCount": 0,
+      "likeCount": 13,
+      "commentCount": 2,
+      "favoriteCount": 12,
+      "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -877,6 +973,13 @@
           "commentCount": 1,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 2,
+          "commentCount": 2,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
       ],
       "likeCount": 2,
@@ -884,7 +987,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       }
     },
     {
@@ -908,11 +1011,11 @@
       ],
       "rank": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
       },
       "likeCount": 5,
-      "commentCount": 2,
-      "favoriteCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 2,
       "shareCount": 0,
       "engagementHistory": [
         {
@@ -934,6 +1037,13 @@
           "likeCount": 4,
           "commentCount": 0,
           "favoriteCount": 1,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
           "shareCount": 0
         }
       ]
@@ -965,6 +1075,13 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:25:42.472Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
       "likeCount": 0,
@@ -972,9 +1089,8 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:25:42.472Z"
-      },
-      "lastMetricError": "main_video_heading_not_visible"
+        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
+      }
     },
     {
       "videoUrl": null,
