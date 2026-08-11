@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-11T12:33:44.000Z",
+    "capturedAt": "2026-08-11T16:33:35.243Z",
     "engagementCapturedAt": "2026-08-11T15:21:09.000Z",
     "window": "最近4小时",
     "index": {
@@ -40,6 +40,106 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "趁早瘦！这十句话送给迟迟行动的你 不想一直内耗、反复减肥的姐妹静下心看完。 道理很扎心，但是足够清醒。 减肥不只是为外表，拿回属于自己的底气",
+      "publishedAt": "2026年8月11日 19:44",
+      "author": "丹丹在减肥",
+      "hook": "趁早瘦：十句话送给迟迟行动的你",
+      "hookType": "清醒劝导",
+      "retention": "以“十句话”和扎心但清醒的承诺，吸引反复减肥者看完并获得行动动力。",
+      "scriptSegments": [
+        "开场：点出迟迟不行动与反复减肥的困境",
+        "主体：连续输出十条清醒建议",
+        "收束：把减肥落到找回底气"
+      ],
+      "rank": 1
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "今日减肥小技巧-预制瘦，都说未来显化，我能瘦 15 斤 #聊聊减肥经验小技巧 #创作者中心 #创作灵感 #减脂 #转场视频",
+      "publishedAt": "2026年8月11日 19:17",
+      "author": "大媛吖（居家塑形）",
+      "hook": "预制瘦：我能瘦15斤",
+      "hookType": "目标显化",
+      "retention": "用“瘦15斤”的具体愿望和轻松的显化表达，吸引观众继续看减肥小技巧。",
+      "scriptSegments": [
+        "开场：提出预制瘦与减重15斤目标",
+        "主体：分享一条日常减肥小技巧",
+        "收束：以转场强化变瘦期待"
+      ],
+      "rank": 2
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "减肥人眼中不长胖的泡面有哪些？#减脂期 又有哪些泡面不要碰呢？#会吃才会瘦#吃瘦不饿瘦 #体重管理#自律",
+      "publishedAt": "2026年8月11日 19:10",
+      "author": "璐哥说健身",
+      "hook": "减脂期哪些泡面能吃、哪些别碰？",
+      "hookType": "饮食避坑",
+      "retention": "以减肥期高频食品的可吃与避雷对比，驱动观众停留获取明确选择。",
+      "scriptSegments": [
+        "开场：提问减肥人能吃哪些泡面",
+        "主体：对比可选泡面与需要避开的品类",
+        "收束：强调会吃才能瘦"
+      ],
+      "rank": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "#减肥 #体重管理",
+      "publishedAt": "2026年8月11日 19:03",
+      "author": "大杨杨（女性减脂）",
+      "hook": "减肥与体重管理",
+      "hookType": "标签直给",
+      "retention": "标题信息有限，直接以减肥和体重管理标签触达目标人群。",
+      "scriptSegments": [
+        "开场：点明减肥主题",
+        "主体：围绕体重管理展开内容",
+        "收束：未从可见标题获知"
+      ],
+      "rank": 4
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "170斤减到120斤要多久，已完成41斤#减脂餐 #日常吃饭记录 #体重管理打卡 #逼迫自己运动的一天 #你今天坚持健身了吗",
+      "publishedAt": "2026年8月11日 18:30",
+      "author": "楠楠在减肥",
+      "hook": "170斤减到120斤，已完成41斤",
+      "hookType": "减重进度",
+      "retention": "用起点、目标和已完成41斤的阶段成果制造追更感，并带出饮食与运动记录。",
+      "scriptSegments": [
+        "开场：公布170斤到120斤目标与41斤进度",
+        "主体：记录减脂餐和日常吃饭",
+        "收束：用健身打卡邀请坚持"
+      ],
+      "rank": 5
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
       "linkAttempts": 3,
       "linkMatchStatus": "paused",
       "lastLinkAttemptAt": "2026-08-11T22:54:00+08:00",
@@ -55,7 +155,27 @@
         "主体：演示王牌燃脂动作",
         "收束：邀请跟练"
       ],
-      "rank": 1
+      "rank": 6
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "剪44斤的经验分享给你#减肥#减脂#自律#体重管理 #会吃才会瘦",
+      "publishedAt": "2026年8月11日 18:12",
+      "author": "林子陪你自律",
+      "hook": "减掉44斤的经验分享",
+      "hookType": "成果经验",
+      "retention": "以44斤的明确结果建立可信度，承诺分享可复用的减脂经验。",
+      "scriptSegments": [
+        "开场：亮出减重44斤成果",
+        "主体：分享减肥与减脂经验",
+        "收束：强调自律和会吃"
+      ],
+      "rank": 7
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672714019144609201",
@@ -75,9 +195,9 @@
         "主体：科普健康饮食与科学减脂",
         "收束：回到体重管理"
       ],
-      "rank": 2,
-    "source": {
-      "engagementCapturedAt": "2026-08-11T16:04:30.489Z"
+      "rank": 8,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T16:04:30.489Z"
       },
       "engagementHistory": [
         {
@@ -87,32 +207,52 @@
           "favoriteCount": 3,
           "shareCount": 4
         },
-      {
-        "capturedAt": "2026-08-11T14:00:18.000Z",
-        "likeCount": 10,
-        "commentCount": 3,
-        "favoriteCount": 3,
-        "shareCount": 4
-      },
-      {
-        "capturedAt": "2026-08-11T15:00:38.853Z",
-        "likeCount": 10,
-        "commentCount": 4,
-        "favoriteCount": 3,
-        "shareCount": 4
-      },
-      {
-        "capturedAt": "2026-08-11T15:21:09.000Z",
-        "likeCount": 11,
-        "commentCount": 4,
-        "favoriteCount": 3,
-        "shareCount": 5
-      }
-    ],
-    "likeCount": 12,
+        {
+          "capturedAt": "2026-08-11T14:00:18.000Z",
+          "likeCount": 10,
+          "commentCount": 3,
+          "favoriteCount": 3,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T15:00:38.853Z",
+          "likeCount": 10,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T15:21:09.000Z",
+          "likeCount": 11,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 5
+        }
+      ],
+      "likeCount": 12,
       "commentCount": 4,
       "favoriteCount": 3,
-    "shareCount": 6
+      "shareCount": 6
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "狂吃不胖的10种食物#体重管理 #减脂饮食 #生活化减脂 #自律 #变瘦变美变好看",
+      "publishedAt": "2026年8月11日 18:07",
+      "author": "雨宇在自律（进主页群聊）",
+      "hook": "狂吃不胖的10种食物",
+      "hookType": "食物清单",
+      "retention": "“10种食物”的数字化清单和不长胖承诺，让减脂观众愿意停留逐项查看。",
+      "scriptSegments": [
+        "开场：抛出狂吃不胖的食物结论",
+        "主体：列举十种适合减脂饮食的食物",
+        "收束：回到生活化体重管理"
+      ],
+      "rank": 9
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -132,7 +272,7 @@
         "主体：展示减脂餐食谱",
         "收束：给出饮食参考"
       ],
-      "rank": 3,
+      "rank": 10,
       "source": {
         "engagementCapturedAt": "2026-08-11T14:23:55.000Z"
       },
@@ -140,6 +280,26 @@
       "commentCount": 20,
       "favoriteCount": 17,
       "shareCount": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "nextLinkRetryAt": null,
+      "title": "如何吃对早餐提高代xie ，这条视频必看。#吃对才能瘦#如何提高代谢#减肥#减脂#体重管理",
+      "publishedAt": "2026年8月11日 17:58",
+      "author": "愿愿|养瘦指南",
+      "hook": "早餐怎么吃才能提高代谢？",
+      "hookType": "饮食提问",
+      "retention": "用早餐与提高代谢的直接关联提出必看承诺，促使观众继续获取具体吃法。",
+      "scriptSegments": [
+        "开场：提问早餐怎么吃才提高代谢",
+        "主体：给出有利于减肥的早餐思路",
+        "收束：强调吃对才能瘦"
+      ],
+      "rank": 11
     },
     {
       "videoUrl": null,
@@ -160,7 +320,7 @@
         "主体：列出十吃十不吃",
         "收束：强调好好吃饭与自律"
       ],
-      "rank": 4
+      "rank": 12
     },
     {
       "videoUrl": null,
@@ -181,7 +341,7 @@
         "主体：分享三餐减脂餐",
         "收束：记录持续执行"
       ],
-      "rank": 5
+      "rank": 13
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672695592463847546",
@@ -201,30 +361,30 @@
         "主体：讲戒奶茶与健身坚持",
         "收束：展示身材管理变化"
       ],
-      "rank": 6,
+      "rank": 14,
       "source": {
         "engagementCapturedAt": "2026-08-11T16:07:18.386Z"
       },
       "engagementHistory": [
-      {
-        "capturedAt": "2026-08-11T13:42:20.000Z",
-        "likeCount": 4075,
-        "commentCount": 187,
-        "favoriteCount": 810,
-        "shareCount": 14000
-      },
-      {
-        "capturedAt": "2026-08-11T14:23:55.000Z",
-        "likeCount": 6389,
-        "commentCount": 305,
-        "favoriteCount": 1232,
-        "shareCount": 23000
-      }
-    ],
-    "likeCount": 8470,
-    "commentCount": 396,
-    "favoriteCount": 1571,
-    "shareCount": 29000
+        {
+          "capturedAt": "2026-08-11T13:42:20.000Z",
+          "likeCount": 4075,
+          "commentCount": 187,
+          "favoriteCount": 810,
+          "shareCount": 14000
+        },
+        {
+          "capturedAt": "2026-08-11T14:23:55.000Z",
+          "likeCount": 6389,
+          "commentCount": 305,
+          "favoriteCount": 1232,
+          "shareCount": 23000
+        }
+      ],
+      "likeCount": 8470,
+      "commentCount": 396,
+      "favoriteCount": 1571,
+      "shareCount": 29000
     },
     {
       "videoUrl": null,
@@ -245,7 +405,7 @@
         "主体：说明生活化减脂吃法",
         "收束：回到体重管理"
       ],
-      "rank": 7
+      "rank": 15
     },
     {
       "videoUrl": null,
@@ -266,7 +426,7 @@
         "主体：说明平台期仍要规律进食",
         "收束：强调健康减重节奏"
       ],
-      "rank": 1
+      "rank": 16
     },
     {
       "videoUrl": null,
@@ -287,7 +447,7 @@
         "主体：逐条给出7句建议",
         "收束：回到会吃才会瘦"
       ],
-      "rank": 2
+      "rank": 17
     },
     {
       "videoUrl": null,
@@ -308,7 +468,7 @@
         "主体：解释不节食的理由和方法",
         "收束：提示长期体重管理"
       ],
-      "rank": 3
+      "rank": 18
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672635881404437833",
@@ -329,7 +489,7 @@
         "主体：讨论体重变化与身体影响",
         "收束：回到健康减脂方式"
       ],
-      "rank": 4,
+      "rank": 19,
       "likeCount": 5,
       "commentCount": 14,
       "favoriteCount": 0,
@@ -372,7 +532,7 @@
         "主体：交代百斤目标与健康背景",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 5,
+      "rank": 20,
       "likeCount": 64,
       "commentCount": 1,
       "favoriteCount": 6,
@@ -442,10 +602,6 @@
           "shareCount": 7
         }
       ],
-      "likeCount": 64,
-      "commentCount": 1,
-      "favoriteCount": 6,
-      "shareCount": 7,
       "source": {
         "engagementCapturedAt": "2026-08-11T15:40:25.000Z"
       }
@@ -468,7 +624,7 @@
         "主体：补充饮食与行动过程",
         "收束：回到健康体重管理"
       ],
-      "rank": 10,
+      "rank": 21,
       "likeCount": 76,
       "commentCount": 11,
       "favoriteCount": 0,
@@ -553,7 +709,7 @@
         "主体：分享经历或方法",
         "收束：鼓励持续执行"
       ],
-      "rank": 11,
+      "rank": 22,
       "likeCount": 47,
       "commentCount": 7,
       "favoriteCount": 0,
@@ -624,7 +780,7 @@
         "主体：补充饮食与行动过程",
         "收束：回到健康体重管理"
       ],
-      "rank": 12,
+      "rank": 23,
       "likeCount": 8,
       "commentCount": 0,
       "favoriteCount": 0,
@@ -696,7 +852,7 @@
         "主体：说明香蕉鸡蛋搭配",
         "收束：关联产后体重管理"
       ],
-      "rank": 6
+      "rank": 24
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672582169093232320",
@@ -717,7 +873,7 @@
         "主体：说明免费减脂营",
         "收束：引导健康减脂行动"
       ],
-      "rank": 7,
+      "rank": 25,
       "likeCount": 19,
       "commentCount": 4,
       "favoriteCount": 0,
@@ -753,7 +909,7 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 13,
+      "rank": 26,
       "likeCount": 2,
       "commentCount": 2,
       "favoriteCount": 1,
@@ -818,7 +974,7 @@
         "主体：把重点转向体重下降",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 26,
+      "rank": 27,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T01:12:57.736Z",
@@ -967,7 +1123,7 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 14
+      "rank": 28
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672534693225556709",
@@ -988,7 +1144,7 @@
         "主体：解释瘦子思维与控食欲",
         "收束：落到健康减脂习惯"
       ],
-      "rank": 8,
+      "rank": 29,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T01:12:57.736Z",
@@ -1095,7 +1251,7 @@
         "主体：说明体重管理、健身与减肥主题",
         "收束：引导同目标人群参与陪跑"
       ],
-      "rank": 27,
+      "rank": 30,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T05:03:13.000Z",
@@ -1140,769 +1296,6 @@
       "source": {
         "engagementCapturedAt": "2026-08-11T12:42:50.000Z"
       }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672438280139316650",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T17:49:51+08:00",
-      "title": "减肥失败达人路漫漫#体重管理 #女生减脂必看 #女性体重管理 #女性减肥经验 #正确的饮食习惯",
-      "publishedAt": "2026年8月11日 00:19",
-      "author": "轻盈柔柔",
-      "hook": "减肥失败达人路漫漫",
-      "hookType": "经历共鸣",
-      "retention": "用失败经历引发同类受众共鸣，促使观众停留寻找可避免的误区。",
-      "scriptSegments": [
-        "开场：坦陈减肥失败",
-        "主体：复盘饮食习惯或误区",
-        "收束：给出持续调整方向"
-      ],
-      "rank": 9,
-      "likeCount": 18,
-      "commentCount": 0,
-      "favoriteCount": 3,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 18,
-          "commentCount": 0,
-          "favoriteCount": 3,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672437377671672418",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "为什么节食减肥越减越胖#体重管理 #健康减脂 #生活化瘦身 #体质调理",
-      "publishedAt": "2026年8月11日 00:15",
-      "author": "静姐",
-      "hook": "为什么节食越减越胖？",
-      "hookType": "反差提问",
-      "retention": "用反常识问题制造好奇，随后解释饮食与减脂的关键做法。",
-      "scriptSegments": [
-        "开场：提出反差问题",
-        "主体：解释减脂原理或方法",
-        "收束：给出可执行建议"
-      ],
-      "rank": 15,
-      "likeCount": 82,
-      "commentCount": 21,
-      "favoriteCount": 0,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T07:21:53.746Z",
-          "likeCount": 59,
-          "commentCount": 8,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:22:56.277Z",
-          "likeCount": 63,
-          "commentCount": 8,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 65,
-          "commentCount": 8,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-11T10:48:43.932Z",
-          "likeCount": 77,
-          "commentCount": 21,
-          "favoriteCount": 0,
-          "shareCount": 1
-        },
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 82,
-          "commentCount": 21,
-          "favoriteCount": 0,
-          "shareCount": 1
-        }
-      ]
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-12T06:43:41+08:00",
-      "lastLinkAttemptAt": "2026-08-11T06:43:41+08:00",
-      "title": "饿瘦47斤，只需8步❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
-      "publishedAt": "2026年8月10日 23:49",
-      "author": "大琳子管理咨询哦",
-      "hook": "饿瘦47斤，只需8步",
-      "hookType": "步骤承诺",
-      "retention": "“47斤”的强结果配合“8步”清单承诺，制造明确的减重路径期待。",
-      "scriptSegments": [
-        "开场：给出饿瘦47斤的结果",
-        "主体：按8步拆解减脂行动",
-        "收束：回扣健康减肥与体重管理"
-      ],
-      "rank": 16
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-12T11:49:11+08:00",
-      "lastLinkAttemptAt": "2026-08-11T11:49:11+08:00",
-      "title": "减脂和喝水一样简单 #减肥#减脂餐#体重管理日记 ，4天掉差不多一斤，有点意思了",
-      "publishedAt": "2026年8月10日 23:27",
-      "author": "14のfavo＆cycling",
-      "hook": "减脂像喝水一样简单，4天掉近一斤",
-      "hookType": "轻松结果",
-      "retention": "把减脂描述为低门槛习惯，并给出4天减近一斤的即时反馈，推动观众查看饮食做法。",
-      "scriptSegments": [
-        "开场：宣称减脂和喝水一样简单",
-        "主体：展示减脂餐与4天体重变化",
-        "收束：记录体重管理日常"
-      ],
-      "rank": 28
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672419607954116197",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T05:44:35+08:00",
-      "title": "体重管理≠戒掉人间烟火气，大餐也可以照样吃 28天减脂计划第5期✨，不用和美食绝缘，学会211餐盘搭配，三餐吃舒服，不用硬扛饥饿。下期分享7",
-      "publishedAt": "2026年8月10日 23:06",
-      "author": "身高194的健康营养师赵鹏永",
-      "hook": "体重管理不必戒掉大餐",
-      "hookType": "反常识方法",
-      "retention": "用“大餐也能吃”的反常识降低减脂焦虑，再以211餐盘承诺可执行的搭配方案。",
-      "scriptSegments": [
-        "开场：否定减脂必须戒掉美食的认知",
-        "主体：展示211餐盘与舒适三餐",
-        "收束：预告后续减脂计划内容"
-      ],
-      "rank": 31,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T10:48:43.932Z"
-      },
-      "likeCount": 1,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T08:39:11+08:00",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T03:39:15.000Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T06:42:27.000Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T07:21:53.746Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:22:56.277Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 1,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672416422984094565",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T05:44:35+08:00",
-      "title": "饿瘦47斤，只痛苦2个月❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
-      "publishedAt": "2026年8月10日 22:54",
-      "author": "大琳子来分享",
-      "hook": "饿瘦47斤，只痛苦2个月",
-      "hookType": "结果时限",
-      "retention": "将显著减重结果与两个月时限并置，激起观众对过程与代价的好奇。",
-      "scriptSegments": [
-        "开场：亮出47斤减重与两个月时限",
-        "主体：讲述减肥减脂过程",
-        "收束：回到健康减重与体重管理"
-      ],
-      "rank": 32,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 6,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T07:21:53.746Z",
-          "likeCount": 10,
-          "commentCount": 10,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:22:56.277Z",
-          "likeCount": 13,
-          "commentCount": 2,
-          "favoriteCount": 12,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 14,
-          "commentCount": 2,
-          "favoriteCount": 12,
-          "shareCount": 2
-        }
-      ],
-      "likeCount": 17,
-      "commentCount": 2,
-      "favoriteCount": 13,
-      "shareCount": 2,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:42:50.000Z"
-      }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672415313397725873",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T05:44:35+08:00",
-      "title": "饿瘦47斤，只痛苦2个月❗️ #减肥减脂 #健康减肥 #减重 #体重管理 #养生减脂",
-      "publishedAt": "2026年8月10日 22:49",
-      "author": "大琳管理咨询",
-      "hook": "饿瘦47斤，只痛苦2个月",
-      "hookType": "结果时限",
-      "retention": "以47斤成果和两个月痛苦期建立强烈的结果悬念，吸引观众了解减重经历。",
-      "scriptSegments": [
-        "开场：展示47斤减重结果",
-        "主体：回顾两个月减脂过程",
-        "收束：强调健康减肥与体重管理"
-      ],
-      "rank": 33,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 2,
-          "commentCount": 1,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T07:21:53.746Z",
-          "likeCount": 2,
-          "commentCount": 2,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 2,
-      "commentCount": 2,
-      "favoriteCount": 1,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T08:22:56.277Z"
-      }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672407178112260980",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T08:45:55+08:00",
-      "title": "⬇️45 进，一共就四步，很简单 #懒人减肥攻略 #减肥经验干货 #减脂日常记录 #减肥 #体重管理",
-      "publishedAt": "2026年8月10日 22:18",
-      "author": "营养师 诗诗",
-      "hook": "减45斤只要四步",
-      "hookType": "步骤承诺",
-      "retention": "用大幅减重结果加“四步”简化承诺，制造低难度的执行期待。",
-      "scriptSegments": [
-        "开场：亮出减45斤的结果",
-        "主体：按四步拆解懒人减肥攻略",
-        "收束：回到减脂日常和体重管理"
-      ],
-      "rank": 29,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 11,
-          "commentCount": 1,
-          "favoriteCount": 7,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T02:20:39.000Z",
-          "likeCount": 14,
-          "commentCount": 1,
-          "favoriteCount": 12,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-11T03:21:38.613Z",
-          "likeCount": 15,
-          "commentCount": 1,
-          "favoriteCount": 12,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-11T07:21:53.746Z",
-          "likeCount": 21,
-          "commentCount": 1,
-          "favoriteCount": 24,
-          "shareCount": 3
-        },
-        {
-          "capturedAt": "2026-08-11T08:22:56.277Z",
-          "likeCount": 28,
-          "commentCount": 1,
-          "favoriteCount": 25,
-          "shareCount": 3
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 30,
-          "commentCount": 2,
-          "favoriteCount": 25,
-          "shareCount": 3
-        },
-        {
-          "capturedAt": "2026-08-11T09:41:11.000Z",
-          "likeCount": 31,
-          "commentCount": 4,
-          "favoriteCount": 27,
-          "shareCount": 3
-        }
-      ],
-      "likeCount": 35,
-      "commentCount": 4,
-      "favoriteCount": 28,
-      "shareCount": 3,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T10:48:43.932Z"
-      }
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 3,
-      "linkMatchStatus": "paused",
-      "nextLinkRetryAt": "2026-08-12T11:49:11+08:00",
-      "lastLinkAttemptAt": "2026-08-11T11:49:11+08:00",
-      "title": "#减肥减脂吃这些 控糖饮食 药食同源食疗法 让你轻松减肥不挨饿 体重管理",
-      "publishedAt": "2026年8月10日 22:02",
-      "author": "程廣柱+食疗体重管理",
-      "hook": "控糖食疗，减肥不挨饿",
-      "hookType": "饮食方案",
-      "retention": "先缓解减肥挨饿的顾虑，再以控糖和食疗法承诺具体饮食解法。",
-      "scriptSegments": [
-        "开场：提出减肥不必挨饿",
-        "主体：介绍控糖饮食与食疗法",
-        "收束：落到长期体重管理"
-      ],
-      "rank": 30
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672397166586038641",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "#减肥 #减肥打卡日记 #减肥日常记录 #减脂餐 #体重管理日常",
-      "publishedAt": "2026年8月10日 21:39",
-      "author": "奔跑的小禾",
-      "hook": "减脂期该怎么吃？",
-      "hookType": "清单干货",
-      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
-      "scriptSegments": [
-        "开场：点出减脂饮食难题",
-        "主体：列出食材或搭配",
-        "收束：提示执行要点"
-      ],
-      "rank": 17,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T08:22:56.277Z",
-          "likeCount": 5,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 5,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T10:48:43.932Z",
-          "likeCount": 5,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 5,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 5,
-      "commentCount": 4,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672395836668670330",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-10T20:40:40.000Z",
-      "title": "168 104斤挑战瘦到100斤收官！！ ⬇️95再见吧！！！！#减脂餐 #减肥打卡日常 #减肥饮食分享 #减脂期饮食记录 #体重管理日记",
-      "publishedAt": "2026年8月10日 21:34",
-      "author": "慧慧爱吃冰淇凌味的燕麦糊",
-      "hook": "104斤挑战瘦到100斤收官",
-      "hookType": "挑战收官",
-      "retention": "明确的100斤目标与收官节点营造结果验证感，带动观众关注减脂期饮食细节。",
-      "scriptSegments": [
-        "开场：宣布104斤到100斤挑战收官",
-        "主体：分享减脂餐与饮食记录",
-        "收束：继续向95斤目标推进"
-      ],
-      "rank": 18,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      },
-      "likeCount": 26,
-      "commentCount": 12,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T06:28:08+08:00",
-          "likeCount": 5,
-          "commentCount": 2,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T01:12:57.736Z",
-          "likeCount": 8,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T01:25:42.472Z",
-          "likeCount": 10,
-          "commentCount": 4,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T03:39:15.000Z",
-          "likeCount": 16,
-          "commentCount": 6,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 24,
-          "commentCount": 11,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T10:48:43.932Z",
-          "likeCount": 25,
-          "commentCount": 12,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 26,
-          "commentCount": 12,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ]
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7672388831724140793",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "饿到什么程度，脂肪才开始燃烧 #生活化减脂 #体重管理 #快乐减肥",
-      "publishedAt": "2026年8月10日 21:07",
-      "author": "蓝月与你共养身心",
-      "hook": "为什么节食越减越胖？",
-      "hookType": "反差提问",
-      "retention": "用反常识问题制造好奇，随后解释饮食与减脂的关键做法。",
-      "scriptSegments": [
-        "开场：提出反差问题",
-        "主体：解释减脂原理或方法",
-        "收束：给出可执行建议"
-      ],
-      "rank": 19,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T10:48:43.932Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 5,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 5,
-      "commentCount": 0,
-      "favoriteCount": 1,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      }
-    },
-    {
-      "videoUrl": "https://www.douyin.com/video/7671688478011596666",
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "nextLinkRetryAt": null,
-      "title": "豆腐是减脂期的好食材。 #减肥 #科学健康减脂 #减脂饮食 #减肥误区 #体重管理",
-      "publishedAt": "2026年8月10日 20:30",
-      "author": "阿杰（减肥避坑）",
-      "hook": "减脂期该怎么吃？",
-      "hookType": "清单干货",
-      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
-      "scriptSegments": [
-        "开场：点出减脂饮食难题",
-        "主体：列出食材或搭配",
-        "收束：提示执行要点"
-      ],
-      "rank": 20,
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T08:51:02.337Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T10:48:43.932Z",
-          "likeCount": 6,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        },
-        {
-          "capturedAt": "2026-08-11T12:12:04.823Z",
-          "likeCount": 7,
-          "commentCount": 0,
-          "favoriteCount": 0,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 7,
-      "commentCount": 0,
-      "favoriteCount": 0,
-      "shareCount": 0,
-      "source": {
-        "engagementCapturedAt": "2026-08-11T12:27:14.513Z"
-      }
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T17:49:51+08:00",
-      "title": "大胆说，万一实现了呢#减肥 #减脂 #自律 #体重管理 #变瘦变美变好看 @DOU+小助手",
-      "publishedAt": "2026年8月10日 20:20",
-      "author": "京硕陪你瘦",
-      "hook": "减脂行动如何开始？",
-      "hookType": "经验分享",
-      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
-      "scriptSegments": [
-        "开场：描述减脂场景",
-        "主体：分享经历或方法",
-        "收束：鼓励持续执行"
-      ],
-      "rank": 21
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T17:49:51+08:00",
-      "title": "我靠饿掉了35，马甲线不靠练 #减脂 #生活化减脂 #健康饮食 #体重管理 #减肥",
-      "publishedAt": "2026年8月10日 20:17",
-      "author": "悦绮儿♡营养美学",
-      "hook": "结果先行的减重变化",
-      "hookType": "成果展示",
-      "retention": "先展示具体减重成果，促使观众停留了解过程和方法。",
-      "scriptSegments": [
-        "开场：亮出体重或成果",
-        "主体：补充饮食与行动过程",
-        "收束：回到健康体重管理"
-      ],
-      "rank": 22
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 1,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "lastLinkAttemptAt": "2026-08-11T17:49:51+08:00",
-      "title": "减脂期 不要碰了#减肥#减脂#体重管理#自侓#减肥逆袭",
-      "publishedAt": "2026年8月10日 20:01",
-      "author": "小梁在自律",
-      "hook": "减脂行动如何开始？",
-      "hookType": "经验分享",
-      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
-      "scriptSegments": [
-        "开场：描述减脂场景",
-        "主体：分享经历或方法",
-        "收束：鼓励持续执行"
-      ],
-      "rank": 23
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "title": "健康减脂｜能量缺口 #健康减脂#减肥科普#体重管理#千女纤寻#塑型瘦身",
-      "publishedAt": "2026年8月10日 19:56",
-      "author": "千女纤寻",
-      "hook": "减脂行动如何开始？",
-      "hookType": "经验分享",
-      "retention": "从日常减脂或体重管理场景切入，吸引观众寻找可复制的行动建议。",
-      "scriptSegments": [
-        "开场：描述减脂场景",
-        "主体：分享经历或方法",
-        "收束：鼓励持续执行"
-      ],
-      "rank": 24
-    },
-    {
-      "videoUrl": null,
-      "coverUrl": null,
-      "duration": null,
-      "linkAttempts": 0,
-      "linkMatchStatus": "pending",
-      "nextLinkRetryAt": null,
-      "title": "#体重管理 #减脂餐分享 #减肥 #热门 #记录真实生活",
-      "publishedAt": "2026年8月10日 19:39",
-      "author": "可然日记🐌",
-      "hook": "减脂期该怎么吃？",
-      "hookType": "清单干货",
-      "retention": "以具体食材或饮食清单承诺直接收益，适合快速获取实用信息。",
-      "scriptSegments": [
-        "开场：点出减脂饮食难题",
-        "主体：列出食材或搭配",
-        "收束：提示执行要点"
-      ],
-      "rank": 25
     }
   ]
 }
