@@ -55,18 +55,25 @@
         "收束：回到健康体重管理"
       ],
       "rank": 1,
-      "likeCount": 46,
-      "commentCount": 9,
+      "likeCount": 48,
+      "commentCount": 10,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T07:42:27.000Z"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T06:42:27.000Z",
           "likeCount": 40,
           "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 46,
+          "commentCount": 9,
           "favoriteCount": 0,
           "shareCount": 0
         }
@@ -594,14 +601,21 @@
           "commentCount": 10,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:21:53.746Z",
+          "likeCount": 50,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 50,
+      "likeCount": 51,
       "commentCount": 10,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+        "engagementCapturedAt": "2026-08-11T07:42:27.000Z"
       }
     },
     {
