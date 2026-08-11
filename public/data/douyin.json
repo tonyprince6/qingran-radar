@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T00:31:30.552Z",
-    "engagementCapturedAt": "2026-08-11T00:01:31Z",
+    "engagementCapturedAt": "2026-08-11T01:12:57.736Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,7 +55,15 @@
         "主体：把重点转向体重下降",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 1
+      "rank": 1,
+      "engagementHistory": [],
+      "likeCount": 16,
+      "commentCount": 6,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672534693225556709",
@@ -76,7 +84,15 @@
         "主体：解释瘦子思维与控食欲",
         "收束：回到健康减脂和跑步习惯"
       ],
-      "rank": 3
+      "rank": 3,
+      "engagementHistory": [],
+      "likeCount": 71,
+      "commentCount": 23,
+      "favoriteCount": 34,
+      "shareCount": 24,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": null,
@@ -160,7 +176,15 @@
         "主体：按四步拆解懒人减肥攻略",
         "收束：回到减脂日常和体重管理"
       ],
-      "rank": 7
+      "rank": 7,
+      "engagementHistory": [],
+      "likeCount": 11,
+      "commentCount": 1,
+      "favoriteCount": 7,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": null,
@@ -204,12 +228,21 @@
       ],
       "rank": 9,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
-      "likeCount": 5,
-      "commentCount": 2,
+      "likeCount": 8,
+      "commentCount": 4,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 5,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672419607954116197",
@@ -232,12 +265,21 @@
       ],
       "rank": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-11T08:39:11+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T08:39:11+08:00",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672416422984094565",
@@ -258,7 +300,15 @@
         "主体：讲述减肥减脂过程",
         "收束：回到健康减重与体重管理"
       ],
-      "rank": 3
+      "rank": 3,
+      "engagementHistory": [],
+      "likeCount": 6,
+      "commentCount": 0,
+      "favoriteCount": 6,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672415313397725873",
@@ -279,7 +329,15 @@
         "主体：回顾两个月减脂过程",
         "收束：强调健康减肥与体重管理"
       ],
-      "rank": 4
+      "rank": 4,
+      "engagementHistory": [],
+      "likeCount": 2,
+      "commentCount": 1,
+      "favoriteCount": 1,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672413699466853349",
@@ -302,12 +360,21 @@
       ],
       "rank": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
-      "likeCount": 2,
+      "likeCount": 4,
       "commentCount": 0,
       "favoriteCount": 1,
-      "shareCount": 0
+      "shareCount": 0,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 2,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672405966474832825",
@@ -328,7 +395,15 @@
         "主体：分享十天称一次与轻食便当实践",
         "收束：强调坚持健康生活方式"
       ],
-      "rank": 6
+      "rank": 6,
+      "engagementHistory": [],
+      "likeCount": 0,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+      }
     },
     {
       "videoUrl": null,
@@ -372,7 +447,7 @@
         "收束：回到可持续的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -395,11 +470,18 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 17,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 17,
+      "likeCount": 27,
       "commentCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 2,
       "shareCount": 0
     },
     {
@@ -422,12 +504,12 @@
         "主体：展示合理饮食与运动坚持",
         "收束：回扣健康减肥的长期执行"
       ],
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -446,6 +528,13 @@
         },
         {
           "capturedAt": "2026-08-10T21:01:19Z",
+          "likeCount": 0,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
           "likeCount": 0,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -474,7 +563,7 @@
         "收束：以拒绝内耗强化持续执行"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -490,10 +579,17 @@
           "commentCount": 4,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 9,
+          "commentCount": 4,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 9,
-      "commentCount": 4,
+      "likeCount": 12,
+      "commentCount": 6,
       "favoriteCount": 0,
       "shareCount": 0
     },
@@ -518,7 +614,7 @@
         "收束：回到适合自己的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -530,6 +626,13 @@
         },
         {
           "capturedAt": "2026-08-10T21:01:19Z",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
           "likeCount": 3,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -562,7 +665,7 @@
         "收束：以自律和变美目标收尾"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:28:08+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -578,10 +681,17 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T06:28:08+08:00",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 1
         }
       ],
-      "likeCount": 4,
-      "commentCount": 0,
+      "likeCount": 6,
+      "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1
     },
@@ -627,7 +737,7 @@
         "收束：回到孩子自律与长期体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
+        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
       },
       "engagementHistory": [
         {
@@ -650,12 +760,19 @@
           "commentCount": 0,
           "favoriteCount": 6,
           "shareCount": 9
+        },
+        {
+          "capturedAt": "2026-08-11T08:30:51+08:00",
+          "likeCount": 19,
+          "commentCount": 0,
+          "favoriteCount": 7,
+          "shareCount": 11
         }
       ],
-      "likeCount": 19,
+      "likeCount": 20,
       "commentCount": 0,
       "favoriteCount": 7,
-      "shareCount": 11
+      "shareCount": 12
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672365035783963633",
@@ -1121,10 +1238,10 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 24,
-      "likeCount": 794,
+      "likeCount": 890,
       "commentCount": 10,
-      "favoriteCount": 338,
-      "shareCount": 69,
+      "favoriteCount": 396,
+      "shareCount": 74,
       "source": {
         "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
       },
@@ -1241,11 +1358,7 @@
           "favoriteCount": 338,
           "shareCount": 69
         }
-      ],
-      "likeCount": 890,
-      "commentCount": 10,
-      "favoriteCount": 396,
-      "shareCount": 74
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672221253231017151",
@@ -1444,9 +1557,9 @@
         "收束：回扣可持续执行，并引导评论或收藏"
       ],
       "rank": 27,
-      "likeCount": 12,
+      "likeCount": 14,
       "commentCount": 3,
-      "favoriteCount": 2,
+      "favoriteCount": 3,
       "shareCount": 1,
       "source": {
         "engagementCapturedAt": "2026-08-11T08:30:51+08:00"
@@ -1529,11 +1642,7 @@
           "favoriteCount": 2,
           "shareCount": 1
         }
-      ],
-      "likeCount": 14,
-      "commentCount": 3,
-      "favoriteCount": 3,
-      "shareCount": 1
+      ]
     },
     {
       "videoUrl": null,
