@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T04:32:32.296Z",
-    "engagementCapturedAt": "2026-08-11T06:42:27.000Z",
+    "engagementCapturedAt": "2026-08-11T07:21:53.746Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -55,13 +55,22 @@
         "收束：回到健康体重管理"
       ],
       "rank": 1,
-      "likeCount": 40,
-      "commentCount": 7,
+      "likeCount": 46,
+      "commentCount": 9,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:42:27.000Z"
-      }
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 40,
+          "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672620764167758435",
@@ -82,13 +91,22 @@
         "收束：鼓励持续执行"
       ],
       "rank": 2,
-      "likeCount": 19,
+      "likeCount": 21,
       "commentCount": 7,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:42:27.000Z"
-      }
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 19,
+          "commentCount": 7,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672586634424609147",
@@ -114,8 +132,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:42:27.000Z"
-      }
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672566090010053903",
@@ -135,7 +162,14 @@
         "主体：列出食材或搭配",
         "收束：提示执行要点"
       ],
-      "rank": 4
+      "rank": 4,
+      "likeCount": 2,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      }
     },
     {
       "videoUrl": null,
@@ -185,14 +219,21 @@
           "commentCount": 23,
           "favoriteCount": 34,
           "shareCount": 24
+        },
+        {
+          "capturedAt": "2026-08-11T03:21:38.613Z",
+          "likeCount": 163,
+          "commentCount": 56,
+          "favoriteCount": 83,
+          "shareCount": 85
         }
       ],
-      "likeCount": 163,
-      "commentCount": 56,
-      "favoriteCount": 83,
-      "shareCount": 85,
+      "likeCount": 271,
+      "commentCount": 98,
+      "favoriteCount": 131,
+      "shareCount": 135,
       "source": {
-        "engagementCapturedAt": "2026-08-11T03:21:38.613Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       }
     },
     {
@@ -213,7 +254,14 @@
         "主体：解释减脂原理或方法",
         "收束：给出可执行建议"
       ],
-      "rank": 7
+      "rank": 7,
+      "likeCount": 59,
+      "commentCount": 8,
+      "favoriteCount": 1,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      }
     },
     {
       "videoUrl": null,
@@ -526,28 +574,35 @@
           "favoriteCount": 0,
           "shareCount": 0
         },
-    {
-      "capturedAt": "2026-08-11T04:40:16.000Z",
-      "likeCount": 38,
-      "commentCount": 9,
-      "favoriteCount": 0,
-      "shareCount": 0
-    },
-    {
-      "capturedAt": "2026-08-11T06:42:27.000Z",
-      "likeCount": 46,
-      "commentCount": 10,
-      "favoriteCount": 0,
-      "shareCount": 0
-    }
-  ],
-  "likeCount": 47,
+        {
+          "capturedAt": "2026-08-11T04:40:16.000Z",
+          "likeCount": 38,
+          "commentCount": 9,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:42:27.000Z",
+          "likeCount": 46,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T07:01:42.000Z",
+          "likeCount": 47,
+          "commentCount": 10,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 50,
       "commentCount": 10,
       "favoriteCount": 0,
       "shareCount": 0,
-  "source": {
-    "engagementCapturedAt": "2026-08-11T07:01:42.000Z"
-  }
+      "source": {
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672523834758909610",
@@ -569,13 +624,21 @@
         "收束：引导同目标人群参与陪跑"
       ],
       "rank": 4,
-      "engagementHistory": [],
-      "likeCount": 68,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T05:03:13.000Z",
+          "likeCount": 68,
+          "commentCount": 10,
+          "favoriteCount": 2,
+          "shareCount": 4
+        }
+      ],
+      "likeCount": 80,
       "commentCount": 10,
       "favoriteCount": 2,
       "shareCount": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-11T05:03:13.000Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       }
     },
     {
@@ -633,14 +696,21 @@
           "commentCount": 1,
           "favoriteCount": 12,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-11T03:21:38.613Z",
+          "likeCount": 15,
+          "commentCount": 1,
+          "favoriteCount": 12,
+          "shareCount": 2
         }
       ],
-      "likeCount": 15,
+      "likeCount": 21,
       "commentCount": 1,
-      "favoriteCount": 12,
-      "shareCount": 2,
+      "favoriteCount": 24,
+      "shareCount": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-11T03:21:38.613Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       }
     },
     {
@@ -685,7 +755,7 @@
       ],
       "rank": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-11T06:42:27.000Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       },
       "likeCount": 1,
       "commentCount": 0,
@@ -708,6 +778,13 @@
         },
         {
           "capturedAt": "2026-08-11T03:39:15.000Z",
+          "likeCount": 1,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T06:42:27.000Z",
           "likeCount": 1,
           "commentCount": 0,
           "favoriteCount": 0,
@@ -735,15 +812,22 @@
         "收束：回到健康减重与体重管理"
       ],
       "rank": 3,
-      "engagementHistory": [],
-      "likeCount": 6,
-      "commentCount": 0,
-      "favoriteCount": 6,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 6,
+          "commentCount": 0,
+          "favoriteCount": 6,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 10,
+      "commentCount": 10,
+      "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
-      },
-      "lastMetricError": "main_video_heading_not_visible"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672415313397725873",
@@ -765,15 +849,22 @@
         "收束：强调健康减肥与体重管理"
       ],
       "rank": 4,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 2,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ],
       "likeCount": 2,
-      "commentCount": 1,
+      "commentCount": 2,
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
-      },
-      "lastMetricError": "main_video_heading_not_visible"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672413699466853349",
@@ -796,11 +887,11 @@
       ],
       "rank": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:25:42.472Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       },
-      "likeCount": 4,
-      "commentCount": 0,
-      "favoriteCount": 1,
+      "likeCount": 5,
+      "commentCount": 2,
+      "favoriteCount": 0,
       "shareCount": 0,
       "engagementHistory": [
         {
@@ -816,9 +907,15 @@
           "commentCount": 0,
           "favoriteCount": 1,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:25:42.472Z",
+          "likeCount": 4,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "unparseable_metric"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672405966474832825",
@@ -900,7 +997,7 @@
         "收束：回到可持续的体重管理"
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
+        "engagementCapturedAt": "2026-08-11T07:21:53.746Z"
       },
       "engagementHistory": [
         {
@@ -930,13 +1027,19 @@
           "commentCount": 0,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 27,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
       ],
-      "likeCount": 27,
-      "commentCount": 0,
-      "favoriteCount": 2,
-      "shareCount": 0,
-      "lastMetricError": "main_video_heading_not_visible"
+      "likeCount": 50,
+      "commentCount": 2,
+      "favoriteCount": 9,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672401403822931942",
