@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T04:32:32.296Z",
-    "engagementCapturedAt": "2026-08-11T04:19:17.000Z",
+    "engagementCapturedAt": "2026-08-11T05:03:13.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -531,7 +531,15 @@
         "主体：说明体重管理、健身与减肥主题",
         "收束：引导同目标人群参与陪跑"
       ],
-      "rank": 4
+      "rank": 4,
+      "engagementHistory": [],
+      "likeCount": 68,
+      "commentCount": 10,
+      "favoriteCount": 2,
+      "shareCount": 4,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T05:03:13.000Z"
+      }
     },
     {
       "videoUrl": null,
