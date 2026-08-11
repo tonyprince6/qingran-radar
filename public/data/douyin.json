@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T00:31:30.552Z",
-    "engagementCapturedAt": "2026-08-11T01:25:42.472Z",
+    "engagementCapturedAt": "2026-08-11T02:20:39.000Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -63,14 +63,21 @@
           "commentCount": 6,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T01:25:42.472Z",
+          "likeCount": 20,
+          "commentCount": 8,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
       ],
-      "likeCount": 20,
+      "likeCount": 25,
       "commentCount": 8,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:25:42.472Z"
+        "engagementCapturedAt": "2026-08-11T02:20:39.000Z"
       }
     },
     {
@@ -186,15 +193,22 @@
         "收束：回到减脂日常和体重管理"
       ],
       "rank": 7,
-      "engagementHistory": [],
-      "likeCount": 11,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T01:12:57.736Z",
+          "likeCount": 11,
+          "commentCount": 1,
+          "favoriteCount": 7,
+          "shareCount": 0
+        }
+      ],
+      "likeCount": 14,
       "commentCount": 1,
-      "favoriteCount": 7,
-      "shareCount": 0,
+      "favoriteCount": 12,
+      "shareCount": 2,
       "source": {
-        "engagementCapturedAt": "2026-08-11T01:12:57.736Z"
-      },
-      "lastMetricError": "main video operation area unavailable"
+        "engagementCapturedAt": "2026-08-11T02:20:39.000Z"
+      }
     },
     {
       "videoUrl": null,
