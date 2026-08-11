@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T08:30:33.000Z",
-    "engagementCapturedAt": "2026-08-11T08:51:02.337Z",
+    "engagementCapturedAt": "2026-08-11T09:02:38.655Z",
     "window": "最近4小时",
     "index": {
       "keyword": "减脂",
@@ -138,7 +138,14 @@
         "主体：交代百斤目标与健康背景",
         "收束：鼓励持续体重管理"
       ],
-      "rank": 5
+      "rank": 5,
+      "likeCount": 40,
+      "commentCount": 1,
+      "favoriteCount": 4,
+      "shareCount": 7,
+      "source": {
+        "engagementCapturedAt": "2026-08-11T09:02:38.655Z"
+      }
     },
     {
       "videoUrl": null,
@@ -204,6 +211,13 @@
       "rank": 8,
       "engagementHistory": [
         {
+          "capturedAt": "2026-08-11T08:51:02.337Z",
+          "likeCount": 292,
+          "commentCount": 103,
+          "favoriteCount": 139,
+          "shareCount": 139
+        },
+        {
           "capturedAt": "2026-08-11T01:12:57.736Z",
           "likeCount": 71,
           "commentCount": 23,
@@ -232,12 +246,12 @@
           "shareCount": 139
         }
       ],
-      "likeCount": 292,
-      "commentCount": 103,
-      "favoriteCount": 139,
-      "shareCount": 139,
+      "likeCount": 297,
+      "commentCount": 104,
+      "favoriteCount": 140,
+      "shareCount": 143,
       "source": {
-        "engagementCapturedAt": "2026-08-11T08:51:02.337Z"
+        "engagementCapturedAt": "2026-08-11T09:02:38.655Z"
       }
     },
     {
