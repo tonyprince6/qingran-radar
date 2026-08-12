@@ -100,11 +100,11 @@
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
     },
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672767452149203322",
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 2,
-      "linkMatchStatus": "pending",
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "title": "分享一个我自己用的、普通人也能轻松坚持的体脂控制方法，亲测能把体脂维持在13～15%之间～ #减肥#减脂#体重管理#内脏脂肪 #生活方式",
       "publishedAt": "2026年8月11日 21:36",
@@ -1065,7 +1065,7 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-      "linkAttempts": 1,
+      "linkAttempts": 2,
       "linkMatchStatus": "pending",
       "nextLinkRetryAt": null,
       "title": "如何吃对早餐提高代xie ，这条视频必看。#吃对才能瘦#如何提高代谢#减肥#减脂#体重管理",
@@ -1080,7 +1080,7 @@
         "收束：强调吃对才能瘦"
       ],
       "rank": 20,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T12:06:00+08:00"
     },
     {
       "videoUrl": null,
