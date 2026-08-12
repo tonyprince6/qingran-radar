@@ -57,12 +57,21 @@
       "rank": 1,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T11:34:03.856+08:00"
+        "engagementCapturedAt": "2026-08-12T04:19:03.583Z"
       },
       "likeCount": 7,
       "commentCount": 0,
       "favoriteCount": 2,
-      "shareCount": 0
+      "shareCount": 0,
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T11:34:03.856+08:00",
+          "likeCount": 7,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672769725160249920",
