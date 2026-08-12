@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-12T04:36:05.158Z",
-    "engagementCapturedAt": "2026-08-12T15:00:00+08:00",
+    "engagementCapturedAt": "2026-08-12T16:20:15+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -40,10 +40,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
-    "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
+      "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
       "title": "码住！7种好吃管饱的减肥食物，轻松瘦✨ 分享7种减肥友好的食物，好吃又管饱，减脂期也能吃得满足～ #真实生活分享计划#体重管理 #减肥 #",
       "publishedAt": "2026年8月12日 00:06",
       "author": "郎凯西",
@@ -61,10 +61,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
-    "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
+      "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
       "title": "#减肥经验分享 #减肥每日打卡💪 #体重管理 #健康减脂日常",
       "publishedAt": "2026年8月11日 23:29",
       "author": "爱吃芭乐",
@@ -120,7 +120,7 @@
       "rank": 4,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
       },
       "likeCount": 51,
       "commentCount": 1,
@@ -143,6 +143,13 @@
         },
         {
           "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T15:00:00+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -196,17 +203,26 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
-      }
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T15:00:00+08:00",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
-    "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
+      "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
       "title": "每个人都可以拥有的私人健康管家 真的太好用了，建议大家都去试一下#豆包教你减肥 #减肥计划教程 #豆包ai #体重管理 #新手减脂饮食",
       "publishedAt": "2026年8月11日 19:40",
       "author": "独立思维",
@@ -245,10 +261,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
-    "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T16:06:42.187+08:00",
+      "lastLinkAttemptAt": "2026-08-12T16:06:42.187+08:00",
       "title": "大错特错！减脂不是减重！90%的人都在无效减脂！！ #真实生活分享计划 #减肥 #节食 #体重管理 #健康科普",
       "publishedAt": "2026年8月11日 19:00",
       "author": "big抹憧",
@@ -283,20 +299,13 @@
       "rank": 1,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T15:22:11+08:00"
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
       },
-      "likeCount": 8,
-      "commentCount": 0,
+      "likeCount": 9,
+      "commentCount": 1,
       "favoriteCount": 2,
       "shareCount": 0,
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-12T14:38:23+08:00",
-          "likeCount": 8,
-          "commentCount": 0,
-          "favoriteCount": 2,
-          "shareCount": 0
-        },
         {
           "capturedAt": "2026-08-12T11:34:03.856+08:00",
           "likeCount": 7,
@@ -306,6 +315,20 @@
         },
         {
           "capturedAt": "2026-08-12T04:19:03.583Z",
+          "likeCount": 8,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 8,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T15:22:11+08:00",
           "likeCount": 8,
           "commentCount": 0,
           "favoriteCount": 2,
@@ -394,8 +417,17 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
-      }
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 1,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671691846867664805",
@@ -447,10 +479,10 @@
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "likeCount": 150,
       "commentCount": 7,
-      "favoriteCount": 198,
-      "shareCount": 120,
+      "favoriteCount": 201,
+      "shareCount": 122,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
       },
       "engagementHistory": [
         {
@@ -459,6 +491,13 @@
           "commentCount": 7,
           "favoriteCount": 196,
           "shareCount": 118
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 150,
+          "commentCount": 7,
+          "favoriteCount": 198,
+          "shareCount": 120
         }
       ]
     },
@@ -483,7 +522,7 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
       },
       "engagementHistory": [
         {
@@ -555,10 +594,17 @@
           "commentCount": 2,
           "favoriteCount": 15,
           "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 34,
+          "commentCount": 2,
+          "favoriteCount": 15,
+          "shareCount": 5
         }
       ],
       "likeCount": 34,
-      "commentCount": 2,
+      "commentCount": 3,
       "favoriteCount": 15,
       "shareCount": 5
     },
