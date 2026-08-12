@@ -57,13 +57,20 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T20:59:31+08:00"
+        "engagementCapturedAt": "2026-08-12T21:22:21+08:00"
       },
       "likeCount": 13,
       "commentCount": 3,
       "favoriteCount": 0,
       "shareCount": 0,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T20:59:31+08:00",
+          "likeCount": 13,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-12T20:09:25+08:00",
           "likeCount": 13,
@@ -98,10 +105,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T21:11:09.000+08:00",
-    "lastLinkAttemptAt": "2026-08-12T21:11:09.000+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T21:11:09.000+08:00",
+      "lastLinkAttemptAt": "2026-08-12T21:11:09.000+08:00",
       "title": "سىز نىمىشقا ھەرقانچە قىپمۇ ئۇرۇقلىيامايسىز؟ #女性正能量 #体重管理 #减肥 #减脂 #微胖女",
       "publishedAt": "2026年8月11日 22:13",
       "author": "苏比比",
@@ -198,10 +205,10 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
-    "linkAttempts": 3,
-    "linkMatchStatus": "paused",
-    "nextLinkRetryAt": "2026-08-13T21:11:09.000+08:00",
-    "lastLinkAttemptAt": "2026-08-12T21:11:09.000+08:00",
+      "linkAttempts": 3,
+      "linkMatchStatus": "paused",
+      "nextLinkRetryAt": "2026-08-13T21:11:09.000+08:00",
+      "lastLinkAttemptAt": "2026-08-12T21:11:09.000+08:00",
       "title": "代谢高低影响减肥速度，测试方法自己就可以解决，竟然睡一觉就可以了！#代谢#睡觉#测试#减肥#体重管理",
       "publishedAt": "2026年8月11日 21:18",
       "author": "纯饮食 吃好一日三餐",
