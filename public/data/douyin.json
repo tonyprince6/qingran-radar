@@ -93,7 +93,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": null
+      "lastMetricError": "详情页加载超时，未能可靠读取主视频操作区互动数据。"
     },
     {
       "videoUrl": null,
