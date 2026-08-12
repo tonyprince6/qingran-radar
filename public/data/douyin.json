@@ -56,11 +56,19 @@
         "收束：强调好好吃饭和身材管理"
       ],
       "rank": 1,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T04:18:30+08:00",
+          "likeCount": 3,
+          "commentCount": 0,
+          "favoriteCount": 1,
+          "shareCount": 0
+        }
+      ],
       "source": {
-        "engagementCapturedAt": "2026-08-13T04:18:30+08:00"
+        "engagementCapturedAt": "2026-08-13T04:36:45+08:00"
       },
-      "likeCount": 3,
+      "likeCount": 6,
       "commentCount": 0,
       "favoriteCount": 1,
       "shareCount": 0
