@@ -55,7 +55,14 @@
         "主体：呈现已瘦14.6斤的减肥打卡记录",
         "收束：关联减脂餐和体重管理日常"
       ],
-      "rank": 1
+      "rank": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T20:09:25+08:00"
+      },
+      "likeCount": 13,
+      "commentCount": 3,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": null,
@@ -440,13 +447,22 @@
       ],
       "rank": 15,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
-      "likeCount": 10,
+      "likeCount": 11,
       "commentCount": 0,
       "favoriteCount": 0,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
-      }
+        "engagementCapturedAt": "2026-08-12T20:09:25+08:00"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 10,
+          "commentCount": 0,
+          "favoriteCount": 0,
+          "shareCount": 1
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672767813019690610",
@@ -468,13 +484,22 @@
       ],
       "rank": 16,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
-      "likeCount": 5,
-      "commentCount": 0,
-      "favoriteCount": 2,
+      "likeCount": 7,
+      "commentCount": 2,
+      "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
-      }
+        "engagementCapturedAt": "2026-08-12T20:09:25+08:00"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 5,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672752612047147889",
@@ -501,7 +526,7 @@
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+        "engagementCapturedAt": "2026-08-12T20:09:25+08:00"
       },
       "engagementHistory": [
         {
@@ -683,6 +708,13 @@
           "capturedAt": "2026-08-12T14:38:23+08:00",
           "likeCount": 34,
           "commentCount": 2,
+          "favoriteCount": 15,
+          "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-12T16:20:15+08:00",
+          "likeCount": 34,
+          "commentCount": 3,
           "favoriteCount": 15,
           "shareCount": 5
         }
