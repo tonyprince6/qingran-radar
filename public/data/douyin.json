@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-12T16:35:35+08:00",
-    "engagementCapturedAt": "2026-08-12T16:20:15+08:00",
+    "engagementCapturedAt": "2026-08-12T13:42:34.027Z",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -57,13 +57,20 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T21:22:21+08:00"
+        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
       },
       "likeCount": 13,
       "commentCount": 3,
       "favoriteCount": 0,
       "shareCount": 0,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T21:22:21+08:00",
+          "likeCount": 13,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-12T20:59:31+08:00",
           "likeCount": 13,
@@ -141,7 +148,15 @@
         "主体：讲解科学增肌减脂",
         "收束：回到体重管理日常"
       ],
-      "rank": 4
+      "rank": 4,
+      "engagementHistory": [],
+      "source": {
+        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+      },
+      "likeCount": 3,
+      "commentCount": 2,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672767452149203322",
@@ -164,22 +179,22 @@
       "rank": 5,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
       },
-      "likeCount": 51,
+      "likeCount": 53,
       "commentCount": 1,
-      "favoriteCount": 20,
+      "favoriteCount": 21,
       "shareCount": 12,
       "engagementHistory": [
         {
-          "capturedAt": "2026-08-12T13:04:26+08:00",
+          "capturedAt": "2026-08-12T16:20:15+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
           "shareCount": 12
         },
         {
-          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "capturedAt": "2026-08-12T15:00:00+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -193,7 +208,14 @@
           "shareCount": 12
         },
         {
-          "capturedAt": "2026-08-12T15:00:00+08:00",
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T13:04:26+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -320,7 +342,15 @@
         "主体：对比死磕体重和团队健康饮食",
         "收束：引导选择可持续生活习惯"
       ],
-      "rank": 10
+      "rank": 10,
+      "engagementHistory": [],
+      "source": {
+        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+      },
+      "likeCount": 6,
+      "commentCount": 1,
+      "favoriteCount": 0,
+      "shareCount": 0
     },
     {
       "videoUrl": null,
