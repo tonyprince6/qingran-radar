@@ -120,7 +120,7 @@
       "rank": 4,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "likeCount": 51,
       "commentCount": 1,
@@ -129,6 +129,13 @@
       "engagementHistory": [
         {
           "capturedAt": "2026-08-12T13:04:26+08:00",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -176,7 +183,14 @@
         "收束：导向健康体重管理"
       ],
       "rank": 6,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "likeCount": 3,
+      "commentCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      }
     },
     {
       "videoUrl": null,
@@ -262,9 +276,9 @@
       "rank": 1,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T04:19:03.583Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
-      "likeCount": 7,
+      "likeCount": 8,
       "commentCount": 0,
       "favoriteCount": 2,
       "shareCount": 0,
@@ -272,6 +286,13 @@
         {
           "capturedAt": "2026-08-12T11:34:03.856+08:00",
           "likeCount": 7,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T04:19:03.583Z",
+          "likeCount": 8,
           "commentCount": 0,
           "favoriteCount": 2,
           "shareCount": 0
@@ -297,7 +318,14 @@
         "收束：分享减脂好物与体重管理反馈"
       ],
       "rank": 2,
-      "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00"
+      "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
+      "likeCount": 10,
+      "commentCount": 0,
+      "favoriteCount": 0,
+      "shareCount": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672767813019690610",
@@ -318,7 +346,14 @@
         "收束：按基数选择减肥方法"
       ],
       "rank": 3,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "likeCount": 5,
+      "commentCount": 0,
+      "favoriteCount": 2,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672752612047147889",
@@ -339,7 +374,14 @@
         "收束：引导进入下一期体重管理营"
       ],
       "rank": 5,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "likeCount": 1,
+      "commentCount": 2,
+      "favoriteCount": 0,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7671691846867664805",
@@ -360,7 +402,14 @@
         "收束：落到减脂饮食与体重管理"
       ],
       "rank": 8,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "likeCount": 7,
+      "commentCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 0,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672743529218776817",
@@ -382,13 +431,22 @@
       ],
       "rank": 9,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
-      "likeCount": 148,
+      "likeCount": 150,
       "commentCount": 7,
-      "favoriteCount": 196,
-      "shareCount": 118,
+      "favoriteCount": 198,
+      "shareCount": 120,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
-      }
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 148,
+          "commentCount": 7,
+          "favoriteCount": 196,
+          "shareCount": 118
+        }
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672800527969378246",
@@ -411,7 +469,7 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "engagementHistory": [
         {
@@ -475,6 +533,13 @@
           "likeCount": 26,
           "commentCount": 2,
           "favoriteCount": 9,
+          "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 34,
+          "commentCount": 2,
+          "favoriteCount": 15,
           "shareCount": 5
         }
       ],
@@ -650,7 +715,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "engagementHistory": [
         {
@@ -736,9 +801,16 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 36,
+          "commentCount": 1,
+          "favoriteCount": 5,
+          "shareCount": 4
         }
       ],
-      "likeCount": 36,
+      "likeCount": 38,
       "commentCount": 1,
       "favoriteCount": 5,
       "shareCount": 4
@@ -763,8 +835,7 @@
       ],
       "rank": 11,
       "source": {
-        "engagementCapturedAt": "2026-08-11T20:51:16.000Z",
-        "lastMetricError": "收藏和分享未显示可读数值"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "likeCount": 6,
       "commentCount": 1,
@@ -787,6 +858,13 @@
         },
         {
           "capturedAt": "2026-08-11T20:01:11.000Z",
+          "likeCount": 6,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
           "likeCount": 6,
           "commentCount": 1,
           "favoriteCount": 0,
@@ -815,11 +893,11 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
-      "likeCount": 51,
+      "likeCount": 52,
       "commentCount": 3,
-      "favoriteCount": 38,
+      "favoriteCount": 40,
       "shareCount": 20,
       "engagementHistory": [
         {
@@ -870,6 +948,13 @@
           "commentCount": 3,
           "favoriteCount": 32,
           "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 51,
+          "commentCount": 3,
+          "favoriteCount": 38,
+          "shareCount": 20
         }
       ]
     },
@@ -894,9 +979,13 @@
       ],
       "rank": 14,
       "source": {
-        "lastMetricError": "分享未显示可读数值"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
-      "lastMetricError": "主视频操作区未显示完整四项数值"
+      "lastMetricError": "主视频操作区未显示完整四项数值",
+      "likeCount": 9,
+      "commentCount": 7,
+      "favoriteCount": 4,
+      "shareCount": 0
     },
     {
       "videoUrl": null,
@@ -940,7 +1029,7 @@
       ],
       "rank": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "likeCount": 36,
       "commentCount": 3,
@@ -974,6 +1063,13 @@
           "commentCount": 3,
           "favoriteCount": 12,
           "shareCount": 11
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 36,
+          "commentCount": 3,
+          "favoriteCount": 12,
+          "shareCount": 11
         }
       ]
     },
@@ -997,7 +1093,7 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
       },
       "engagementHistory": [
         {
@@ -1097,11 +1193,18 @@
           "commentCount": 7,
           "favoriteCount": 10,
           "shareCount": 35
+        },
+        {
+          "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 58,
+          "commentCount": 11,
+          "favoriteCount": 12,
+          "shareCount": 62
         }
       ],
-      "likeCount": 58,
+      "likeCount": 59,
       "commentCount": 11,
-      "favoriteCount": 12,
+      "favoriteCount": 13,
       "shareCount": 62
     },
     {
