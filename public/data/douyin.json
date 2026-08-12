@@ -56,19 +56,26 @@
         "收束：回到生活化减脂与体重管理"
       ],
       "rank": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-13T06:57:00+08:00"
+    "source": {
+      "engagementCapturedAt": "2026-08-13T07:18:20+08:00"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 14,
-          "commentCount": 0,
-          "favoriteCount": 8,
-          "shareCount": 2
-        }
-      ],
-      "likeCount": 14,
+      {
+        "capturedAt": "2026-08-13T06:35:34+08:00",
+        "likeCount": 14,
+        "commentCount": 0,
+        "favoriteCount": 8,
+        "shareCount": 2
+      },
+      {
+        "capturedAt": "2026-08-13T06:57:00+08:00",
+        "likeCount": 14,
+        "commentCount": 0,
+        "favoriteCount": 8,
+        "shareCount": 2
+      }
+    ],
+    "likeCount": 15,
       "commentCount": 0,
       "favoriteCount": 8,
       "shareCount": 2
@@ -115,18 +122,25 @@
       ],
       "rank": 3,
       "source": {
-        "engagementCapturedAt": "2026-08-13T06:57:00+08:00"
+      "engagementCapturedAt": "2026-08-13T07:18:20+08:00"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 7,
-          "commentCount": 2,
-          "favoriteCount": 2,
-          "shareCount": 0
-        }
-      ],
-      "likeCount": 7,
+      {
+        "capturedAt": "2026-08-13T06:35:34+08:00",
+        "likeCount": 7,
+        "commentCount": 2,
+        "favoriteCount": 2,
+        "shareCount": 0
+      },
+      {
+        "capturedAt": "2026-08-13T06:57:00+08:00",
+        "likeCount": 7,
+        "commentCount": 2,
+        "favoriteCount": 2,
+        "shareCount": 0
+      }
+    ],
+    "likeCount": 8,
       "commentCount": 2,
       "favoriteCount": 2,
       "shareCount": 0
@@ -152,21 +166,28 @@
       ],
       "rank": 4,
       "source": {
-        "engagementCapturedAt": "2026-08-13T06:57:00+08:00"
+      "engagementCapturedAt": "2026-08-13T07:18:20+08:00"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 23,
-          "commentCount": 0,
-          "favoriteCount": 9,
-          "shareCount": 10
-        }
-      ],
+      {
+        "capturedAt": "2026-08-13T06:35:34+08:00",
+        "likeCount": 23,
+        "commentCount": 0,
+        "favoriteCount": 9,
+        "shareCount": 10
+      },
+      {
+        "capturedAt": "2026-08-13T06:57:00+08:00",
+        "likeCount": 23,
+        "commentCount": 4,
+        "favoriteCount": 9,
+        "shareCount": 10
+      }
+    ],
       "likeCount": 23,
       "commentCount": 4,
       "favoriteCount": 9,
-      "shareCount": 10
+    "shareCount": 12
     },
     {
       "videoUrl": null,
@@ -210,20 +231,27 @@
       ],
       "rank": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-13T06:57:00+08:00"
+      "engagementCapturedAt": "2026-08-13T07:18:20+08:00"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 145,
-          "commentCount": 6,
-          "favoriteCount": 158,
-          "shareCount": 17
-        }
-      ],
-      "likeCount": 147,
-      "commentCount": 6,
-      "favoriteCount": 161,
+      {
+        "capturedAt": "2026-08-13T06:35:34+08:00",
+        "likeCount": 145,
+        "commentCount": 6,
+        "favoriteCount": 158,
+        "shareCount": 17
+      },
+      {
+        "capturedAt": "2026-08-13T06:57:00+08:00",
+        "likeCount": 147,
+        "commentCount": 6,
+        "favoriteCount": 161,
+        "shareCount": 18
+      }
+    ],
+    "likeCount": 147,
+    "commentCount": 6,
+    "favoriteCount": 163,
       "shareCount": 18
     },
     {
@@ -541,21 +569,28 @@
           "favoriteCount": 4,
           "shareCount": 0
         },
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 16,
-          "commentCount": 0,
-          "favoriteCount": 13,
-          "shareCount": 3
-        }
-      ],
-      "source": {
-        "engagementCapturedAt": "2026-08-13T06:57:00+08:00"
+      {
+        "capturedAt": "2026-08-13T06:35:34+08:00",
+        "likeCount": 16,
+        "commentCount": 0,
+        "favoriteCount": 13,
+        "shareCount": 3
       },
-      "likeCount": 22,
+      {
+        "capturedAt": "2026-08-13T06:57:00+08:00",
+        "likeCount": 22,
+        "commentCount": 0,
+        "favoriteCount": 15,
+        "shareCount": 6
+      }
+    ],
+    "source": {
+      "engagementCapturedAt": "2026-08-13T07:18:20+08:00"
+    },
+    "likeCount": 26,
       "commentCount": 0,
-      "favoriteCount": 15,
-      "shareCount": 6
+    "favoriteCount": 19,
+    "shareCount": 8
     },
     {
       "videoUrl": null,
