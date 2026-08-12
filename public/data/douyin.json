@@ -283,13 +283,20 @@
       "rank": 1,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:22:11+08:00"
       },
       "likeCount": 8,
       "commentCount": 0,
       "favoriteCount": 2,
       "shareCount": 0,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 8,
+          "commentCount": 0,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-12T11:34:03.856+08:00",
           "likeCount": 7,
