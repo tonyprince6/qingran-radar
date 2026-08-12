@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-12T04:36:05.158Z",
-    "engagementCapturedAt": "2026-08-12T05:58:49.898Z",
+    "engagementCapturedAt": "2026-08-12T15:00:00+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -120,7 +120,7 @@
       "rank": 4,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
       },
       "likeCount": 51,
       "commentCount": 1,
@@ -136,6 +136,13 @@
         },
         {
           "capturedAt": "2026-08-12T05:58:49.898Z",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -189,7 +196,7 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
       }
     },
     {
@@ -808,9 +815,16 @@
           "commentCount": 1,
           "favoriteCount": 5,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 38,
+          "commentCount": 1,
+          "favoriteCount": 5,
+          "shareCount": 4
         }
       ],
-      "likeCount": 38,
+      "likeCount": 39,
       "commentCount": 1,
       "favoriteCount": 5,
       "shareCount": 4
@@ -835,7 +849,7 @@
       ],
       "rank": 11,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
       },
       "likeCount": 6,
       "commentCount": 1,
@@ -955,6 +969,13 @@
           "commentCount": 3,
           "favoriteCount": 38,
           "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 52,
+          "commentCount": 3,
+          "favoriteCount": 40,
+          "shareCount": 20
         }
       ]
     },
@@ -979,7 +1000,7 @@
       ],
       "rank": 14,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
       },
       "lastMetricError": "主视频操作区未显示完整四项数值",
       "likeCount": 9,
@@ -1070,6 +1091,13 @@
           "commentCount": 3,
           "favoriteCount": 12,
           "shareCount": 11
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 36,
+          "commentCount": 3,
+          "favoriteCount": 12,
+          "shareCount": 11
         }
       ]
     },
@@ -1093,7 +1121,7 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
       },
       "engagementHistory": [
         {
@@ -1199,6 +1227,13 @@
           "likeCount": 58,
           "commentCount": 11,
           "favoriteCount": 12,
+          "shareCount": 62
+        },
+        {
+          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 59,
+          "commentCount": 11,
+          "favoriteCount": 13,
           "shareCount": 62
         }
       ],
