@@ -85,7 +85,8 @@
           "favoriteCount": 0,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
     },
     {
       "videoUrl": null,
@@ -350,7 +351,8 @@
       "likeCount": 6,
       "commentCount": 1,
       "favoriteCount": 0,
-      "shareCount": 0
+      "shareCount": 0,
+      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
     },
     {
       "videoUrl": null,
@@ -471,7 +473,8 @@
           "favoriteCount": 2,
           "shareCount": 0
         }
-      ]
+      ],
+      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672769725160249920",
@@ -768,7 +771,8 @@
       "likeCount": 34,
       "commentCount": 3,
       "favoriteCount": 15,
-      "shareCount": 5
+      "shareCount": 5,
+      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
     },
     {
       "videoUrl": null,
