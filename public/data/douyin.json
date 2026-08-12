@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-13T04:36:00+08:00",
-    "engagementCapturedAt": "2026-08-13T06:16:06+08:00",
+    "engagementCapturedAt": "2026-08-13T06:35:34+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -55,7 +55,14 @@
         "主体：讲解水果篇的选择思路",
         "收束：回到生活化减脂与体重管理"
       ],
-      "rank": 1
+      "rank": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T06:35:34+08:00"
+      },
+      "likeCount": 14,
+      "commentCount": 0,
+      "favoriteCount": 8,
+      "shareCount": 2
     },
     {
       "videoUrl": null,
@@ -97,7 +104,14 @@
         "主体：记录Day113减重进度",
         "收束：关联减脂餐与体重管理"
       ],
-      "rank": 3
+      "rank": 3,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T06:35:34+08:00"
+      },
+      "likeCount": 7,
+      "commentCount": 2,
+      "favoriteCount": 2,
+      "shareCount": 0
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673145077351173267",
@@ -118,7 +132,14 @@
         "主体：列举四大好处",
         "收束：回到女性健康与体重管理"
       ],
-      "rank": 4
+      "rank": 4,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T06:35:34+08:00"
+      },
+      "likeCount": 23,
+      "commentCount": 0,
+      "favoriteCount": 9,
+      "shareCount": 10
     },
     {
       "videoUrl": null,
@@ -160,7 +181,14 @@
         "主体：展示低卡炒菜做法",
         "收束：强调生活化减脂"
       ],
-      "rank": 6
+      "rank": 6,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T06:35:34+08:00"
+      },
+      "likeCount": 145,
+      "commentCount": 6,
+      "favoriteCount": 158,
+      "shareCount": 17
     },
     {
       "videoUrl": null,
@@ -469,16 +497,22 @@
           "commentCount": 0,
           "favoriteCount": 4,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-13T06:16:06+08:00",
+          "likeCount": 10,
+          "commentCount": 6,
+          "favoriteCount": 4,
+          "shareCount": 0
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-13T06:16:06+08:00",
-        "lastMetricError": "收藏和分享数在主视频操作区未显示可验证数值；保留上次值。"
+        "engagementCapturedAt": "2026-08-13T06:35:34+08:00"
       },
-      "likeCount": 10,
-      "commentCount": 6,
-      "favoriteCount": 4,
-      "shareCount": 0
+      "likeCount": 16,
+      "commentCount": 0,
+      "favoriteCount": 13,
+      "shareCount": 3
     },
     {
       "videoUrl": null,
