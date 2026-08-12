@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-11T20:34:29.239Z",
-    "engagementCapturedAt": "2026-08-11T23:17:47.000Z",
+    "engagementCapturedAt": "2026-08-12T08:29:16+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -57,7 +57,7 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
+        "engagementCapturedAt": "2026-08-12T08:29:16+08:00"
       },
       "engagementHistory": [
         {
@@ -87,11 +87,18 @@
           "commentCount": 0,
           "favoriteCount": 3,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-12T08:06:46+08:00",
+          "likeCount": 18,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 4
         }
       ],
       "likeCount": 18,
-      "commentCount": 1,
-      "favoriteCount": 4,
+      "commentCount": 2,
+      "favoriteCount": 6,
       "shareCount": 4
     },
     {
@@ -282,7 +289,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
+        "engagementCapturedAt": "2026-08-12T08:29:16+08:00"
       },
       "engagementHistory": [
         {
@@ -354,13 +361,19 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 26,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 1
         }
       ],
-      "likeCount": 26,
+      "likeCount": 31,
       "commentCount": 1,
       "favoriteCount": 4,
-      "shareCount": 1,
-      "lastMetricError": "主视频操作区未就绪或不唯一"
+      "shareCount": 2
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672592602927478242",
