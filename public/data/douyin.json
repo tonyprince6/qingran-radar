@@ -57,9 +57,16 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 11,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 4
+        },
         {
           "capturedAt": "2026-08-11T23:17:47.000Z",
           "likeCount": 9,
@@ -82,7 +89,7 @@
           "shareCount": 4
         }
       ],
-      "likeCount": 11,
+      "likeCount": 18,
       "commentCount": 1,
       "favoriteCount": 4,
       "shareCount": 4
@@ -353,7 +360,7 @@
       "commentCount": 1,
       "favoriteCount": 4,
       "shareCount": 1,
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未就绪或不唯一"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672592602927478242",
@@ -405,7 +412,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未显示完整四项数值"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672729801803852751",
@@ -427,13 +434,20 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
-      "likeCount": 44,
+      "likeCount": 47,
       "commentCount": 3,
       "favoriteCount": 32,
       "shareCount": 20,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 44,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 20
+        },
         {
           "capturedAt": "2026-08-11T18:42:09.000Z",
           "likeCount": 41,
@@ -469,8 +483,7 @@
           "favoriteCount": 32,
           "shareCount": 20
         }
-      ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      ]
     },
     {
       "videoUrl": null,
@@ -516,7 +529,7 @@
       "source": {
         "lastMetricError": "分享未显示可读数值"
       },
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未显示完整四项数值"
     },
     {
       "videoUrl": null,
@@ -560,13 +573,20 @@
       ],
       "rank": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "likeCount": 34,
       "commentCount": 3,
       "favoriteCount": 12,
       "shareCount": 11,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 34,
+          "commentCount": 3,
+          "favoriteCount": 12,
+          "shareCount": 11
+        },
         {
           "capturedAt": "2026-08-11T22:24:04.100Z",
           "likeCount": 34,
@@ -603,9 +623,16 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 45,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 32
+        },
         {
           "capturedAt": "2026-08-11T22:24:04.100Z",
           "likeCount": 45,
@@ -694,7 +721,7 @@
       "likeCount": 45,
       "commentCount": 7,
       "favoriteCount": 10,
-      "shareCount": 32
+      "shareCount": 35
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672713563697450292",
@@ -717,13 +744,20 @@
       ],
       "rank": 18,
       "source": {
-        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
-      "likeCount": 85,
-      "commentCount": 22,
-      "favoriteCount": 56,
-      "shareCount": 29,
+      "likeCount": 90,
+      "commentCount": 25,
+      "favoriteCount": 64,
+      "shareCount": 34,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 85,
+          "commentCount": 22,
+          "favoriteCount": 56,
+          "shareCount": 29
+        },
         {
           "capturedAt": "2026-08-11T21:40:41.000Z",
           "likeCount": 81,
@@ -731,8 +765,7 @@
           "favoriteCount": 51,
           "shareCount": 28
         }
-      ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672665186536792010",
@@ -754,9 +787,16 @@
       ],
       "rank": 19,
       "source": {
-        "engagementCapturedAt": "2026-08-11T22:24:04.100Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 148,
+          "commentCount": 24,
+          "favoriteCount": 23,
+          "shareCount": 6
+        },
         {
           "capturedAt": "2026-08-11T14:23:55.000Z",
           "likeCount": 114,
@@ -807,11 +847,10 @@
           "shareCount": 6
         }
       ],
-      "likeCount": 148,
+      "likeCount": 150,
       "commentCount": 24,
       "favoriteCount": 23,
-      "shareCount": 6,
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "shareCount": 6
     },
     {
       "videoUrl": null,
@@ -895,9 +934,16 @@
       ],
       "rank": 23,
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 14000,
+          "commentCount": 651,
+          "favoriteCount": 2432,
+          "shareCount": 39000
+        },
         {
           "capturedAt": "2026-08-11T22:24:04.100Z",
           "likeCount": 13000,
@@ -963,9 +1009,9 @@
         }
       ],
       "likeCount": 14000,
-      "commentCount": 651,
-      "favoriteCount": 2432,
-      "shareCount": 39000
+      "commentCount": 683,
+      "favoriteCount": 2490,
+      "shareCount": 40000
     },
     {
       "videoUrl": null,
@@ -1071,14 +1117,21 @@
         "收束：回到健康减脂方式"
       ],
       "rank": 28,
-      "likeCount": 14,
-      "commentCount": 30,
+      "likeCount": 16,
+      "commentCount": 31,
       "favoriteCount": 1,
       "shareCount": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 14,
+          "commentCount": 30,
+          "favoriteCount": 1,
+          "shareCount": 6
+        },
         {
           "capturedAt": "2026-08-11T22:24:04.100Z",
           "likeCount": 12,
@@ -1147,6 +1200,13 @@
       "favoriteCount": 7,
       "shareCount": 7,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 69,
+          "commentCount": 1,
+          "favoriteCount": 7,
+          "shareCount": 7
+        },
         {
           "capturedAt": "2026-08-11T22:24:04.100Z",
           "likeCount": 69,
@@ -1261,7 +1321,7 @@
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-11T23:39:58.122Z"
+        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
       }
     },
     {
@@ -1363,7 +1423,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未显示完整四项数值"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672620764167758435",
@@ -1450,7 +1510,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未显示完整四项数值"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672586634424609147",
@@ -1537,7 +1597,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "主视频操作区互动数据未完整呈现；保留上次有效值。"
+      "lastMetricError": "主视频操作区未显示完整四项数值"
     },
     {
       "videoUrl": null,
