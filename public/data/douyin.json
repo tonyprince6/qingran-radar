@@ -57,13 +57,20 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+        "engagementCapturedAt": "2026-08-12T23:19:42+08:00"
       },
       "likeCount": 13,
       "commentCount": 3,
       "favoriteCount": 0,
       "shareCount": 0,
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T13:42:34.027Z",
+          "likeCount": 13,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-12T21:22:21+08:00",
           "likeCount": 13,
@@ -86,7 +93,7 @@
           "shareCount": 0
         }
       ],
-      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
+      "lastMetricError": null
     },
     {
       "videoUrl": null,
