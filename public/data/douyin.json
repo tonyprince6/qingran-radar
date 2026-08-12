@@ -238,7 +238,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-12T23:19:42+08:00"
+        "engagementCapturedAt": "2026-08-13T01:01:18+08:00"
       },
       "likeCount": 13,
       "commentCount": 3,
@@ -268,6 +268,13 @@
         },
         {
           "capturedAt": "2026-08-12T20:09:25+08:00",
+          "likeCount": 13,
+          "commentCount": 3,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T23:19:42+08:00",
           "likeCount": 13,
           "commentCount": 3,
           "favoriteCount": 0,
@@ -338,9 +345,17 @@
         "收束：回到体重管理日常"
       ],
       "rank": 13,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T13:42:34.027Z",
+          "likeCount": 3,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "source": {
-        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+        "engagementCapturedAt": "2026-08-13T01:01:18+08:00"
       },
       "likeCount": 3,
       "commentCount": 2,
@@ -486,16 +501,23 @@
       "favoriteCount": 1,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+        "engagementCapturedAt": "2026-08-13T01:01:18+08:00"
       },
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-12T15:00:00+08:00",
-          "likeCount": 3,
-          "commentCount": 0,
-          "favoriteCount": 1,
-          "shareCount": 0
-        }
+    {
+      "capturedAt": "2026-08-12T15:00:00+08:00",
+      "likeCount": 3,
+      "commentCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 0
+    },
+    {
+      "capturedAt": "2026-08-12T16:20:15+08:00",
+      "likeCount": 3,
+      "commentCount": 0,
+      "favoriteCount": 1,
+      "shareCount": 0
+    }
       ]
     },
     {
@@ -539,11 +561,19 @@
         "收束：引导选择可持续生活习惯"
       ],
       "rank": 19,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T13:42:34.027Z",
+          "likeCount": 6,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
+        }
+      ],
       "source": {
-        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+        "engagementCapturedAt": "2026-08-13T01:01:18+08:00"
       },
-      "likeCount": 6,
+      "likeCount": 7,
       "commentCount": 1,
       "favoriteCount": 0,
       "shareCount": 0,
