@@ -187,29 +187,15 @@
       "rank": 5,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T13:42:34.027Z"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
       "likeCount": 53,
       "commentCount": 1,
-      "favoriteCount": 21,
+      "favoriteCount": 22,
       "shareCount": 12,
       "engagementHistory": [
         {
-          "capturedAt": "2026-08-12T16:20:15+08:00",
-          "likeCount": 51,
-          "commentCount": 1,
-          "favoriteCount": 20,
-          "shareCount": 12
-        },
-        {
-          "capturedAt": "2026-08-12T15:00:00+08:00",
-          "likeCount": 51,
-          "commentCount": 1,
-          "favoriteCount": 20,
-          "shareCount": 12
-        },
-        {
-          "capturedAt": "2026-08-12T14:38:23+08:00",
+          "capturedAt": "2026-08-12T13:04:26+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
@@ -223,10 +209,31 @@
           "shareCount": 12
         },
         {
-          "capturedAt": "2026-08-12T13:04:26+08:00",
+          "capturedAt": "2026-08-12T14:38:23+08:00",
           "likeCount": 51,
           "commentCount": 1,
           "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T15:00:00+08:00",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T16:20:15+08:00",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        },
+        {
+          "capturedAt": "2026-08-12T13:42:34.027Z",
+          "likeCount": 53,
+          "commentCount": 1,
+          "favoriteCount": 21,
           "shareCount": 12
         }
       ]
@@ -445,12 +452,12 @@
       "rank": 14,
       "lastLinkAttemptAt": "2026-08-12T10:06:52+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
-      "likeCount": 9,
-      "commentCount": 1,
+      "likeCount": 10,
+      "commentCount": 2,
       "favoriteCount": 2,
-      "shareCount": 0,
+      "shareCount": 1,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-12T11:34:03.856+08:00",
@@ -479,9 +486,15 @@
           "commentCount": 0,
           "favoriteCount": 2,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T16:20:15+08:00",
+          "likeCount": 9,
+          "commentCount": 1,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672769725160249920",
@@ -577,16 +590,23 @@
       ],
       "rank": 17,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
-      "likeCount": 1,
+      "likeCount": 2,
       "commentCount": 2,
       "favoriteCount": 0,
       "shareCount": 0,
       "source": {
-        "engagementCapturedAt": "2026-08-12T20:09:25+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
       "engagementHistory": [
         {
           "capturedAt": "2026-08-12T14:38:23+08:00",
+          "likeCount": 1,
+          "commentCount": 2,
+          "favoriteCount": 0,
+          "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T20:09:25+08:00",
           "likeCount": 1,
           "commentCount": 2,
           "favoriteCount": 0,
@@ -687,7 +707,7 @@
       ],
       "rank": 20,
       "source": {
-        "engagementCapturedAt": "2026-08-12T16:20:15+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
       "engagementHistory": [
         {
@@ -778,8 +798,7 @@
       "likeCount": 34,
       "commentCount": 3,
       "favoriteCount": 15,
-      "shareCount": 5,
-      "lastMetricError": "详情页持续显示“视频数据加载中”，未能可靠读取主视频操作区互动数据。"
+      "shareCount": 5
     },
     {
       "videoUrl": null,
@@ -948,7 +967,7 @@
       ],
       "rank": 28,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
       "engagementHistory": [
         {
@@ -1050,10 +1069,10 @@
           "shareCount": 4
         }
       ],
-      "likeCount": 39,
+      "likeCount": 51,
       "commentCount": 1,
-      "favoriteCount": 5,
-      "shareCount": 4
+      "favoriteCount": 8,
+      "shareCount": 8
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672592602927478242",
@@ -1075,9 +1094,9 @@
       ],
       "rank": 29,
       "source": {
-        "engagementCapturedAt": "2026-08-12T15:00:00+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
-      "likeCount": 6,
+      "likeCount": 8,
       "commentCount": 1,
       "favoriteCount": 0,
       "shareCount": 0,
@@ -1109,9 +1128,15 @@
           "commentCount": 1,
           "favoriteCount": 0,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-12T15:00:00+08:00",
+          "likeCount": 6,
+          "commentCount": 1,
+          "favoriteCount": 0,
+          "shareCount": 0
         }
-      ],
-      "lastMetricError": "主视频操作区未显示完整四项数值"
+      ]
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672729801803852751",
@@ -1133,12 +1158,12 @@
       ],
       "rank": 30,
       "source": {
-        "engagementCapturedAt": "2026-08-12T14:38:23+08:00"
+        "engagementCapturedAt": "2026-08-13T00:19:44+08:00"
       },
-      "likeCount": 52,
-      "commentCount": 3,
-      "favoriteCount": 40,
-      "shareCount": 20,
+      "likeCount": 289,
+      "commentCount": 27,
+      "favoriteCount": 207,
+      "shareCount": 214,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-11T18:42:09.000Z",
