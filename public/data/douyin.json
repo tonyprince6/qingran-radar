@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-12T04:36:05.158Z",
-    "engagementCapturedAt": "2026-08-12T13:04:26+08:00",
+    "engagementCapturedAt": "2026-08-12T05:58:49.898Z",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -120,13 +120,21 @@
       "rank": 4,
       "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
       "source": {
-        "engagementCapturedAt": "2026-08-12T13:04:26+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
       "likeCount": 51,
       "commentCount": 1,
       "favoriteCount": 20,
       "shareCount": 12,
-      "engagementHistory": []
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-12T13:04:26+08:00",
+          "likeCount": 51,
+          "commentCount": 1,
+          "favoriteCount": 20,
+          "shareCount": 12
+        }
+      ]
     },
     {
       "videoUrl": null,
@@ -373,7 +381,14 @@
         "收束：强调自律与健康饮食"
       ],
       "rank": 9,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "likeCount": 148,
+      "commentCount": 7,
+      "favoriteCount": 196,
+      "shareCount": 118,
+      "source": {
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
+      }
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672800527969378246",
@@ -396,21 +411,14 @@
       ],
       "rank": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-12T09:18:00+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
       "engagementHistory": [
         {
-          "capturedAt": "2026-08-11T23:39:58.122Z",
-          "likeCount": 11,
-          "commentCount": 1,
-          "favoriteCount": 4,
-          "shareCount": 4
-        },
-        {
-          "capturedAt": "2026-08-11T23:17:47.000Z",
-          "likeCount": 9,
-          "commentCount": 1,
-          "favoriteCount": 4,
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 7,
+          "commentCount": 0,
+          "favoriteCount": 3,
           "shareCount": 4
         },
         {
@@ -421,10 +429,17 @@
           "shareCount": 4
         },
         {
-          "capturedAt": "2026-08-11T22:24:04.100Z",
-          "likeCount": 7,
-          "commentCount": 0,
-          "favoriteCount": 3,
+          "capturedAt": "2026-08-11T23:17:47.000Z",
+          "likeCount": 9,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 11,
+          "commentCount": 1,
+          "favoriteCount": 4,
           "shareCount": 4
         },
         {
@@ -463,9 +478,9 @@
           "shareCount": 5
         }
       ],
-      "likeCount": 32,
+      "likeCount": 34,
       "commentCount": 2,
-      "favoriteCount": 13,
+      "favoriteCount": 15,
       "shareCount": 5
     },
     {
@@ -635,7 +650,7 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-12T08:29:16+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
       "engagementHistory": [
         {
@@ -714,12 +729,19 @@
           "commentCount": 1,
           "favoriteCount": 4,
           "shareCount": 1
+        },
+        {
+          "capturedAt": "2026-08-12T08:29:16+08:00",
+          "likeCount": 31,
+          "commentCount": 1,
+          "favoriteCount": 4,
+          "shareCount": 2
         }
       ],
-      "likeCount": 31,
+      "likeCount": 36,
       "commentCount": 1,
-      "favoriteCount": 4,
-      "shareCount": 2
+      "favoriteCount": 5,
+      "shareCount": 4
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672592602927478242",
@@ -793,20 +815,13 @@
       ],
       "rank": 12,
       "source": {
-        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
-      "likeCount": 47,
+      "likeCount": 51,
       "commentCount": 3,
-      "favoriteCount": 32,
+      "favoriteCount": 38,
       "shareCount": 20,
       "engagementHistory": [
-        {
-          "capturedAt": "2026-08-11T22:24:04.100Z",
-          "likeCount": 44,
-          "commentCount": 3,
-          "favoriteCount": 32,
-          "shareCount": 20
-        },
         {
           "capturedAt": "2026-08-11T18:42:09.000Z",
           "likeCount": 41,
@@ -838,6 +853,20 @@
         {
           "capturedAt": "2026-08-11T21:40:41.000Z",
           "likeCount": 42,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 44,
+          "commentCount": 3,
+          "favoriteCount": 32,
+          "shareCount": 20
+        },
+        {
+          "capturedAt": "2026-08-12T08:06:46+08:00",
+          "likeCount": 47,
           "commentCount": 3,
           "favoriteCount": 32,
           "shareCount": 20
@@ -911,16 +940,16 @@
       ],
       "rank": 16,
       "source": {
-        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
-      "likeCount": 34,
+      "likeCount": 36,
       "commentCount": 3,
       "favoriteCount": 12,
       "shareCount": 11,
       "engagementHistory": [
         {
-          "capturedAt": "2026-08-11T23:39:58.122Z",
-          "likeCount": 34,
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 33,
           "commentCount": 3,
           "favoriteCount": 12,
           "shareCount": 11
@@ -933,8 +962,15 @@
           "shareCount": 11
         },
         {
-          "capturedAt": "2026-08-11T21:40:41.000Z",
-          "likeCount": 33,
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 34,
+          "commentCount": 3,
+          "favoriteCount": 12,
+          "shareCount": 11
+        },
+        {
+          "capturedAt": "2026-08-12T08:06:46+08:00",
+          "likeCount": 34,
           "commentCount": 3,
           "favoriteCount": 12,
           "shareCount": 11
@@ -961,83 +997,13 @@
       ],
       "rank": 17,
       "source": {
-        "engagementCapturedAt": "2026-08-12T08:06:46+08:00"
+        "engagementCapturedAt": "2026-08-12T05:58:49.898Z"
       },
       "engagementHistory": [
         {
-          "capturedAt": "2026-08-11T23:39:58.122Z",
-          "likeCount": 45,
-          "commentCount": 7,
-          "favoriteCount": 10,
-          "shareCount": 32
-        },
-        {
-          "capturedAt": "2026-08-11T22:24:04.100Z",
-          "likeCount": 45,
-          "commentCount": 7,
-          "favoriteCount": 10,
-          "shareCount": 30
-        },
-        {
-          "capturedAt": "2026-08-11T21:40:41.000Z",
-          "likeCount": 44,
-          "commentCount": 7,
-          "favoriteCount": 10,
-          "shareCount": 30
-        },
-        {
-          "capturedAt": "2026-08-11T20:51:16.000Z",
-          "likeCount": 44,
-          "commentCount": 7,
-          "favoriteCount": 10,
-          "shareCount": 29
-        },
-        {
-          "capturedAt": "2026-08-11T19:08:11.905Z",
-          "likeCount": 24,
-          "commentCount": 5,
-          "favoriteCount": 4,
-          "shareCount": 17
-        },
-        {
-          "capturedAt": "2026-08-11T18:42:09.000Z",
-          "likeCount": 21,
-          "commentCount": 5,
-          "favoriteCount": 4,
-          "shareCount": 13
-        },
-        {
-          "capturedAt": "2026-08-11T16:58:13.000Z",
-          "likeCount": 13,
-          "commentCount": 4,
-          "favoriteCount": 3,
-          "shareCount": 7
-        },
-        {
-          "capturedAt": "2026-08-11T16:42:05.000Z",
-          "likeCount": 13,
-          "commentCount": 4,
-          "favoriteCount": 3,
-          "shareCount": 6
-        },
-        {
-          "capturedAt": "2026-08-11T16:04:30.489Z",
-          "likeCount": 12,
-          "commentCount": 4,
-          "favoriteCount": 3,
-          "shareCount": 6
-        },
-        {
-          "capturedAt": "2026-08-11T15:21:09.000Z",
-          "likeCount": 11,
-          "commentCount": 4,
-          "favoriteCount": 3,
-          "shareCount": 5
-        },
-        {
-          "capturedAt": "2026-08-11T15:00:38.853Z",
-          "likeCount": 10,
-          "commentCount": 4,
+          "capturedAt": "2026-08-11T13:42:20.000Z",
+          "likeCount": 9,
+          "commentCount": 3,
           "favoriteCount": 3,
           "shareCount": 4
         },
@@ -1049,17 +1015,94 @@
           "shareCount": 4
         },
         {
-          "capturedAt": "2026-08-11T13:42:20.000Z",
-          "likeCount": 9,
-          "commentCount": 3,
+          "capturedAt": "2026-08-11T15:00:38.853Z",
+          "likeCount": 10,
+          "commentCount": 4,
           "favoriteCount": 3,
           "shareCount": 4
+        },
+        {
+          "capturedAt": "2026-08-11T15:21:09.000Z",
+          "likeCount": 11,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 5
+        },
+        {
+          "capturedAt": "2026-08-11T16:04:30.489Z",
+          "likeCount": 12,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T16:42:05.000Z",
+          "likeCount": 13,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 6
+        },
+        {
+          "capturedAt": "2026-08-11T16:58:13.000Z",
+          "likeCount": 13,
+          "commentCount": 4,
+          "favoriteCount": 3,
+          "shareCount": 7
+        },
+        {
+          "capturedAt": "2026-08-11T18:42:09.000Z",
+          "likeCount": 21,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 13
+        },
+        {
+          "capturedAt": "2026-08-11T19:08:11.905Z",
+          "likeCount": 24,
+          "commentCount": 5,
+          "favoriteCount": 4,
+          "shareCount": 17
+        },
+        {
+          "capturedAt": "2026-08-11T20:51:16.000Z",
+          "likeCount": 44,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 29
+        },
+        {
+          "capturedAt": "2026-08-11T21:40:41.000Z",
+          "likeCount": 44,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 30
+        },
+        {
+          "capturedAt": "2026-08-11T22:24:04.100Z",
+          "likeCount": 45,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 30
+        },
+        {
+          "capturedAt": "2026-08-11T23:39:58.122Z",
+          "likeCount": 45,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 32
+        },
+        {
+          "capturedAt": "2026-08-12T08:06:46+08:00",
+          "likeCount": 45,
+          "commentCount": 7,
+          "favoriteCount": 10,
+          "shareCount": 35
         }
       ],
-      "likeCount": 45,
-      "commentCount": 7,
-      "favoriteCount": 10,
-      "shareCount": 35
+      "likeCount": 58,
+      "commentCount": 11,
+      "favoriteCount": 12,
+      "shareCount": 62
     },
     {
       "videoUrl": "https://www.douyin.com/video/7672713563697450292",
