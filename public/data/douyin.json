@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-12T04:36:05.158Z",
-    "engagementCapturedAt": "2026-08-12T11:34:03.856+08:00",
+    "engagementCapturedAt": "2026-08-12T13:04:26+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -115,7 +115,15 @@
         "收束：关联内脏脂肪与生活方式"
       ],
       "rank": 4,
-      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00"
+      "lastLinkAttemptAt": "2026-08-12T09:02:34+08:00",
+      "source": {
+        "engagementCapturedAt": "2026-08-12T13:04:26+08:00"
+      },
+      "likeCount": 51,
+      "commentCount": 1,
+      "favoriteCount": 20,
+      "shareCount": 12,
+      "engagementHistory": []
     },
     {
       "videoUrl": null,
