@@ -37,11 +37,11 @@
   ],
   "videos": [
     {
-      "videoUrl": null,
+      "videoUrl": "https://www.douyin.com/video/7672812014788645958",
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "pending",
+      "linkMatchStatus": "matched",
       "nextLinkRetryAt": null,
       "lastLinkAttemptAt": null,
       "title": "day44｜188斤大基数减肥第44天已瘦14.6斤 #减肥打卡记录 #减脂餐 #体重管理日常",
