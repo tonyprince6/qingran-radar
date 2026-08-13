@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-13T08:33:28+08:00",
-    "engagementCapturedAt": "2026-08-13T08:39:47+08:00",
+    "engagementCapturedAt": "2026-08-13T09:00:07+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -141,9 +141,16 @@
       ],
       "rank": 5,
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 8,
+          "commentCount": 2,
+          "favoriteCount": 2,
+          "shareCount": 0
+        },
         {
           "capturedAt": "2026-08-13T06:35:34+08:00",
           "likeCount": 7,
@@ -173,7 +180,7 @@
           "shareCount": 0
         }
       ],
-      "likeCount": 8,
+      "likeCount": 9,
       "commentCount": 2,
       "favoriteCount": 2,
       "shareCount": 0
@@ -199,9 +206,16 @@
       ],
       "rank": 6,
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 24,
+          "commentCount": 4,
+          "favoriteCount": 10,
+          "shareCount": 17
+        },
         {
           "capturedAt": "2026-08-13T06:35:34+08:00",
           "likeCount": 23,
@@ -224,11 +238,10 @@
           "shareCount": 12
         }
       ],
-      "likeCount": 24,
-      "commentCount": 4,
+      "likeCount": 25,
+      "commentCount": 5,
       "favoriteCount": 10,
-      "shareCount": 17,
-      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
+      "shareCount": 18
     },
     {
       "videoUrl": null,
@@ -293,9 +306,16 @@
       ],
       "rank": 9,
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 149,
+          "commentCount": 6,
+          "favoriteCount": 166,
+          "shareCount": 19
+        },
         {
           "capturedAt": "2026-08-13T06:35:34+08:00",
           "likeCount": 145,
@@ -318,11 +338,10 @@
           "shareCount": 18
         }
       ],
-      "likeCount": 149,
+      "likeCount": 151,
       "commentCount": 6,
       "favoriteCount": 166,
-      "shareCount": 19,
-      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
+      "shareCount": 19
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673147300509256966",
@@ -345,9 +364,16 @@
       ],
       "rank": 10,
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
       },
       "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 16,
+          "commentCount": 0,
+          "favoriteCount": 9,
+          "shareCount": 2
+        },
         {
           "capturedAt": "2026-08-13T06:35:34+08:00",
           "likeCount": 14,
@@ -373,8 +399,7 @@
       "likeCount": 16,
       "commentCount": 0,
       "favoriteCount": 9,
-      "shareCount": 2,
-      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
+      "shareCount": 2
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673155407950871211",
@@ -396,15 +421,22 @@
         "收束：以每日打卡延续追更"
       ],
       "rank": 11,
-      "engagementHistory": [],
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 8,
+          "commentCount": 1,
+          "favoriteCount": 1,
+          "shareCount": 1
+        }
+      ],
       "likeCount": 8,
       "commentCount": 1,
       "favoriteCount": 1,
       "shareCount": 1,
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
-      },
-      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
+      }
     },
     {
       "videoUrl": null,
@@ -680,6 +712,13 @@
       "rank": 24,
       "engagementHistory": [
         {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 31,
+          "commentCount": 0,
+          "favoriteCount": 21,
+          "shareCount": 10
+        },
+        {
           "capturedAt": "2026-08-13T04:18:30+08:00",
           "likeCount": 3,
           "commentCount": 0,
@@ -741,17 +780,10 @@
           "commentCount": 0,
           "favoriteCount": 19,
           "shareCount": 8
-        },
-        {
-          "capturedAt": "2026-08-13T00:19:44.600Z",
-          "likeCount": 31,
-          "commentCount": 0,
-          "favoriteCount": 21,
-          "shareCount": 9
         }
       ],
       "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+        "engagementCapturedAt": "2026-08-13T09:00:07+08:00"
       },
       "likeCount": 31,
       "commentCount": 0,
