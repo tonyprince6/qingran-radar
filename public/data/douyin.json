@@ -3,7 +3,7 @@
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
     "capturedAt": "2026-08-13T08:33:28+08:00",
-    "engagementCapturedAt": "2026-08-13T06:57:00+08:00",
+    "engagementCapturedAt": "2026-08-13T08:39:47+08:00",
     "window": "最近24小时",
     "index": {
       "keyword": "减脂",
@@ -164,6 +164,13 @@
           "commentCount": 2,
           "favoriteCount": 2,
           "shareCount": 0
+        },
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 8,
+          "commentCount": 2,
+          "favoriteCount": 2,
+          "shareCount": 0
         }
       ],
       "likeCount": 8,
@@ -220,7 +227,8 @@
       "likeCount": 24,
       "commentCount": 4,
       "favoriteCount": 10,
-      "shareCount": 17
+      "shareCount": 17,
+      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
     },
     {
       "videoUrl": null,
@@ -313,7 +321,8 @@
       "likeCount": 149,
       "commentCount": 6,
       "favoriteCount": 166,
-      "shareCount": 19
+      "shareCount": 19,
+      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673147300509256966",
@@ -364,7 +373,8 @@
       "likeCount": 16,
       "commentCount": 0,
       "favoriteCount": 9,
-      "shareCount": 2
+      "shareCount": 2,
+      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673155407950871211",
@@ -393,7 +403,8 @@
       "shareCount": 1,
       "source": {
         "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
-      }
+      },
+      "lastMetricError": "2026-08-13T08:39:47+08:00: browser session timed out before this run's displayed values could be independently refreshed"
     },
     {
       "videoUrl": null,
@@ -730,6 +741,13 @@
           "commentCount": 0,
           "favoriteCount": 19,
           "shareCount": 8
+        },
+        {
+          "capturedAt": "2026-08-13T00:19:44.600Z",
+          "likeCount": 31,
+          "commentCount": 0,
+          "favoriteCount": 21,
+          "shareCount": 9
         }
       ],
       "source": {
@@ -738,7 +756,7 @@
       "likeCount": 31,
       "commentCount": 0,
       "favoriteCount": 21,
-      "shareCount": 9
+      "shareCount": 10
     },
     {
       "videoUrl": null,
