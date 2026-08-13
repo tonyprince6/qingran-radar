@@ -2,7 +2,7 @@
   "source": {
     "name": "抖音创作者中心",
     "url": "https://creator.douyin.com/creator-micro/creative-guidance/keyword",
-    "capturedAt": "2026-08-13T04:36:00+08:00",
+    "capturedAt": "2026-08-13T08:33:28+08:00",
     "engagementCapturedAt": "2026-08-13T06:57:00+08:00",
     "window": "最近24小时",
     "index": {
@@ -37,84 +37,88 @@
   ],
   "videos": [
     {
-      "videoUrl": "https://www.douyin.com/video/7673147300509256966",
+      "videoUrl": null,
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "lastLinkAttemptAt": "2026-08-13T05:17:34+08:00",
+      "linkMatchStatus": "pending",
+      "lastLinkAttemptAt": null,
       "nextLinkRetryAt": null,
-      "title": "女人减肥先控糖《水果篇》#自律 #生活化减脂 #爱自己爱生活 #体重管理",
-      "publishedAt": "2026年8月13日 00:13",
-      "author": "好状态的阿雅",
-      "hook": "女人减肥先控糖，从水果开始",
-      "hookType": "饮食控糖",
-      "retention": "用“先控糖”的明确结论和水果这一高频饮食场景，吸引观众继续获取减脂期水果选择方法。",
+      "title": "减肥第26天丨已下200斤？啊哈哈哈！ #减肥 #减脂 #大基数减肥 #体重管理 #减肥日常",
+      "publishedAt": "2026年8月12日 23:05",
+      "author": "因儿瘦",
+      "hook": "减肥第26天，已下200斤？",
+      "hookType": "成果悬念",
+      "retention": "用“第26天”和大幅掉秤的疑问制造反差，吸引观众继续确认真实进度与减肥日常。",
       "scriptSegments": [
-        "开场：提出减肥先控糖",
-        "主体：讲解水果篇的选择思路",
-        "收束：回到生活化减脂与体重管理"
+        "开场：公布减肥第26天与掉秤疑问",
+        "主体：展示大基数减肥的阶段进度",
+        "收束：回到减脂和体重管理日常"
       ],
-      "rank": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
-      },
-      "engagementHistory": [
-        {
-          "capturedAt": "2026-08-13T06:35:34+08:00",
-          "likeCount": 14,
-          "commentCount": 0,
-          "favoriteCount": 8,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-13T06:57:00+08:00",
-          "likeCount": 14,
-          "commentCount": 0,
-          "favoriteCount": 8,
-          "shareCount": 2
-        },
-        {
-          "capturedAt": "2026-08-13T07:18:20+08:00",
-          "likeCount": 15,
-          "commentCount": 0,
-          "favoriteCount": 8,
-          "shareCount": 2
-        }
-      ],
-      "likeCount": 16,
-      "commentCount": 0,
-      "favoriteCount": 9,
-      "shareCount": 2
+      "rank": 1
     },
     {
-      "videoUrl": "https://www.douyin.com/video/7673155407950871211",
+      "videoUrl": null,
       "coverUrl": null,
       "duration": null,
       "linkAttempts": 0,
-      "linkMatchStatus": "matched",
-      "lastLinkAttemptAt": "2026-08-13T07:58:00+08:00",
+      "linkMatchStatus": "pending",
+      "lastLinkAttemptAt": null,
       "nextLinkRetryAt": null,
-      "title": "165女生挑战两个月从120斤瘦到100斤 第32天 今日体重54.55kg#体重管理日记 #减肥每日打卡💪 #每日减肥打卡 #体重打卡日",
-      "publishedAt": "2026年8月12日 22:41",
-      "author": "小台在变美（疯狂减脂中",
-      "hook": "165女生两个月从120斤到100斤，第32天体重54.55kg",
-      "hookType": "成果打卡",
-      "retention": "以明确身高、目标周期、减重目标和当天体重形成连续追更感，促使观众关注挑战进度。",
+      "title": "减肥打卡第134天🙋‍♀️减脂期晚餐的重要性 一定要吃晚餐 吃蛋白质 帮助提高代谢🖐️#体重管理 #打卡饮食 #抖音助手#真实生活分享计",
+      "publishedAt": "2026年8月12日 23:02",
+      "author": "苏比 （目标50）",
+      "hook": "减脂期晚餐一定要吃，并补足蛋白质",
+      "hookType": "饮食建议",
+      "retention": "以第134天打卡和“晚餐一定要吃”的明确结论，回应减脂期晚餐焦虑并引导继续了解做法。",
       "scriptSegments": [
-        "开场：公布两个月减重挑战",
-        "主体：展示第32天体重54.55kg",
-        "收束：以每日打卡延续追更"
+        "开场：点出第134天减肥打卡",
+        "主体：强调晚餐和蛋白质的重要性",
+        "收束：关联代谢与体重管理"
       ],
-      "rank": 2,
-      "engagementHistory": [],
-      "likeCount": 8,
-      "commentCount": 1,
-      "favoriteCount": 1,
-      "shareCount": 1,
-      "source": {
-        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
-      }
+      "rank": 2
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "lastLinkAttemptAt": null,
+      "nextLinkRetryAt": null,
+      "title": "✅已掉40亲测🔥七天魔鬼✂️月巴法，可冲刺10～15个#女生减脂必看 #轻断食食谱来啦 #体重管理 #减肥 #减肥打卡",
+      "publishedAt": "2026年8月12日 23:02",
+      "author": "美娇健康瘦",
+      "hook": "已掉40斤，七天挑战可冲刺10到15斤",
+      "hookType": "挑战承诺",
+      "retention": "以亲测掉重成果、七天期限和明确目标强化紧迫感，驱动观众继续查看轻断食和减脂方案。",
+      "scriptSegments": [
+        "开场：展示已掉40斤的亲测成果",
+        "主体：抛出七天挑战与冲刺目标",
+        "收束：关联轻断食食谱和减肥打卡"
+      ],
+      "rank": 3
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "lastLinkAttemptAt": null,
+      "nextLinkRetryAt": null,
+      "title": "瘦子走忧郁风还挺和谐的，换成胖子就感觉有点违和了#减肥 #体重管理 #减肥逆袭 #减脂共鸣",
+      "publishedAt": "2026年8月12日 22:38",
+      "author": "瑜辉.",
+      "hook": "同样的忧郁风，胖瘦效果为何不同",
+      "hookType": "身材共鸣",
+      "retention": "用胖瘦对比制造情绪共鸣与讨论空间，促使关注身材管理的观众继续观看。",
+      "scriptSegments": [
+        "开场：提出忧郁风的胖瘦反差",
+        "主体：呈现身材带来的视觉差异",
+        "收束：关联减肥逆袭与体重管理"
+      ],
+      "rank": 4
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673146205527326705",
@@ -135,7 +139,7 @@
         "主体：记录Day113减重进度",
         "收束：关联减脂餐与体重管理"
       ],
-      "rank": 3,
+      "rank": 5,
       "source": {
         "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
       },
@@ -186,7 +190,7 @@
         "主体：列举四大好处",
         "收束：回到女性健康与体重管理"
       ],
-      "rank": 4,
+      "rank": 6,
       "source": {
         "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
       },
@@ -222,6 +226,27 @@
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "pending",
+      "lastLinkAttemptAt": null,
+      "nextLinkRetryAt": null,
+      "title": "减肥别指望靠节食快速掉秤！ 大基数、小基数减脂方法各不相同，找对方式稳步坚持，才能避免反复反弹。#大基数减肥 #小基数减脂 #体重管理 #经",
+      "publishedAt": "2026年8月12日 21:20",
+      "author": "睿妈养自己｜已瘦30斤",
+      "hook": "减肥别靠节食快速掉秤，大基数和小基数方法不同",
+      "hookType": "方法纠偏",
+      "retention": "以反节食结论和不同体重基数的差异化方法切入，吸引观众继续了解避免反弹的做法。",
+      "scriptSegments": [
+        "开场：反驳节食快速掉秤",
+        "主体：对比大基数与小基数减脂方法",
+        "收束：强调稳步坚持避免反弹"
+      ],
+      "rank": 7
+    },
+    {
+      "videoUrl": null,
+      "coverUrl": null,
+      "duration": null,
       "linkAttempts": 3,
       "linkMatchStatus": "paused",
       "lastLinkAttemptAt": "2026-08-13T03:15:52+08:00",
@@ -237,7 +262,7 @@
         "主体：提出5个提升新陈代谢的方法",
         "收束：以阶段性减重目标引导收藏"
       ],
-      "rank": 5
+      "rank": 8
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673095781783489834",
@@ -258,7 +283,7 @@
         "主体：展示低卡炒菜做法",
         "收束：强调生活化减脂"
       ],
-      "rank": 6,
+      "rank": 9,
       "source": {
         "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
       },
@@ -291,6 +316,86 @@
       "shareCount": 19
     },
     {
+      "videoUrl": "https://www.douyin.com/video/7673147300509256966",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "lastLinkAttemptAt": "2026-08-13T05:17:34+08:00",
+      "nextLinkRetryAt": null,
+      "title": "女人减肥先控糖《水果篇》#自律 #生活化减脂 #爱自己爱生活 #体重管理",
+      "publishedAt": "2026年8月13日 00:13",
+      "author": "好状态的阿雅",
+      "hook": "女人减肥先控糖，从水果开始",
+      "hookType": "饮食控糖",
+      "retention": "用“先控糖”的明确结论和水果这一高频饮食场景，吸引观众继续获取减脂期水果选择方法。",
+      "scriptSegments": [
+        "开场：提出减肥先控糖",
+        "主体：讲解水果篇的选择思路",
+        "收束：回到生活化减脂与体重管理"
+      ],
+      "rank": 10,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+      },
+      "engagementHistory": [
+        {
+          "capturedAt": "2026-08-13T06:35:34+08:00",
+          "likeCount": 14,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-13T06:57:00+08:00",
+          "likeCount": 14,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 2
+        },
+        {
+          "capturedAt": "2026-08-13T07:18:20+08:00",
+          "likeCount": 15,
+          "commentCount": 0,
+          "favoriteCount": 8,
+          "shareCount": 2
+        }
+      ],
+      "likeCount": 16,
+      "commentCount": 0,
+      "favoriteCount": 9,
+      "shareCount": 2
+    },
+    {
+      "videoUrl": "https://www.douyin.com/video/7673155407950871211",
+      "coverUrl": null,
+      "duration": null,
+      "linkAttempts": 0,
+      "linkMatchStatus": "matched",
+      "lastLinkAttemptAt": "2026-08-13T07:58:00+08:00",
+      "nextLinkRetryAt": null,
+      "title": "165女生挑战两个月从120斤瘦到100斤 第32天 今日体重54.55kg#体重管理日记 #减肥每日打卡💪 #每日减肥打卡 #体重打卡日",
+      "publishedAt": "2026年8月12日 22:41",
+      "author": "小台在变美（疯狂减脂中",
+      "hook": "165女生两个月从120斤到100斤，第32天体重54.55kg",
+      "hookType": "成果打卡",
+      "retention": "以明确身高、目标周期、减重目标和当天体重形成连续追更感，促使观众关注挑战进度。",
+      "scriptSegments": [
+        "开场：公布两个月减重挑战",
+        "主体：展示第32天体重54.55kg",
+        "收束：以每日打卡延续追更"
+      ],
+      "rank": 11,
+      "engagementHistory": [],
+      "likeCount": 8,
+      "commentCount": 1,
+      "favoriteCount": 1,
+      "shareCount": 1,
+      "source": {
+        "engagementCapturedAt": "2026-08-13T00:19:44.600Z"
+      }
+    },
+    {
       "videoUrl": null,
       "coverUrl": null,
       "duration": null,
@@ -309,7 +414,7 @@
         "主体：记录减脂期饮食与当天状态",
         "收束：落到体重管理日常"
       ],
-      "rank": 7
+      "rank": 12
     },
     {
       "videoUrl": null,
@@ -330,7 +435,7 @@
         "主体：介绍减脂相关食物",
         "收束：回到健康饮食科普"
       ],
-      "rank": 8
+      "rank": 13
     },
     {
       "videoUrl": null,
@@ -351,7 +456,7 @@
         "主体：逐项说明减脂期饮食选择",
         "收束：适配上班族与产后人群"
       ],
-      "rank": 9
+      "rank": 14
     },
     {
       "videoUrl": null,
@@ -372,7 +477,7 @@
         "主体：提出再不减肥的自我追问",
         "收束：回到身材与体重管理动力"
       ],
-      "rank": 10
+      "rank": 15
     },
     {
       "videoUrl": null,
@@ -393,7 +498,7 @@
         "主体：解释小热量缺口难守住的原因",
         "收束：给出减脂增肌的科普定位"
       ],
-      "rank": 11
+      "rank": 16
     },
     {
       "videoUrl": null,
@@ -414,7 +519,7 @@
         "主体：设定75斤目标并记录当前79.8斤",
         "收束：引出后续维持体重计划"
       ],
-      "rank": 12
+      "rank": 17
     },
     {
       "videoUrl": null,
@@ -435,7 +540,7 @@
         "主体：围绕体重管理展开",
         "收束：保持核心标签定位"
       ],
-      "rank": 13
+      "rank": 18
     },
     {
       "videoUrl": null,
@@ -456,7 +561,7 @@
         "主体：展示穿衣和拍照的变化",
         "收束：关联女性成长与身材管理"
       ],
-      "rank": 14
+      "rank": 19
     },
     {
       "videoUrl": null,
@@ -477,7 +582,7 @@
         "主体：解释是否需要减肥的判断",
         "收束：回到健康身材管理"
       ],
-      "rank": 15
+      "rank": 20
     },
     {
       "videoUrl": null,
@@ -498,7 +603,7 @@
         "主体：展开生活化减脂方法",
         "收束：回到体重管理"
       ],
-      "rank": 16
+      "rank": 21
     },
     {
       "videoUrl": null,
@@ -519,7 +624,7 @@
         "主体：说明减肥执行方式",
         "收束：强调自律与体重管理"
       ],
-      "rank": 17
+      "rank": 22
     },
     {
       "videoUrl": null,
@@ -540,7 +645,7 @@
         "主体：介绍相关饮食选择",
         "收束：强调生活化减脂"
       ],
-      "rank": 18
+      "rank": 23
     },
     {
       "videoUrl": "https://www.douyin.com/video/7673095666003922211",
@@ -561,7 +666,7 @@
         "主体：逐项讲解体重管理与减脂习惯",
         "收束：强调好好吃饭和身材管理"
       ],
-      "rank": 19,
+      "rank": 24,
       "engagementHistory": [
         {
           "capturedAt": "2026-08-13T04:18:30+08:00",
@@ -654,7 +759,7 @@
         "主体：解释减脂期可吃碳水的原则",
         "收束：强调合理分配热量"
       ],
-      "rank": 20
+      "rank": 25
     },
     {
       "videoUrl": null,
@@ -675,7 +780,7 @@
         "主体：关联姨妈期与排卵期波动",
         "收束：鼓励持续坚持"
       ],
-      "rank": 21
+      "rank": 26
     }
   ]
 }
